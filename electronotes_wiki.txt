@@ -1,0 +1,161 @@
+Electronotes
+	
+	
+	
+	
+	
+	
+	
+
+Electronotes Newsletter or Electronotes is an influential American publication about the technical details of music synthesis and other sound processing equipment, methods, and news. It is intended for readers who are at the level of a junior electrical engineering student or have a similar background.
+
+
+Contents
+
+
+1 Description
+
+2 Composition
+
+
+2.1 Except
+
+
+3 See also
+
+4 Reference
+
+5 Further reading
+
+6 External links
+
+
+Description
+The intial advert in Popular Electronics, April 1972.
+
+Electronotes was founded in 1972 by Cornell professor Bernie Hutchins. To begin with it was mimeographed and mailed out for 13 cents, (equivalent to $1 in 2021). By 1976 it had about 1500 subscribers. From EN 191, December 1999 the papers were also posted online for free download and from EN 205 available only online. In February 2020 Bernie stopped selling hard copy back issues. 
+
+The collection includes other papers such as the Musical Engineer’s Handbook, the Builder’s Guide and Preferred Circuits Collection, and numerous Application Notes of interest in the areas of analog and digital music synthesis, audio, and general signal processing.
+
+A typical set of Electronotes papers.
+
+The newsletter is a rich repository of circuits, techniques and ideas. Early subscribers and contributors to the newsletter were people like Terry Michaels, Lester Ludwig, John Marshall, Doug Slocum, Craig Anderton, Ralph Burhans, Dave Rossum, Hal Chamberlin, Howard Moskovitz, Jan Hall, Don Lancaster, William Hartman, Allen Strange, Bill Hemsath, Bob Moog, Don Buchla, Tom Oberheim, Serge Tcherepnin, Julius Smith, Marvin Jones, Peter Lutz, Alan R. Pearlman, Paul Schreiber, Doug Curtis, Grant Richter, Jim Patchell, Nyle Steiner, Graham Hinton, Robert Iodice, Martin Hurni, Dale Wills and Ian Fritz. A lot of interesting synthesizer modules, such as the ASM-2 and several CGS and Synthesizers.com ones, are based on circuits originally published in the newsletter.
+
+
+Although the theory it contains is still valid, the circuits are outdated and the hard copy is expensive for what it offers. These days, there are better resources for studying electronic circuits.
+
+
+Composition
+
+The full set of Electronotes would consist of the following, with the PDF naming convention in brackets:
+
+Electronotes Newsletter (EN)
+Begun in 1972, Electronotes Newsletter contains information related to the technical details of music synthesis and other sound processing, both equipment and methods, this material is intended for readers who are at the level of a junior electrical engineering student or have a similar background. As a newsletter this was intended as news and new material.
+Volume 1 to 4 were titled Electronotes Newsletter, volume 5 onwards were titled Electronotes: Newsletter of the Musical Engineering Group
+EN144 to EN168 are also lettered A to G.
+Up to EN 125 is analog synth design then it's DSP based.
+Extended Service (EN#A)
+This was a mid-month update.
+Supplements (S)
+
+Originally to fill in more basic or transient content. Superseded by Application Notes. Later only 14, 15, 16 and 17 were made available.
+
+Application Notes (AN)
+Begun in 1976, these are shorter, more tutorial, aimed at a somewhat wider range of signal processing and general electrical/electronic engineering applications, and carried on being published to the web.
+Mid-Month Letters (AN#A)
+Ran from 1976 to 1978 and then became the broader Perspectives, which ran from from 1979 to 1982 and then gradually stopped getting published.
+WebNotes (ENWN)
+Have somewhat arbitrary coverage "(from insights to rants)".
+Builder's Guide and Preferred Circuits Collection (EBG&PCC)
+This is a 292 page guide to constructing analogue synthesizers. It begins with foundational topics, including system planning, component sourcing, and modular design. It then offers detailed construction practices, from PCB creation to soldering and packaging. The bulk of the guide consists of carefully selected groups of Electronotes circuits, up to July 1986, that are suggested for use. It also includes appendices on troubleshooting, obtaining parts, and IC pinouts.
+Musical Engineer's Handbook (MEH)
+Written in 1975 this is a 376 page reference work on electronic music systems and engineering. It covers the basics of electronic music, waveforms, and mathematical principles, and delves into sound synthesis techniques like subtractive and additive synthesis. It includes detailed discussions on electrical components and their applications in music, circuit design, and the development of conventional and new types of music modules. It also addresses the design and construction of controllers, sequencers, and interfaces, as well as practical aspects like troubleshooting and construction techniques. The final sections provide mathematical references and engineering data.
+Theory and practice of musical sound synthesis
+Written in 1980 or soon after, this is a 66-page guide to creating both familiar and new sounds for music composition, emphasizing basic concepts and how to apply them. It covers sound synthesis, aiming not just to replicate acoustic sounds but also to expand the definition of what can be considered musical, without getting into detailed circuit specifics.
+
+Except
+
+The following were dropped from the full set.
+
+Extended Service
+70A, 72A, 73A to 133A, 134A/135A, 136A, 139A, 140A, 141A (there is no 71A, 137A, or 138A)
+Application Notes
+AN 282 this was a BASIC program that is obsolete.
+
+See also
+
+Electronotes indices
+
+Reference
+
+
+^ Electronotes website, 21 May 2015 (archived)
+
+
+^ Electronotes homepage, Feb 2020 (archived)
+
+
+^ EN62 p.1
+
+
+^ Tim Stinchcombe's Synth pages
+
+
+^ Electronotes Newsletter is a Wellspring of Music Synthesis Circuits by Shawn Wallace, Make magazine, 04/18/2012
+
+
+^ Sneak Thief's ASM-2 Modular, Matrixsynth, 3 June 2006
+
+
+^ a b Just got Electronotes - It's daunting, can you help guide me, Mod Wiggler Forum, Feb 2018
+
+
+^ History of SDIY?, Synth-DIY email list, 6 Jun 2018
+
+
+^ electronotes/musical engineer's handbook/pcc pdfs, Mod Wiggler Forum, Jun 2020
+
+
+^ a b Electronotes page, Archive of the former Yahoo!Groups mailing list: MOTM, 18 May 2001
+
+
+^ Prerequisites for reading and understanding Electronotes, Mod Wiggler Forum, Feb 2016
+
+
+^ [sdiy-market] Electronotes Set Defined by Bernard Arthur Hutchins, Jr, 26 Jul 2021
+
+
+^ Ordering is easy, Bernie Hutchins, Aug 2018
+
+
+^ Electronotes homepage, 2001(archived)
+
+
+^ Top page, Electronotes website
+
+
+^ News and special notices, Electronotes
+
+
+^ Introduction, Theory and practice of musical sound synthesis
+
+
+^ Frequently asked questions, Electronotes website
+
+
+^ Master List Of Electronotes Publications, Electonotes 96, Dec 1978, pp. 7-8
+
+
+Further reading
+
+Reader's Questions, Electronotes 93, Sep 1978, pp. 31-32 - a little bit about how Electronotes got started and something about Bernie Hutchins
+
+External links
+
+Electronotes website
+
+Interested in Notes about Electronic Music?, Byte, Oct 1976, Book Reviews, p.104
+
+electronotes/musical engineer's handbook/pcc pdfs, Mod Wiggler Forum, Nov 2014
+
+Electronotes | Synthbook by Francesco Mulassano - Soundmit, YouTube. In Italian - play the video, click for closed captions and then settings to choose your language.

@@ -1,0 +1,4652 @@
+Electronotes indices - Synth DIY Wiki
+
+
+	
+	
+	
+	
+	
+Electronotes indices
+	
+	
+	
+	
+	
+	
+	
+Contents
+
+
+1 Electronotes Newsletter
+
+
+1.1 Vol. 1 (Jan. 1972 - Jun. 1972)
+
+1.2 Vol. 2 (Jul. 1972 - Dec. 1972)
+
+1.3 Vol. 3 (Jan. 1973 - Jun. 1973)
+
+1.4 Vol. 4 (Jul. 1973 - Dec. 1973)
+
+1.5 Vol. 5 (Jan. 1974 - Jun. 1974)
+
+1.6 Vol. 6 (Jul. 1974 - Dec. 1974)
+
+1.7 Vol. 7 (Jan. 1975 - Dec. 1975)
+
+1.8 Vol. 8 (Jan. 1976 - Dec. 1976)
+
+1.9 Vol. 9 (Jan. 1977 - Dec. 1977)
+
+1.10 Vol. 10 (Jan. 1978 - Dec. 1978)
+
+1.11 Vol. 11 (Jan. 1979 - Dec. 1979)
+
+1.12 Vol. 12 (Jan. 1980 - Dec. 1980)
+
+1.13 Vol. 13 (Jan. 1981 - Dec. 1981)
+
+1.14 Vol. 14 (Jan. 1982 - Jun. 1983)
+
+1.15 Vol. 15 (Jul. 1983 - Dec. 1987)
+
+1.16 Vol. 16 (Jan. 1988 - Jul. 1989)
+
+1.17 Vol. 17 (Aug. 1989 - Jul. 1992)
+
+1.18 Vol. 18 (Apr. 1993 - Sep. 1995)
+
+1.19 Vol. 19 (Aug. 1996 - Mar. 2000)
+
+1.20 Vol. 20 ( Apr. 2000 - Sep. 2001)
+
+1.21 Vol. 21 (Dec. 2001 - Aug. 2003)
+
+1.22 Vol. 22 (Mar. 2008 - Feb. 2012)
+
+1.23 Vol. 23
+
+1.24 Vol. 24
+
+
+2 Supplements
+
+3 Application Notes
+
+4 Mid-Month + Perspectives
+
+5 WebNotes
+
+6 Musical Engineer's Handbook
+
+7 Builder's Guide and Preferred Circuits Collection
+
+
+7.1 Other contributors
+
+7.2 Notes
+
+
+8 Theory and practice of musical sound synthesis
+
+9 AES
+
+10 Bibliography
+
+11 Club tapes
+
+12 Further reading
+
+13 References
+
+
+13.1 Tim Stinchcombe web pages
+
+
+Electronotes Newsletter
+
+Electronotes Newsletter contains information related to the technical details of music synthesis and other sound processing, both equipment and methods and news, for readers who are at the level of a junior electrical engineering student or have a similar background.
+
+Volume 1 to 4 were titled Electronotes Newsletter, volume 5 onwards were titled Electronotes: Newsletter of the Musical Engineering Group
+
+Note: The 556 is the Motorola MC1456/MC1556 op-amp, not the dual 555 timer. Any op-amp with at least 2.5V/μs slew rate is suitable. The LF351 should work in its place.
+
+Some of these are reprinted in the Builder's Guide and Preferred Circuits Collection in 1986.
+
+
+Vol. 1 (Jan. 1972 - Jun. 1972)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+21 Jan	1	1	Digital synthesiser (introduction)	B.H.	
+
+
+20 Feb	2	1	Digital rhythm synthesiser	B.H.	
+
+
+2 Mar	3	1	Digital melody synthesiser	B.H.	pg.3 (diagram page); diodes 2N4148 or sim should read diodes 1N4148 or sim	
+
+
+20 Mar	4	1	(This issue contains only newsletter details and list of interesting papers)	B.H.	pg. 2 line 41; correct reference given in EN 5 line 36 of page 2	
+
+
+20 Apr	5	2	Digital synthesiser - Final comments (almost)	B.H.	
+
+
+5	Reader's circuits - VCO, fan-out expander, clock for TTL	
+
+
+6	Composition: Four sounds from the early days	B.H.	
+
+
+6	Literature review	B.H.	
+
+
+10 May	6	2	Editorial: The philosophy of electronic music	B.H.	
+
+
+5	Reader's circuits: Neon oscillator, envelope shaper, resonant amplifier	pg.5 line 13; respective voltage strings should read respective resistor st	
+
+
+6	Composition	B.H.	pg. 6 diagram; correct as given in EN 7, pg.7	
+
+
+7	Literature review	B.H.	
+
+
+10 Jun	7	4	Waveshaping	B.H.	pg. 6 FET WAVESHAPER; Other previous corrections notwithstanding, the two resistors marked R are both approximately equal to the channel resistance, R2 is the upper resistor to be trimmed for min. distortion	
+
+
+7	Reader's equipment - Digital waveshaping system	pg. 8 Block Diagram; Draw line from Word Set Switches to Decoder	
+
+
+10	Composition: Simple but useful echo effects with a stereo tape recorder	B.H.	
+
+
+11	Literature review	B.H.	
+
+
+13	Performance review: Electronotes tape, Non-Such Guide, Switched-On Bach	B.H.	
+
+
+15	Product review: Total, Ionic, EMSA,	B.H.	
+
+
+16	Mechanical standards for synthesisers	B.H.	
+
+
+30 Jun	8	2	Fourier analysis	B.H.	
+
+
+4	Reader's equipment: VCO, melody generator	
+
+
+5	Composition	B.H.	pg. 5 diagram; correction given in EN 9, Pg.6 section 4a, first item.	
+
+
+6	Literature review	B.H.	
+
+
+7	Theory of hearing 1: An experiment	B.H.	
+
+
+8	Experimenting with the NE566	Craig Anderton	
+
+
+Vol. 2 (Jul. 1972 - Dec. 1972)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+25 Jul	9	2	Envelope shaper	B.H.	
+
+
+6	Reader's equipment: Antilog amp, signal generator, VCA	
+
+
+7	Composition	B.H.	
+
+
+8	Literature review	B.H.	
+
+
+9	Product review: Buchla keyboard & Exar ICs	B.H.	
+
+
+	S003 Philosophy of electronic music 2 - 1 is in EN 6	B.H.	
+
+
+10	Philosophy of electronic music 2: A critique and some comments on part 1	B.H.	
+
+
+14	Signal interaction; mixing and forms of amplitude modulation	B.H.	pg. 14, line 11; should read ....problem of how precisely we define an	
+
+
+16	Basic passive filters	Robert Rioja	
+
+
+17	Musical acoustics 1	B.H.	
+
+
+17	Theory of hearing 2, musical acoustics 2	B.H.	
+
+
+10 Aug	10	1	Basic course in electronic music, lesson 1: Parts 1-3: Organisation & passive component	B.H.	pg.2, b. Monolithic Circuits:; make note here to see EN 13, Pg 13, sect.8d	
+
+
+4	Reader's equipment: Power amp (1W)	
+
+
+5	Composition: Tape delay line for EM	Tom Mintner	
+
+
+6	Literature review: Papers	B.H.	
+
+
+6	Performance review - A clockwork orange, by Walter Carlos	B.H.	
+
+
+8	Envelope generator refinements 1	B.H.	pg. 8, 8b; see correction EN 11, pg.3 sect 4a, item 1	
+
+
+8	A white noise source	B.H.	
+
+
+30 Aug	11	1	Digisyntone corrections	B.H.	Original article in Radio Electronics, Sep 1970, po. 47-51	
+
+
+3	Reader's equipment: Noise sources	
+
+
+3	Composition: Technique #1	John Marshall	
+
+
+4	Literature review	B.H.	
+
+
+5	Performance review: Carlos, Stockhausen & Electronic Concept Orchestra	B.H.	
+
+
+6	Basic course: Lesson 2, part 4 - Discrete active components	B.H.	
+
+
+8	Envelope generator refinements 2	B.H.	
+
+
+20 Sep	12	1	Systems theory in the design of electronic music systems	Glenn Sogge	
+
+
+4	Multiplier modules, VCAs, modulators etc	B.H.	
+
+
+4	Frequency shifting 1: Towards a poor man's frequency shifter	B.H.	
+
+
+5	Digital harmonics 1, waveshaping 2 - Games for 2 AM	B.H.	
+
+
+7	Basic course, lesson 3, part 5 - Integrated circuits	B.H.	pg. 7, line 7 of 8d; should read the "1” level, the "0" and "1" corr......
+pg. 8, line 11, word 11 should read minus (see En 13, pg.13, 8d)
+pg. 8, line 22, should read voltage controlled amplifier (not oscillator)	
+
+
+10 Oct	13	1	Frequency modulation - Applications	B.H.	Pg. 3, correction in EN 19, pg. 1
+pg. 3, Example: line 1, should be 1000Hz (not 100Hz)	
+
+
+4	Reader's equipment - A TTL "Digisyntone", exponential VCO, phase shifter	D. Rossum	pg. 5, transistor T2 is NPN, the emitter goes to -15, arrow is down	
+
+
+6	Composition: Classical phasing	Craig Anderton	
+
+
+7	Literature review	B.H.	
+
+
+8	Performance reviews: Pierre Henry, Charles Dodge, M.Czajkowski, M.Subotnick	B.H.	
+
+
+9	Product review: Total "Octron	B.H.	
+
+
+10	More on multipliers	B.H.	
+
+
+11	Frequency shifting 2: Other methods	B.H.	
+
+
+12	Digital harmonics 2	B.H.	pg. 12, line 2; no more and no less should read plus or minus a few degrees	
+
+
+13	Basic course, lesson 4, part 7 - 10	B.H.	
+
+
+16	Design considerations in synthesiser systems	Dave Rossum	pg. 16, Part 9, line 2 should read Part 7 above (not sect. 7 above)	
+
+
+31 Oct	14	2	Phase-locked loops 1	B.H.	pg. 1, line 11 should read 50¢ (not 40¢) you may have gotten a bargin!
+pg. 3, upper diagram; strike "exponential" from "exponential VCO"	
+
+
+4	Reader's equipment: Keyboard S&H, duophonic keyboard	D. Rossum	
+
+
+6	Composition	B.H.	
+
+
+6	Literature review: NE560-567 PLLs etc	B.H.	
+
+
+8	Product review: EML101, DEW	B.H.	
+
+
+8	Basic course: Lesson 5, part 11	B.H.	
+
+
+30 Nov	15	2	The rest of the voltage controlled modules, initial designs	B.H.	
+
+
+7	Product review (PAiA, AEU, TNY)	B.H.	
+
+
+7	Universal active filters	Dave Rossum	
+
+
+8	Basic course, lesson 6, part 12	B.H.	
+
+
+30 Dec	16	1	Introduction to Walsh functions	B.H.	
+
+
+3	Reader's equipment: New exponential VCO and "chip" VCO	D. Rossum	Schematic in MEH, Ch. 3h p. 2	
+
+
+4	Composition: Composing on a low budget!	B.H.	
+
+
+5	Product review (Total Technology)	B.H.	
+
+
+5	Fourier analysis 2: Common periodic functions	B.H.	
+
+
+7	Basic course, part 13, a little integral calculus	B.H.	
+
+
+Vol. 3 (Jan. 1973 - Jun. 1973)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+30 Jan	17	2	An experimental additive synthesis device employing Walsh functions as harmonics	B.H.	
+
+
+4	Reader's ideas: Fourier harmonics gen., relay step sequencer, spectrum sampler	
+
+
+6	Performance review: Walter Sear, Bruce Hack, Beaver & Krause	B.H.	
+
+
+7	Basic course, lesson 8, part 14, envelope waveforms	B.H.	
+
+
+8	Deriving single pulses denoting single segments of Walsh waveforms	B.H.	
+
+
+20 Feb	18	4	A new sample-and-hold circuit	B.H.	
+
+
+4	Composition: Organising for composition, part 1	B.H.	pg. 4, missing 12k resistor, see EN 19, page 1	
+
+
+6	Literature review	B.H.	
+
+
+6	Basic course, lesson 9, part 15, filters 1	B.H.	
+
+
+10 Mar	19	1	Generation of envelopes using Walsh functions - Initial considerations	B.H.	
+
+
+4	Composition: Organisation for composition, part 1	B.H.	
+
+
+4	Educational aspects of electronic music: Teaching electronics	B.H.	
+
+
+5	Literature review	B.H.	
+
+
+5	Power supplies 1: Voltage regulators	Dave Rossum	
+
+
+8	Theory of hearing 3: Pitch vs. frequency	B.H.	
+
+
+10 Apr	20	2	Completed basic Walsh function synthesiser - Envelope control etc.	B.H.	
+
+
+5	Construction outline - Part 1, items 1 - 12	B.H.	pg. 5, line 25, reference to EN 7 should be EN 17	
+
+
+6	Hadamard and other transforms	B.H.	
+
+
+30 Apr	21	1	Synthesiser keyboards	Dave Rossum	
+
+
+4	Educational aspects of electronic music: Selling the synthesiser buy	B.H.	
+
+
+4	Literature review	B.H.	
+
+
+5	Product review: Synthi AKS, EMSA programmable waveform generator (PWG-2), EMU	B.H.	
+
+
+6	Basic course, lesson 10, part 16: Technical aspects of musical scales	B.H.	
+
+
+20 May	22	1	Digital 4 bit envelope generator	Ralph Burhans	
+
+
+5	Reader's ideas: Proposed design for a 4 part envelope generator	
+
+
+6	On transient generators	Dave Rossum	
+
+
+8	Basic course, lesson 11, part 17 reading	B.H.	pg. 8, make note here to see letter in EN 23, pg 2	
+
+
+15 Jun	23	2	Comparison of methods for producing arbitrary waveforms and envelopes	Hal Chamberlin	
+
+
+5	Composition: How to make a "raindrop" cannon	B.H.	
+
+
+5	Educational aspects of electronic music	B.H.	
+
+
+6	Literature review	B.H.	
+
+
+8	Basic course, lesson 11, parts 17, a note in the life of a simple synthesiser, part 18, quiz	B.H.	
+
+
+11	Construction outline - Part 2, items 13 - 17	B.H.	
+
+
+12	Non-harmonic effects using Walsh functions, part 1	B.H.	
+
+
+30 Jun	24	2	More thoughts on system design	Dave Rossum	pg. 4, line 9 of text, 6O0k resistor to the +15 supply should read: 300K resistor to the -15 supply.	
+
+
+5	Educational aspects of electronic music	B.H.	
+
+
+5	Literature review	B.H.	
+
+
+6	Product review: Emu modules	B.H.	
+
+
+6	Basic course, lesson 12, part 19: Some quiz answers and tips, part 20: What is S & H	B.H.	
+
+
+7	Three additional electronic music applications of Walsh functions	B.H.	
+
+
+Vol. 4 (Jul. 1973 - Dec. 1973)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+20 Jul	25	2	The role of phase in waveshape and timbre	Hal Chamberlin	
+
+
+5	Project ideas: Frequency doubler	B.H.	
+
+
+5	Project ideas: VC phase delay between Walsh harmonic banks	B.H.	
+
+
+6	Project ideas: PLLs and paralleling VCOs	B.H.	
+
+
+7	Project ideas: Formant filtering, non-linear VCF tracking, programmable patching	B.H.	
+
+
+7	Project ideas: Development of Walsh generator VC phase shift system	B.H.	
+
+
+8	Project ideas: Investigation of a variety of scales	B.H.	
+
+
+8	Project ideas: Modulation and spectrum shifting, envelope selection for VCFs	B.H.	
+
+
+8	Extensive study of literature on scientific studios of musical instruments	B.H.	
+
+
+10 Aug	26	2	On changing linear waveforms and envelopes to exponential	B.H.	
+
+
+5	Composition: Parameters of audio production	Steven Birchall	
+
+
+6	Literature review	B.H.	
+
+
+7	Basic course, lesson 13, part 21: Some mathematics and applications	B.H.	
+
+
+30 Aug	27	1	Introduction to the new synthesiser (ENS-73)	B.H.	
+
+
+2	Literature review	B.H.	
+
+
+4	Performance review: Second club tape	B.H.	
+
+
+5	Product review	B.H.	
+
+
+7	Errors in past issues	B.H.	
+
+
+20 Sep	28	1	Presentation of the ENS-73, part 1: The overall system and VCO options	B.H.	
+
+
+15 Oct	29	1	Presentation of the ENS-73, part 2: The minimal operational setup (ENS-73-MO)	D. Rossum	BG&PCC p. 145 and MEH 5c p.9 VCA	
+
+
+5 Nov	30	2	Presentation of the ENS-73, part 3: VCF2, noise 1, S&H 1	D. Rossum, B.H.	BG&PCC p. 249 noise source	
+
+
+5	Literature review	B.H.	
+
+
+7	Basic course: Lesson 14, part 22, More math with applications	B.H.	
+
+
+30 Nov	31	3	Some notes on sequencers 1: (Controller series 1)	B.H.	
+
+
+5	Reader's equipment: (Controller series 2)	
+
+
+5	Basic course: Lesson 15, part 23, Maths with applications 3, part 24, Sampling a sawtooth	B.H.	
+
+
+7	Presentation of the ENS-73, part 4: Errors and additions, an example, parts and hints	B.H.	
+
+
+9	Two experimental ribbon controllers (Controller series 3)	B.H.	
+
+
+15 Dec	32	1	Imaginary conversation with a musician concerning some keyboard ideas	B.H.	
+
+
+3	Composition: Some notes on sequencers 2 (Controller series 5)	B.H.	
+
+
+5	Presentation of the ENS-73, part 5: Corrections & troubleshooting, balanced modulator 1	B.H.	
+
+
+6	Basic course: Lesson 16, part 25, Sampling a sawtooth 2	B.H.	
+
+
+8	Polyphonic synthesisers	Dave Rossum	
+
+
+Vol. 5 (Jan. 1974 - Jun. 1974)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+1 Jan	33	3	Location modulation 1: Introduction to LM	B.H.	
+
+
+5	Reader's equipment: SV VCF (3080), frequency doubler (sine), relay ADSR	T. Michaels	GS
+
+
+6	Composition: An S&H type sequencer can also be an ABA device (Controller series 8)	B.H.	
+
+
+7	Literature review	B.H.	
+
+
+7	Product review: Help building your ENS-73 and others	B.H.	
+
+
+8	Some initial "utility VCO" design ideas: 8038, CA3080 & 555 timer, thermal stability	B.H.	
+
+
+25 Jan	34	3	Forum: Technology	B.H.	
+
+
+3	Triple feature on digital electronic music equipment	B.H.	
+
+
+3	a) Digital point-by-point waveform generator	Hal Chamberlin	
+
+
+8	b) The digital divider in music synthesis	John A. Ball	
+
+
+13	c) An all-digital synthesiser: Sketches of the Psyctone II	Don Lancaster	
+
+
+16	Reader's equipment: Four from Terry Mikulik - Mixer, noise/random, VCA, SV VCF	Terry Mikulik	BG&PCC p. 146 and MEH 5c p. 10 schematic only VCA.	GS
+
+
+18	Reader's ideas: Not an envelope generator, but...	
+
+
+18	Literature review: Catching up on the theory of hearing	B.H.	
+
+
+20	Using a keyboard to detect harmonics in a waveform	B.H.	
+
+
+21	Basic course: Lesson 17, Part 25: PC boards	David Mitchell	
+
+
+15 Feb	35	2	Universal music ?	Sebastian Von Hoerner	EN
+
+
+4	Reader's ideas: S&H as PLL phase detector, frequency multipliers	
+
+
+6	Some initial ENS-73 sequencer design ideas	B.H.	
+
+
+8	TTL in synthesiser systems	Dave Rossum	
+
+
+9	Basic course: Lesson 18, Part 26: IC substitution	B.H.	
+
+
+5 Mar	36	2	Forum: Whither electronic music?	Larry Greisel	
+
+
+3	Allen Watson III	B.H.	
+
+
+4	ENS-73: The utility VCO, option 2	B.H.	
+
+
+7	Literature review	B.H.	
+
+
+7	On voltage controlled filters	Dave Rossum	
+
+
+8	Basic course: Lesson 19, Part 27: Transistor substitution	B.H.	
+
+
+30 Mar	37	2	Exponential converters	Terry Mikulic	See also MEh, Ch. 5b, p. 14	EN GS
+
+
+4	Reader's equipment: Additions to Terry Mikulic's VCF in EN#34	MEH, Ch. 5d, p. 14	
+
+
+5	Product review: Oberheim DS-2 and APR 2600 mods, 360 systems, new EMU sub-modules	B.H.	
+
+
+5	ENS-73: VCF option 3	B.H.	
+
+
+7	Basic course: Lesson 20, Part 28: Substitution of resistors and capacitors	B.H.	
+
+
+20 Apr	38	2	Forum: Results of the composer survey and some comments	B.H.	
+
+
+4	The FM spectrum of an exponential VCO: Expansion about the linear VCO solution	B.H.	
+
+
+8	Literature review	B.H.	
+
+
+9	Analogue switching circuits with the CA3080	B.H.	
+
+
+20 May	39	2	Correction: ENS-73 keyboard interface	B.H.	
+
+
+2	Fourier series waveform generator, part 1	Hal Chamberlin	
+
+
+6	Reader's ideas: PNP/NPN pairs, converting triangle-sine, pulse conversion, voltage dividers	
+
+
+6	Literature review	B.H.	
+
+
+7	The FM spectrum of an exponential VCO: Part 2	B.H.	
+
+
+8	Testing and calibrating - Part 1	B.H.	
+
+
+20 Jun	40	4	A simple and inexpensive frequency counter	B.H.	
+
+
+7	Reader's ideas: CA3080 VC resistor, three sequencers	
+
+
+9	Aesthetics of new music: Three thoughts on electronic music	Jim Wilson	
+
+
+11	Literature review: Books by Thomas Wells, Friend, Pearlman & Piggott, Stuart Hoenig	B.H.	
+
+
+12	Product review: Small enterprise profile: #1 Electronotes, #2 Eu systems	B.H.	
+
+
+14	The multi-talented LM309 regulator	Craig Anderton	
+
+
+15	Non-uniform comb filter spacings with respect to equally tempered scales	Ralph Burhans	
+
+
+16	Formant modulation, timbre modulation & the interaction of formant filters & modulated sig.	B.H.	
+
+
+18	Basic course: Lesson 21, Part 29: Understanding and adapting input structures	B.H.	
+
+
+Vol. 6 (Jul. 1974 - Dec. 1974)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+10 Jul	41	1	A four pole voltage controlled network: Analysis, design and application as a low-pass VCF and a quadrature VCO	B.H.	BG&PCC p. 164
+MEH Ch. 5d p. 7	
+
+
+8	Aesthetics of new music: Thoughts on electronic music II	Jim Wilson	
+
+
+9	A simple VCA with applications (LM3900)	B.H.	
+
+
+5 Aug	42	1	Introduction to computer music techniques	T. Joseph Zingheim	
+
+
+5	The rate multiplier in music synthesis	Stephen Wilson	
+
+
+8	Reader's equipment: Slew limiters	P. Titchener, T. Mikulic	BG&PCC p. 231	
+
+
+9	Aesthetics of new music: Thoughts on electronic music III	Jim Wilson	
+
+
+25 Aug	43	2	Design of 90 phase differencing networks and application to frequency shifter designing	B.H.	MEH, Ch. 6a, p. 6	
+
+
+9	Project ideas: Fumucosyn	Ellis Cooper	
+
+
+20 Sep	44	2	Some more LM3900 simple-minded circuits for synthesisers	Ralph Burhans	GS
+
+
+5	Composition: Techniques with a frequency shifter	B.H.	
+
+
+7	Living with patch cords	B.H.	
+
+
+8	Basic course: Lesson 22, part 30: Understanding and adapting output structures	B.H.	GS
+
+
+14 Oct	45	2	Forum: Editorial - Do you like opera?	B.H.	
+
+
+2	An interview with Robert Moog, part 1: The first ten years	B.H.	
+
+
+6	Reader's equipment: Two linear AD generators	
+
+
+7	Literature review	B.H.	
+
+
+11	The ENS-74 home built synthesiser, part 1 (Keyboard & ADSR 1)	B.H.	BG&PCC p. 98, 190 schematic only.	
+
+
+16	Antilog/exponential circuit provides over eight octaves	Charles Rogers, Dynasyn Corp.	
+
+
+17	Surplus parts, power supplies and catastrophic failures	Dave Rossum	
+
+
+18	Image generation using electronic synthesis techniques	B.H.	
+
+
+20	The ideal keyboard	Richard Rae	
+
+
+21	Transform methods in musical engineering, part 1	B.H.	
+
+
+15 Nov	46	1	The ENS-74 home built synthesiser, part 2 (VCOs)	B.H.	MEH, Ch. 5b, p.23	
+
+
+5	Reader's equipment: Location modulation with two co-ordinate voltages	
+
+
+8	Transform methods in musical engineering, part 2	B.H.	
+
+
+15 Dec	47	3	An interview with Robert Moog, part 2: The present state of the art	B.H.	
+
+
+5	Literature review	B.H.	
+
+
+6	A brief glossary of electronic music terms for electrical engineers, part 1 (A-F)	B.H.	
+
+
+30 Dec	48	1	Reader's questions: Retriggering envelope generators	B.H.	
+
+
+2	Reader's equipment: Analogue delay lines	
+
+
+2	Literature review (Ear Magazine, Computer Hobbyist, Electronic Music Review)	B.H.	
+
+
+4	Basic course: Lesson 23, part 31: "Magic" numbers in exponential conversion	M. Mellowitz	
+
+
+4	A brief glossary of electronic music terms for electrical engineers, part 2 (G-R)	B.H.	
+
+
+Vol. 7 (Jan. 1975 - Dec. 1975)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	49	2	The frequency modulation spectrum of an exponential VCO, part 3: Experimental verification and some suggested solutions	B.H.	
+
+
+6	Some additional VCO design problems and solutions	B.H.	
+
+
+8	A new exponential current source for the ENS-74 VCO	B.H.	
+
+
+10	A new VCO design: A VCO with sawtooth output and HF tracking and sync	B.H.	
+
+
+11	A sourcelist of electronic music & musical engineering, part 1	B.H.	
+
+
+Feb	50	1	Reader's questions: ENS-74 triggering from a sequencer	B.H.	
+
+
+4	An interview with Robert Moog, part 3: Trends for the future	B.H.	
+
+
+10	A new ADSR envelope generator	B.H.	BG&PCC p. 63	
+
+
+11	A brief glossary of electronic music terms for electrical engineers, part 2 (S-Z & numbers)	B.H.	
+
+
+16	A sourcelist of electronic music & musical engineering, part 2	B.H.	
+
+
+Mar	51	2	Distorters	W. M. Hartman	
+
+
+3	Reader's equipment: Two sequencer designs	T. Mikulic	GS
+
+
+7	Reader's ideas: "Slinky" reverb, ribbon controller, noise source	
+
+
+7	Literature review	B.H.	
+
+
+8	Product review: ARP, Aries, RMI, Roland, Korg & EML	B.H.	
+
+
+10	Oscillator sync methods (Buzz Frappe, Eu Systems)	B.H.	
+
+
+11	A sourcelist of electronic music & musical engineering, part 3	B.H.	
+
+
+18	More applications of rate multiplier circuits	R. W. Burhans	
+
+
+20	A gate and trigger delay unit	B.H.	
+
+
+Apr	52	4	The ideal keyboard, part 2	Richard Rae	
+
+
+7	Thoughts on digital keyboards	B.H.	
+
+
+10	Guitar controllers for synthesisers	Bob Mustacich	
+
+
+13	Reader's ideas: Breadboarding, and chip thermostating	
+
+
+13	A sourcelist of electronic music & musical engineering, part 4	B.H.	
+
+
+22	Product review: Wasatch music systems and Devtronix	B.H.	
+
+
+May	53	3	Forum: Keyboards, frets and other controllers	R. W. Burhans	
+
+
+3	Forum: On epoxy blocks and missing schematics	Larry Greisel	
+
+
+4	Pitch extraction, part 1 (Basic approaches)	B.H.	
+
+
+15	Reader's equipment: 8038 function generator	Craig Anderton	BG&PCC p. 140 LFO.	
+
+
+16	Literature review: Musical engineers handbook	B.H.	
+
+
+16	Product review: Polyphonic keyboard, guitar controllers, Omniphon, Axxe, Sequential	B.H.	
+
+
+17	A sourcelist of electronic music & musical engineering, final part	B.H.	
+
+
+Jun	54	2	Forum: 741s, 307s and 308s in exponential current sources	B.H.	
+
+
+3	Dual feature on digital controllers:	B.H.	
+
+
+4	Sequencers & programmable controllers, part 1	Douglas E. Fullmer	
+
+
+8	Digivox II: Digital keyboard control for analogue music synthesisers	R. W. Burhans	
+
+
+12	Reader's equipment: Envelope generators	W. M. Hartmann	
+
+
+12	Project ideas: Bandpass filter bank used to adjust VCO, resetting sample & hold, slew limiting sample & hold, on making linear dynamic FM depth a feature of VCO design	B.H.	
+
+
+14	Literature review: Musical engineers handbook	B.H.	
+
+
+17	Pitch extraction, part 2: (progress report)	B.H.	
+
+
+Jul	55	3	Pitch extraction, part 3: The complete experimental device	B.H.	IC 12 inputs are reversed from what they should be. IC 13 reverse pins 1 and 5. IC 26d should be driven by 26b not 26a.	
+
+
+11	Literature review	B.H.	
+
+
+17	A new sinewave shaper applied to a sweep generator design	B.H.	
+
+
+20	A sourcelist of electronic music & musical engineering (addendum)	B.H.	
+
+
+Aug	56	2	Analogue delay for musical engineers	B.H.	
+
+
+Sep	57	2	Reader's questions: Chord playing buttons	B.H.	
+
+
+3	Problems with the keyboard interface (ENS-74)	B.H.	
+
+
+4	A minicomputer-controlled music synthesiser	Michael R. Abram	
+
+
+7	Reader's equipment: VCO	Paul Titchener	
+
+
+9	Selection of op-amps for power bandwidth	B.H.	
+
+
+12	The measurement of phase difference	B.H.	
+
+
+Oct	58	2	Forum: The origins of the term "flanging"	B.H.	
+
+
+2	Forum: Letter from Scott Fraser - Tape recorders	B.H.	
+
+
+5	Digital recording of melodies played on a keyboard by microprocessor control	M. Suchoff	
+
+
+14	Voltage-controlled highpass filters and other VCF structures	B.H.	
+
+
+Nov	59	2	Forum: Phase shift networks and applications	B.H.	
+
+
+2	Forum: On the relative merits of linear and exponential VCOs	B.H., J. Simonton	GS pp. 5-10
+
+
+11	Microprocessors in electronic music, part 1	Bill Hemsath	
+
+
+13	Reader's equipment: VC slew limiter	P. Titchener	BG&PCC p. 232	
+
+
+14	Literature review	B.H.	
+
+
+16	Voltage-controlled highpass filters and other VCF structures: Appendix A and appendix B	B.H.	
+
+
+20	Popcorn noise and exponential generators	Charlie Thompson	
+
+
+20	An indefinitely touch sensitive keyboard controller scheme using one pot.	J. Orion	
+
+
+Dec	60	2	Electronic music studio hardware	W. M. Hartmann	
+
+
+7	Reader's equipment: Envelope follower	Nicholas Collins	BG&PCC p. 151	NC
+
+
+8	A Hadamard transform network - Comments and reprint	B.H.	
+
+
+14	The dawn of the future computer (or the start of a computer in every home)	Al Bushert	
+
+
+16	Microprocessors in electronic music, part 2	Bill Hemsath	
+
+
+19	Electronotes in 1975 and 1976	B.H.	
+
+
+Vol. 8 (Jan. 1976 - Dec. 1976)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	61	2	Forum: Addendum to the relative merits of linear and exponential VCOs	J. Simonton	GS
+
+
+4	Design and applications of sample & hold modules with slew limiting and cascading features	B.H.	BG&PCC p. 228	EN
+
+
+14	Microprocessors in electronic music, part 3	Bill Hemsath	
+
+
+16	Two new analogue delay line circuits	Terry Mikulic, Jan Hall	GS
+
+
+19	News and notes	B.H.	
+
+
+20	Back to basics - Resistor tolerances	B.H.	
+
+
+Feb	62	2	Design ideas for digital keyboards	B.H., D.Williams, V. Huebner, G.Embler	
+
+
+11	New design ideas for voltage-controlled oscillators	B.H., C. Thompson, T. Mikulic,D. Kraul, T. Helfrich	Modification schematic in EN 194.	GS EN
+
+
+18	Microprocessors in electronic music, part 4	Bill Hemsath	
+
+
+Mar	63	2	The ENS-76 home-built synthesiser system - Part 1	B.H.	BG&PCC schematics only, p. 147 VCA, p. 196 balanced modulator	
+
+
+8	Precise matching of transistors using synthesiser oscillators	Carl Fravel	
+
+
+11	Analogue interfaces for microprocessor systems	Douglas Kraul	
+
+
+14	Reviews of recorded music	Craig Anderton	
+
+
+17	Back to basics 2 - Triggering the 555 as a monostable	B.H.	
+
+
+19	News and notes	B.H.	
+
+
+Apr	64	3	Theory and applications of noise generators in electronic music	B.H.	BG&PCC p. 249	EN
+
+
+18	Voltage-controlled amplifier as a balanced modulator	W. M. Hartmann	
+
+
+18	Further comments on balanced modulators from two quadrant multipliers	B.H.	
+
+
+19	Record review: The music of Penderecki	Al Halstead	
+
+
+19	Equipment review: The Lyricon	Allan Cody	
+
+
+20	Back to basics 3, resistor power ratings	B.H.	
+
+
+21	Back to basics 4, the difference between positive and negative	B.H.	
+
+
+May	65	3	Microprocessors in electronic music, part 5	Bill Hemsath	
+
+
+5	Debounce scheme for scanning-type digital keyboards	Douglas Kraul	
+
+
+9	An 8x512 random access memory for synthesiser applications	Vic Huebner	
+
+
+11	Reader's equipment - A ±10KHz through zero linear VCO	Jan Hall	Schematic in BG&PCC p. 118	EN
+
+
+13	Record review - Synergy	Craig Anderton	
+
+
+16	Literature review - Audio Handbook and periodicals	Craig Anderton, B.H.	
+
+
+22	News and notes	B.H.	
+
+
+Jun	66	2	Sine waves and VCFs - Do they mix?	B.H.	
+
+
+3	The ENS-76 homebuilt synthesiser system - Part 2 (EG options 1, 2 & 3)	B.H.	BG&PCC p. 183, options 1 & 2	
+
+
+Jul	67	3	The Gilbert multiplier in electronic music	Dave Rossum	
+
+
+7	Converting modules of ±5 volt standard to ±10 volt standard	B.H.	
+
+
+11	Notes on the ENS-74 keyboard interface unit	Ian Fritz	
+
+
+13	The ENS-76 homebuilt synthesiser system - Part 3; utility VCO	B.H.	Schematic in BG&PCC p. 117	
+
+
+16	Comments on the triangle-to-sawtooth conversion problems	W. M. Hartmann	
+
+
+18	An eight-bit pseudo-random generator	Vic Heubner	
+
+
+19	Back to basics 5 - D/A conversion for equal tempered scales	B.H.	
+
+
+Aug	68	1	News and notes: Using the MN3001 analogue delay line chip	B.H.	
+
+
+3	Project ideas: Non-linear transfer function	B.H.	
+
+
+8	Project ideas: Quantisers	B.H.	
+
+
+10	The ENS-76 homebuilt synthesiser system - Part 4: Instalment on the digital keyboard	B.H.	BG&PCC p. 88. Not velocity-sensitive.	
+
+
+20	Modifications to the Electronotes low-pass filter/quadrature oscillator and a possible new waveform technique with the unit	Ian Fritz	
+
+
+Sep	69	2	News and notes	B.H.	
+
+
+3	Design procedures for using exponential converters to perform mathematical operations	B.H.	
+
+
+8	Circuits for the piecewise-linear technique of electronic music synthesisers	E.D.Cooper	
+
+
+13	Applying the CA3140 op-amp in electronic musical devices	B.H.	
+
+
+17	A utility VCO with AM inputs	Jan R. Hall	Schematic in BG&PCC p. 119	
+
+
+19	Record review: "Pieces for Kohn" by Tom Hamilton	Craig Anderton	
+
+
+20	Literature review: Handbook of operational amplifier circuit design	D. Gualtieri	
+
+
+21	Back to basics 6: Testing of voltage regulators	B.H.	
+
+
+Oct	70	3	Frequency multiplication and division methods	B.H.	
+
+
+18	8 voice digital keyboard design idea	Mark Goldstein	
+
+
+21	Record review: Selected shorts, part 1	Craig Anderton	
+
+
+Nov	71	3	The bandpass filter response and electronic music applications	B.H.	See also the comments in EN 72A	EN
+
+
+14	The ENS-76 homebuilt synthesiser system - Part 5 (VCF options 1 & 2)	B.H.	Page 21, Fig. 8 please insert R48 (100K) on the wiper of the pot to inverting input of IC 7.BG&PCC p. 156 full article with correction.
+
+
+22	Record reviews	Craig Anderton	
+
+
+Dec	72	3	Some theory on the design and application of variable slope filters	B.H.	
+
+
+12	The ENS-76 homebuilt synthesiser system - Part 6 (VCF 3, timbre modulator 1, delay 1)	B.H.	BG&PCC p. 166, p. 173, 255	EN pp. 14-16
+
+
+21	Reader's circuits: FET as VCF, three waveshapers	Jacob Moskowitz, Ian Fritz	BG&PCC p. 145, p. 179 (only the first waveshaper)	
+
+
+Vol. 9 (Jan. 1977 - Dec. 1977)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	73	3	Reader's questions	
+
+
+7	Report on new waveform techniques	Ian Fritz	
+
+
+11	Debouncing in digital keyboards	Greg Mullin	
+
+
+12	Improvements to digital tone generators	James Wirth	
+
+
+14	Simple bandpass filter for filter bank design	B.H.	
+
+
+19	Record review: "No Pussyfooting"	Craig Anderton	
+
+
+21	Envelope generator employing diode logic	Joseph Medina	
+
+
+Feb	74	3	News items and reader's questions	
+
+
+7	Digital filter note 1	R. B. Tipton, V. M. Tipton	
+
+
+14	Theory and design of a "responding" filter bank	B.H.	
+
+
+21	Book review: National Semiconductor and Texas applications books	B.H.	
+
+
+Mar	75	3	The ENS-76 homebuilt synthesiser system - Part 7 (VCO options 1, 1a, 2, 3, 4 & 5)	B.H.	BG&PCC p. 103, (options 1, 1a & 2 only)	SS (option 1)
+
+
+Apr	76	2	News items and notes, reader's questions	B.H.	EN
+
+
+3	The ENS-76 homebuilt synthesiser system - Part 8 (random source 1 & 2, further options)	B.H.	BG&PCC p. 285, 287
+
+
+16	Reader's equipment: gate & trigger unit, simple ADSR	
+
+
+19	Record review: "Sequencer" by Larry Fast	Craig Anderton	
+
+
+20	VCO drift	B.H.	
+
+
+May	77	3	Digital filter note 2	R. B. Tipton, V. M. Tipton	
+
+
+13	Comb filters applied to the pitch extraction problem	B.H.	
+
+
+21	Record reviews: "Low" by Bowie, "Trans-Europe Express" by Kraftwerk	Craig Anderton	
+
+
+Jun	78	3	Synthesis procedures for musical sounds - Part 1	B.H.	
+
+
+11	Re-evaluating the diatonic scale - Conversation with Marion McCoskey	Craig Anderton	
+
+
+13	Electronic music applications of the XR206 monolithic function generator	S. Franco	
+
+
+15	Two ICs for electronic music - SSM2020 and SSM2040	Dave Rossum	
+
+
+Jul	79	5	Synthesis procedures for musical structures - Part 1	B.H.	
+
+
+Aug	80	3	Synthesis procedures for musical structures (special effects) - Part 1	B.H.	
+
+
+10	Review of periodic literature	B.H.	
+
+
+Sep	81	3	Simple pitch extractor for clarinet	Ian Fritz	
+
+
+8	A new design for a multimode voltage-controlled filter	B.H.	
+
+
+14	On improving mechanical performance of keyboards	W. J. Park	
+
+
+15	Back to basics 7 - Waveshaping	B.H.	
+
+
+18	Reader's questions	B.H.	
+
+
+Oct	82	1	Plans for 1978	B.H.	
+
+
+3	Reader's questions	B.H.	
+
+
+5	Mathematical analysis of differential amplifier triangle-to-sine converters	B.H.	
+
+
+17	Hints on setting up an electronic music working area	B.H.	BG&PCC p. 43	
+
+
+20	Reader's circuits: quadrature oscillator	Ian Fritz	Page 21, the sine and 18k output should be from the other side of the 1k resistor between the FETs.	
+
+
+Nov	83	2	Reader's questions	B.H.	
+
+
+5	The ENS-76 homebuilt synthesiser system - Part 9 (frequency shifter)	B.H.	Fig. 6 IC 1, the + and - inputs are reversed. R3, R4 junction to -. R2, C1, C2 junction to + is correct.. BG&PCC p. 209	
+
+
+19	Record review - Brian Eno, John Cage, LEM, Morton Subotnick, Pat Gleeson	Craig Anderton	
+
+
+Dec	84	2	Reader's questions	B.H.	
+
+
+5	A frequency-to-voltage converter for use with pitch-to-voltage conversion devices	Robert Iodice	
+
+
+9	An odd-harmonic to even-harmonic timbre modulator	B.H.	BG&PCC p. 175	
+
+
+13	Clocking techniques for analogue delay lines	Craig Anderton	
+
+
+15	Proposal for a type of "oral joystick"	Jeffrey Noble	
+
+
+17	Reader's circuits - VCF with SSM2040	Rich Ryan	
+
+
+19	Book reviews in brief	B.H.	
+
+
+Vol. 10 (Jan. 1978 - Dec. 1978)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	85	5	Additional ideas for voltage-controlled filters	B.H.	EN
+
+
+5	1. Corner peaking of a four-pole filter	B.H.	
+
+
+12	2. Obtaining bandpass and highpass functions from a four pole lowpass filter	B.H.	
+
+
+16	3. Present day voltage controlled filter design options	B.H.	
+
+
+18	Hints on obtaining parts for projects	B.H.	
+
+
+Feb	86	3	Forum: Includes some corrections	B.H.	
+
+
+5	Reader's questions: Shielded cable or hookup wire for audio lines, minimum phase	B.H.	
+
+
+7	A gate driven second-order envelope-transient generator	B.H.	BG&PCC p. 192 schematic only	
+
+
+14	Woodwind type controller for synthesis, part 1: Electronic mouthpiece	Ian Fritz	
+
+
+20	One chip envelope, gate and trigger extractor	Robert Iodice	BG&PCC p. 152 schematic only	
+
+
+Mar	87	2	Reader's questions	B.H.	EN
+
+
+3	A sawtooth driven multiphase waveform animator: The synthesis of animated sounds. part 1	B.H.	BG&PCC p. 261
+
+
+11	Minimum parts count synthesiser	Dave Rossum	BG&PCC schematics only, p. 120 SSM2030 VCO, p.147 VCA, p. 165 2040 VCF, p. 191 2050 VCTG	
+
+
+17	Using the Panasonic MN3005 4096 stage delay chip	Jan Hall	BG&PCC p. 256	
+
+
+19	Reader's equipment: Guitar pickup	Dale Willis	
+
+
+Apr	88	2	Reader's questions: Phaser or flanger, animated comment, validity of project	B.H.	
+
+
+3	Woodwind type controller for synthesis, part 2: Keyswitch fingering system	Ian Fritz	
+
+
+10	Literature review: Comments on Ernst's "The evolution of electronic music"	R.B.Elder	
+
+
+15	Pitch extractor for guitar and microphone	Dale Wills	
+
+
+23	Reader's equipment and ideas:	
+
+
+23	A. Envelope follower with improved ripple and response time	D. Genovese	BG&PCC p. 153 schematic only	
+
+
+24	B. LFO with ramp, inverted ramp, triangle and pulse width from 10% to 90%	P. Lutz	BG&PCC p. 139 schematic only	
+
+
+26	C. Mixing plate based on capacitive coupling	D.Weiss	
+
+
+26	D. Patch for controlled beating with two VCOs	D.Weiss	
+
+
+27	E. Variable positive and negative waveform clippers	A.Halstead	
+
+
+27	Basic applications of components available through Electronotes	B.H.	
+
+
+May	89	2	Reader's questions: VCO resistor tolerance	B.H.	
+
+
+3	Some comments on amplitude envelopes and their extraction	B.H.	BG&PCC p. 154 ripple reduction schematic	
+
+
+Jun	90	2	Reader's questions: Nyquist etc	B.H.	
+
+
+3	How I make my PC boards in a matter of few hours	B.H.	BG&PCC p. 47	
+
+
+6	A high ripple VCF for waveform animation: The synthesis of animated sounds. part 2	B.H.	BG&PCC p. 168 schematic only	
+
+
+18	Record reviews: Moroder, Kraftwerk, Tangerine Dream, Tomita, Genesis, Eno, Bowie	Craig Anderton	
+
+
+Jul	91	1	Corrections to frequency shifter and pitch extractor	B.H.	
+
+
+3	Review of homebuilt equipment, or, what's in the preferred circuit collection	B.H.	BG&PCC p. 267	
+
+
+13	A few remarks on current tendencies in synthesised music	R. Bruce Elder	
+
+
+16	Additional notes on bandpass filters	B.H.	
+
+
+20	A sourcelist on pitch extraction, 1978	B.H.	
+
+
+Aug	92	2	Reader's questions: 8038, op-amp noise	B.H.	
+
+
+3	The first 100 Electronotes application notes: Numerical listing	B.H.	
+
+
+5	The first 100 Electronotes application notes: Subject listing	B.H.	
+
+
+7	Fast envelope extraction by maximum station sampling	B.H.	
+
+
+10	Filter banks with multiple outputs	B.H.	
+
+
+12	Modified AD + AR envelope generator design	Ian Fritz	BG&PCC p. 193 schematic only	
+
+
+14	A quasi-digital Bi-N-Tic filter	Jan Hall	BG&PCC p. 169 schematic only	EN
+
+
+14	Digital keyboard revisited	Richard Curcio	RC
+
+
+18	The ear - Part 1: Basic idea on pitch perception	B.H.	
+
+
+20	Reader's comments	N. Rose, W. Norcross, N. Bodley, R. Graham, C. Cooper, L. King	
+
+
+Sep	93	2	Reader's questions: Real frequencies, how Electronotes started, analogue reverb	B.H.	
+
+
+3	The ear - Part 2: An observational basis for pitch perception theories	B.H.	
+
+
+11	A sourcelist on pitch perception - 1978	B.H.	
+
+
+18	A cascaded-monostable type generalised resonator: The synthesis of animated sounds, part 3	B.H.	
+
+
+Oct	94	3	Reader's questions: Part sources, power supply lines	B.H.	
+
+
+4	The ear - Part 3: Models and phenomenon vs place and fine-structure theory	B.H.	
+
+
+Nov	95	1	Reader's questions: MEG etc	B.H.	
+
+
+3	The migration of poles as a function of feedback in a class of voltage-controlled filter	B.H.	
+
+
+Dec	96	2	Reader's questions: Computer controlled synthesisers	B.H.	
+
+
+3	Review of periodicals of interest to our readers	B.H.	
+
+
+7	Master list of Electronotes publications	B.H.	
+
+
+9	Master index to Electronotes publications 1972-1978	B.H.	
+
+
+Vol. 11 (Jan. 1979 - Dec. 1979)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	97	3	Some comments on the state of music synthesis - 1979 - Part 1	B.H.	
+
+
+7	A brief note on polygon filters	Richard Bjorkman	EN
+
+
+9	A few more notes on polygon filters	B.H.	
+
+
+10	A four, six and eight pole voltage controlled filter	B.H.	BG&PCC p. 176, schematic only, 2 x SSM2040	
+
+
+17	Literature review: Electronic trade journals - 1978 - Part 1	B.H.	
+
+
+Feb	98	2	Reader's questions: Just intonation, frequency shifting vs pitch shifting	B.H.	
+
+
+3	Putting your circuit boards inside something	B.H.	BG&PCC p. 50	
+
+
+5	Preset circuitry for synthesisers	Lester Ludwig	
+
+
+9	A square-wave frequency-division sub-octave cross-product module: It's relationship with Lie algebra and other related processes	Lester Ludwig	
+
+
+15	A cure for "overtracking" in an exponential converter	Ian Fritz	
+
+
+17	A general purpose 1 volt/octave VCO using the 8038 IC	Jan Hall	
+
+
+19	Record review: Cluster & Eno, Devo, Jarre, Bowie, Vangelis, Gleeson, Synergy, Stepian	Anderton	
+
+
+20	Literature review: Electronic trade journals - 1978 - Part 2	B.H.	
+
+
+Mar	99	1	Reader's questions: Sample-and-hold droop, VCA feedthrough	B.H.	
+
+
+3	A fourth order state-variable filter	Bob Chidlaw	
+
+
+13	A reasonably good pitch extractor "back end"	B.H.	
+
+
+17	More suggestions on actually getting construction underway	B.H.	BG&PCC p. 59	
+
+
+20	Literature review: Electronic trade journals - 1978 - Part 3	B.H.	
+
+
+Apr	100	1	News and notes: New VCA ICs	B.H.	
+
+
+2	Reader's questions: Reversing low priority keyboards, MIL spec	B.H.	
+
+
+3	The ear - Part 4: Recent developments regarding pitch perception	B.H.	
+
+
+13	A short primer on vocoders	B.H.	
+
+
+15	Vocoder design using state-variable filter structures	Jan Hall	
+
+
+20	Some brief reflections on 100 issues of Electronotes	B.H.	
+
+
+May	101	3	An experimental correlator/convolver for electronic music	B.H.	
+
+
+Jun	102	2	A vocal-effects waveform animator: The synthesis of "animated" sound - Part 4	B.H.	BG&PCC p. 262	EN
+
+
+Jul	103	2	A vocal-effects waveform animator: The synthesis of "animated" sound - Part 4 (addendum)	B.H.	
+
+
+6	Linear applications of CMOS logic	Hal Chamberlin	
+
+
+9	Course review - Techniques of computer sound synthesis	Hal Chamberlin	
+
+
+Aug	104	1	Reader's questions: Capacitor codes, resistor power ratings	B.H.	
+
+
+3	Some comments on the state of music synthesis - 1979, part 2	B.H.	
+
+
+7	Appendix A: New ideas on filter bank design	B.H.	
+
+
+9	Appendix B: Pseudo-random tone-wheel	B.H.	
+
+
+Sep	105	2	Reader's questions: Finding patents, blown LF351s	B.H.	
+
+
+3	The effects of feedback on four-pole filters with differing pole frequencies	B.H.	
+
+
+Oct	106	3	A pseudo-random tone-wheel animator: The synthesis of "animated" sound - Part 5	B.H.	
+
+
+21	Book review: Don Lancaster - The incredible secret money machine	B.H.	
+
+
+Nov	107	2	Reader's questions: Getting patents, top octaves	B.H.	
+
+
+3	The new OTAs: The CA3280 and the LM13600	B.H.	
+
+
+13	A (gulp!) simple balanced four-quadrant multiplier with an OTA	B.H.	EN
+
+
+16	Filter bank design	Ian Fritz	EN
+
+
+Dec	108	2	Reader's questions: Analogue keyboard interface problems	B.H.	
+
+
+3	Some interesting audio visual analogues	B.H.	
+
+
+4	A self-modulating VCO, revisited	B.H.	
+
+
+6	Multi-phased waveform animator with reduced part count and two extensions	L. Ludwig	EN
+
+
+9	A new look at pulse-width modulation - Part 1	B.H.	
+
+
+16	A generalised linear amplitude processor	Lester Ludwig	
+
+
+19	Notes on noise, fractional calculus and the variable slope filter	Normand Provencher	
+
+
+Vol. 12 (Jan. 1980 - Dec. 1980)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	109	1	Reader's questions: Speak & Spell, AD818 alternatives, alternative analogue delays	B.H.	
+
+
+3	Uniform variable slope processor	Lester Ludwig	
+
+
+Feb	110	1	A short list of "buzz words" for IC buyers and users	B.H.	EN
+
+
+3	A new look at pulse-width modulation - Part 2	B.H.	
+
+
+18	An "articulating" contour generator	B.H.	
+
+
+Mar	111	1	A collection of reader submitted and reader inspired ideas: -	B.H.	
+
+
+3	A: Alternative to the CA3080 simple VCO	B. Hutchins, Ron Teel	
+
+
+5	B: Warping the response of a linear input attenuator	Richard Brewster	
+
+
+6	C: A linear ADSR envelope generator	William park	
+
+
+7	D: Unusual biquad and state-variable type configurations	B. Hutchins, Norman Rose	
+
+
+10	E: Simple voltage-controlled amplifier with 4009 CMOS chip	Mike Yantis	
+
+
+12	F: Body-proximity controllers for voltage-controlled synthesisers	John Valente	
+
+
+13	G: Frequency halver for triangle and sine waves	B. Hutchins, Iggy Foulke	
+
+
+14	H: Some unusual high-Q circuits	B. Hutchins, Tom La Mar	
+
+
+19	I: Controlled-current switching oscillator	Ian Fritz	EN
+
+
+20	J: Simulated waveform generation with a programmable calculator	B. Hutchins, Allen Eaton	
+
+
+21	K: Sync circuit for ENS-76 VCO option 1	Richard Brewster	
+
+
+Apr	112	2	Reader's questions: Modulation bandwidth for CV inputs	B.H.	
+
+
+3	A solution to the mystery of the variable-slope filter	Lee Powell	
+
+
+10	A new sample and hold circuit	John Talbert	GS
+
+
+13	Some results of reversing input and ground with some filter structures	B.H.	
+
+
+18	Ultrasonic VCO with digital waveform generator	Ian Fritz	
+
+
+May	113	1	Reader's questions: Through zero FM	B.H.	EN
+
+
+3	Switchable VCA/balanced modulator based on the LM/XR13600 OTA	Ian Fritz	BG&PCC p. 201
+
+
+8	Comments on the new 13600 and 3280 OTA device	Serge Tcherepnin	
+
+
+11	Spectra of some simple shift-register sequences:	B.H.	
+
+
+Jul	114	3	Four voice digital keyboard interface	Bob Chidlaw	
+
+
+9	Spectra of some dual-pulse waveforms	B.H.	
+
+
+Jul	115	1	Time reversing oscillators and through zero FM	B.H.	EN
+
+
+3	A 39-channel variable-Q filter bank - Part 1	B.H.	
+
+
+Aug	116	1	News and notes: CEM3350 and CEM3360	B.H.	EN
+
+
+2	Reader's questions: Preferred circuits collection S&H option 2	B.H.	
+
+
+3	A 39-channel variable-Q filter bank - Part 2	B.H.	
+
+
+Sep	117	1	Reader's questions: Paralleling OTAs	B.H.	
+
+
+3	A delay-line/phase-shifter based filter bank (Theta processor)	B.H.	
+
+
+Oct	118	1	Reader's questions: Books on circuitry, voltage shifting	B.H.	
+
+
+3	A new look at pulse-width modulation - Part 3	Lester Ludwig and Bernie Hutchins	
+
+
+Nov	119	2	From the lab notebook: The digital divider as a "vibrato killer"	B.H.	
+
+
+3	A balanced modulator application of VCA chips	Thomas Henry	
+
+
+7	A pitch-to-voltage converter for a polyphonic guitar synthesiser	Tony Dean	
+
+
+12	A method for measuring modulation bandwidth	Normand Provencher	
+
+
+13	Frequency division of sine waves	Normand Provencher	
+
+
+15	How many kinds of square wave are there?	Normand Provencher	
+
+
+16	Some notes on pseudo-random noise generators	B.H.	
+
+
+Dec	120	1	Electronotes publications	B.H.	
+
+
+1	Newcomer's page: Timbre	B.H.	
+
+
+1	Electronotes application notes 1976 - 1980, numerical listing	B.H.	
+
+
+1	Master index of Electronotes publications 1972 - 1980	B.H.	
+
+
+Vol. 13 (Jan. 1981 - Dec. 1981)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	121	3	Lab notebook - Effects of PW drivers on short PWM tones	B.H.	
+
+
+4	Newcomer's page - Fourier series	B.H.	
+
+
+5	Fourier series results for some simple new waveshapers	B.H.	
+
+
+13	Two hints for using the CEM3340 IC	Thomas Henry	
+
+
+16	Stability in linear systems - Routh's criterion	B.H.	
+
+
+22	A brief note on variable slope spectra and self modulation	B.H.	
+
+
+Feb	122	2	More on the CEM3340 IC	Thomas Henry/Doug Curtis	
+
+
+3	Lab notebook - Distortion of triangle-to-sine converters	B.H.	
+
+
+4	Newcomer's page - Strange numbers	B.H.	
+
+
+5	Making rack panels	Thomas Henry	BG&PCC p. 53	
+
+
+9	Square law attenuator	Normand Provencher	
+
+
+10	Determining the probability of saturation of Gaussian noise	Normand Provencher	
+
+
+13	A function generator with "quadrature" triangle wave outputs	Thomas Henry	
+
+
+Mar	123	1	Reader's questions: instrument waveshapes, band-pass filter orders, IC sockets	B.H.	
+
+
+3	Lab notebook - More tests of triangle-to-sine converters	B.H.	
+
+
+4	Newcomer's page - Pitch	B.H.	
+
+
+5	Pitch, filtered noise, suggested experiments	B.H.	
+
+
+9	A few more variable-slope ideas	Normand Provencher	
+
+
+14	Browser's report	Normand Provencher	
+
+
+15	Review of recorded music	Craig Anderton	
+
+
+17	Book reviews	B.H.	
+
+
+19	An add-on sub-octave circuit for VCOs	B.H.	
+
+
+Apr	124	2	Book review: "A biography of computer music" by Sandra L. Tjepkema	B.H.	
+
+
+3	Lab notebook - Modulations with the voice	B.H.	
+
+
+4	Newcomer's page - What is digital?	B.H.	
+
+
+10	Design of simple quantizers	B. Hutchins plus Mike Conrad	
+
+
+19	The ARP surplus three-octave keyboard	Dev Gualtieri	BG&PCC p. 100	
+
+
+May	125	1	Source list of electronic music and musical engineering (1978, 1979, 1980)	B.H.	
+
+
+Jun	126	2	Reader's questions: Sinewave LFO	B.H.	
+
+
+3	Lab notebook - Tests of an extension of standard frequency modulation patches	B.H.	
+
+
+4	Newcomer's page - Digital synthesis of music	B.H.	
+
+
+5	The reciprocal square-law attenuator	Normand Provencher	
+
+
+7	A new self-varying gate and trigger delay unit	Lester Ludwig	
+
+
+10	Redundancy in music as a reason for parametric music synthesis	B.H.	
+
+
+Jul	127	2	Reader's questions: quadratic formula	B.H.	
+
+
+3	Lab notebook - A couple of circuits for through-zero VCOs	B.H.	
+
+
+4	Newcomer's page - Looking for the parts you need	B.H.	
+
+
+5	GLAP revisited: smaller parts count using CEM3330, constant power correction and image angle curves	Lester Ludwig	
+
+
+9	Brief notes on integrator phase compensation	B.H.	
+
+
+Aug	128	2	Reader's questions: animation vs modulation, fast or finite transfer functions	B.H.	
+
+
+3	Lab notebook - Comb filter tests of animators	B.H.	
+
+
+4	Newcomer's page - Getting publications	B.H.	
+
+
+5	Theory and design of electronic percussion instruments based on the band-pass resonator	B.H.	
+
+
+Sep	129	2	Newcomer's page - Getting publications	B.H.	EN
+
+
+3	A VCO with through-zero FM capabilities	B.H. based on ideas by D. Kraul and R. Moog	BG&PCC p. 121.
+
+
+Oct	130	1	News and notes: Passport Designs, SSM2012, SSM2022, SSM2033, SSM2056 & SSM2100	B.H.	
+
+
+2	Newcomer's page - Getting publications	B.H.	
+
+
+3	A VOSIM processor [including PCB layout],	Devlin M. Gualtieri	
+
+
+Nov	131	3	Lab notebook - Coupled VCOs	B.H.	
+
+
+4	Newcomer's page - Interpreting schematic diagrams	B.H.	
+
+
+5	The drumhead problem - The vibrating membrane	B.H.	EN
+
+
+14	Le Gendre filters	Normand Provencher	
+
+
+18	Those marvelous whale songs	B.H.	
+
+
+Dec	132	3	Animation of live sounds	B.H.	
+
+
+4	Newcomer's page - Interpreting schematic diagrams	B.H.	
+
+
+5	Simple equipment for an electronic music "utility" panel	B.H.	
+
+
+5	1. Microphone amplifier	B.H.	
+
+
+5	2. Mix/gain/monitor unit	B.H.	
+
+
+6	3. Flip-flop unit	B.H.	
+
+
+6	4. Output filters for tape recording	B.H.	
+
+
+7	5. Headphone-speaker amplifier/attenuator	B.H.	
+
+
+8	6. Comparator/differencer/rectifier unit	B.H.	
+
+
+9	7. Ramp generator/oscillator	B.H.	
+
+
+10	8. DC source/ultra-fine tuner	B.H.	
+
+
+11	Possible new electronic musical instrument based on self-sustained oscillator principles	B.H.	
+
+
+19	A proposed design of a "mallet" controller	B.H.	
+
+
+Vol. 14 (Jan. 1982 - Jun. 1983)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	133	2	Reader's questions: Cassettes in electronic music, AES preprints	B.H.	
+
+
+3	Lab notebook - Measuring the spectra of noise	B.H.	
+
+
+4	Newcomer's page - Mathematical transforms	B.H.	
+
+
+5	Integrated musical electronics - Part 1	B.H.	
+
+
+8	The analytic signal as a unifying concept for modulation processes	Normand Provencher	
+
+
+18	Review of recorded music - Musical perspectives	Craig Anderton	
+
+
+Feb	134	1	Reader's questions: Op-amp poles	B.H.	
+
+
+2	Monthly literature review - "Electronic music circuits" by Barry Klein	B.H.	
+
+
+3	Lab notebook - More transistor noise spectra	B.H.	
+
+
+4	Newcomer's page - Modular systems and patching	B.H.	
+
+
+5	Integrated musical electronics - Part 2	B.H.	BG&PCC p. 199	
+
+
+7	An introduction to Hilbert transform theory and applications	B.H.	
+
+
+17	Tri-coloured LED indicates voltage peaks	B.H.	
+
+
+Mar	135	3	Monthly literature review - List of AN201 to AN242	B.H.	
+
+
+4	More on the experimental mallet controller	B. Hutchins, T. Henry, A. Berg	
+
+
+Apr	136	1	Monthly literature review - Journal of troublefinding research	B.H.	
+
+
+2	A pitch extraction scheme based on Hilbert transformation	B. Hutchins, D. Parola, L. Ludwig	
+
+
+May	137	2	Lab notebook - Comparisons of exponential decay, linear and convex envelope shapes for decay	B.H.	
+
+
+3	Coupled resonator and other methods of achieving two-stage amplitude decay	B.H.	
+
+
+Jun	138	2	Low key digital keyboard	B.H.	
+
+
+Jul	139	2	Methods of digital oscillator design based on digital filter structures	B.H.	
+
+
+Aug	140	1	A summary of OTA control current methods	B.H.	
+
+
+3	Some useful frequency response calculations avoiding factoring	B.H.	
+
+
+Sep	141	2	Newcomer's page - State variable filters	B.H.	EN
+
+
+3	Some new results concerning Q enhancement in OTA based VCFs	B.H.	
+
+
+Oct	142	1	Choices between analogue and digital synthesis	B.H.	
+
+
+3	Some remarks on the "copying problem"	B.H.	
+
+
+4	A new triangle-to-sine converter using a 1496-type multiplier	Terry Michaels	Previously credited as Terry Mikulic	
+
+
+Nov	143	2	Newcomer's page - Digital structures and hardware	B.H.	
+
+
+3	Guide to digital filter network design - Chapter 1	B.H.	
+
+
+9	Integrated musical electronics - Part 3: Better use of VCF chips	B.H.	
+
+
+Dec 82 - Feb 83	144 A (EN 144 – 146)	2	Digital envelope generator design based on digital filter structures	B.H.	
+
+
+11	Guide to digital filter network design - Chapter 2: Mathematical basis for analysis & design	B.H.	
+
+
+29	The effect of effective sample & hold with digital signals	B.H.	
+
+
+Mar 83 - Jun 83	147 B (EN 147 – 150)	1	Meet the SN76477	Thomas Henry	
+
+
+3	Guide to digital filter network design - Chapter 3: Filtering with delay line networks	B.H.	
+
+
+13	Guide to digital filter network design - Chapter 4: Design of finite impulse response filters	B.H.	
+
+
+29	A proposed FIR digital filter approach to variable-slope filtering	B.H.	
+
+
+Vol. 15 (Jul. 1983 - Dec. 1987)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jul 83 - Oct 83	151 C (EN 151 – 154)	1	Reader's questions: Digital all-pass filters, FIR poles	B.H.	
+
+
+3	Guide to digital filter network design - Chapter 5: Design of IIR filters	B.H.	
+
+
+29	A possible mechanism for electronic tuning of hair cells in the ear	B.H.	
+
+
+Nov 83 - Apr 84	155 D (EN 155 – 160)	1	Reader's questions: Substitute parts, imperfect harmonics	B.H.	
+
+
+3	Review of Fourier methods in signal processing and musical engineering	B.H.	
+
+
+3	Definition and notation	B.H.	
+
+
+4	Complex numbers	B.H.	
+
+
+5	The trigonometric Fourier series	B.H.	
+
+
+6	The complex Fourier series	B.H.	
+
+
+7	Example using TFS and CFS	B.H.	
+
+
+10	Side trip to Fourier transform	B.H.	
+
+
+13	Fourier series as a sampled Fourier transform	B.H.	
+
+
+17	Complex Fourier series of a piecewise constant waveform	B.H.	
+
+
+19	Discrete Fourier transform and its inverse	B.H.	
+
+
+21	Interpretation of the DFT equation	B.H.	
+
+
+22	Evaluation of the DFT and IDFT	B.H.	
+
+
+27	The fast Fourier transform	B.H.	
+
+
+35	Spectral analysis with the DFT/FFT	B.H.	
+
+
+41	Refinement and subtle points of the FFT spectral analysis	B.H.	
+
+
+46	The FFT route to convolution of sequences	B.H.	
+
+
+49	Signal synthesis using inverse DFT/FFT	B.H.	
+
+
+May 84 - Jul 84	161 E (EN 161 - 163)	2	Cautions on waveforms and spectra	B.H.	
+
+
+3	Harmonics of harmonicas	David Staver	
+
+
+11	Build a precision clock controller	Thomas Henry	
+
+
+18	On the implementation of variable digital filters with fixed clock rate	B.H.	
+
+
+Jul 86	164 F (EN 164 – 167)	1	Reader's questions - Microphone amplifiers	B.H.	
+
+
+3	Interpolation, decimation and prediction of digital signals	B.H.	
+
+
+47	Compensation of linear circuit blocks for the effects of real operational amplifiers	B.H.	
+
+
+66	Another (easier) way of understanding the Hilbert transform based pitch extractor	B.H.	
+
+
+68	Book reviews	B.H.	
+
+
+70	A four-pole variable digital filter with fixed clock rate	B. Hutchins and Eric Multanen	
+
+
+79	Some comments on digital sampling instruments	B.H.	
+
+
+Dec 87	168 G (EN 168)	3	Design of wideband analogue 90' phase differencing networks without large spread of capacitor values	B.H.	EN
+
+
+10	Corrections of interpolation, decimation and prediction of digital signals	B.H.	EN
+
+
+Vol. 16 (Jan. 1988 - Jul. 1989)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jan	169	2	Problems of recovering the analogue signal from digital samples	B.H.	
+
+
+Feb	170	1	Reader's questions: Interpolation	B.H.	
+
+
+3	Introduction to adaptive filters of several types	B.H.	
+
+
+Apr	171	1	Book review - DSP	B.H.	ECE426
+
+
+3	Review of frequency modulation synthesis techniques of musical sound	B.H.	
+
+
+Jul	172	1	Book review - Books on speech	B.H.	
+
+
+2	Interpolating samples with the DFT/FFT	B.H.	
+
+
+May 89	173	1	Book review	B.H.	
+
+
+3	Processing of information-bearing signals for pitch-changing, time-base changing and information preservation	B.H.	
+
+
+Jun	174	1	Reader's questions: Digital reconstruction filters	B.H.	
+
+
+3	Overflow oscillations and the "Mickey Mouse" fractal - Part 1	B.H.	
+
+
+Vol. 17 (Aug. 1989 - Jul. 1992)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Aug 89	175	1	Reader's questions: DSP - C compiler or assembly language	B.H.	ECE426
+
+
+3	New simplified equiripple design algorithm for FIR filters	B.H.	
+
+
+Jul 90	176	1	Breadboarding	B.H.	
+
+
+3	An initial study of the use of chaotic signals in synthesis of animated musical tones	B.H.	
+
+
+Nov 90	177	1	Reader's questions: Restoring LPs	B.H.	
+
+
+3	Spawning locations and mechanisms for overflow oscillation modes in a second-order digital oscillator	B.H.	
+
+
+Jul 91	178	1	Two roads to narrow-band chaos	B.H.	
+
+
+3	Narrow-band chaos achieved with Duffing's equation with possible musical synthesis applications	Eric Demers	
+
+
+35	A new adaptive filter simulator	B.H.	EN
+
+
+Jun 92	179	1	A least-square and min-max error examination of the musical scale question	B.H.	
+
+
+3	Prediction, deconvolution and system identification: Part 1 - Undriven systems	B.H.	
+
+
+Jul 92	180	3	Prediction, deconvolution and system identification: Part 2 - Driven systems	B.H.	
+
+
+Vol. 18 (Apr. 1993 - Sep. 1995)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Apr 83	181	1	Holes in a simulated frequency response measurement	F. Fox and B. Hutchins	
+
+
+16	An interesting special case of an LMS adaptive filter	B.H.	
+
+
+25	Practical aspects of obtaining spectra from FFTs	B.H.	
+
+
+Apr 84	182	3	Four useful examples involving piecewise-constant and piecewise-continuous functions	B.H.	
+
+
+Oct 94	183	3	Basic principles of adaptive system modelling	B.H.	
+
+
+Dec 94	184	3	The importance of the notation of band limiting and sample reconstruction	B.H.	
+
+
+Feb 95	185	3	Sample rate changing and corresponding effects on normalised and unnormalised spectra description	B.H.	
+
+
+Sep 95	186	3	Frequency errors and distortion in digital sinewave oscillators	B.H.	Possible program error in data on page 48	EN
+
+
+Vol. 19 (Aug. 1996 - Mar. 2000)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Aug 96	187	1	Book review - The computer music tutorial	B.H.	
+
+
+3	Sampling and recovering based on an average sampling rate	B.H.	
+
+
+33	Bob Moog visits Cornell	B.H.	
+
+
+Feb 97	188	1	It's better than TV	B.H.	
+
+
+3	Calculating the DFT and the Fourier series - Each with the other	B.H.	
+
+
+18	Up-boxes and down-boxes - Time and frequency response - Making sense?	B.H.	
+
+
+Aug 97	189	1	A preference for acoustic sounds	B.H.	
+
+
+3	Exploiting the periodic frequency response of discrete-time filters	B.H.	
+
+
+12	Time-domain zero-padding and the DFT	B.H.	
+
+
+Aug 98	190	1	To bib or not to bib	B.H.	On the problems/difficulties of including bibliographies.	
+
+
+3	The strange case of unconjugated poles and negative frequencies	B.H.	
+
+
+14	Internal decimation	B.H.	
+
+
+30	A min-max polynomial-fitting curiosity	B.H.	
+
+
+Dec 1999	191	2	Analog signal processing chapters 1 and 2	B.H.	EN
+
+
+Feb 2000	192	1	Zeros at infinity	B.H.	EN
+
+
+2	Analog signal processing chapter 3	B.H.	
+
+
+Mar 2000	193	1	A Butterworth that peaks!	B.H.	EN
+
+
+2	Analog signal processing chapter 4	B.H.	
+
+
+Vol. 20 ( Apr. 2000 - Sep. 2001)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Apr 2000	194	1	Modifications to a VCO	T. Mikulic	VCO of EN 62	EN
+
+
+2	Analog signal processing chapters 5 and 6	B.H.	
+
+
+Jul 2000	195	2	Active sensitivity in a compensated state-variable filter	B.H.	EN
+
+
+2	Analog signal processing chapter 7	B.H.	
+
+
+Dec 2000	196	2	Tuning equations derived from passive sensitivities	B.H.	EN
+
+
+2	Analog signal processing chapters 8, 9 and 10	B.H.	
+
+
+Apr 2001	197	1	Analog signal processing corner: The strange root locus of negative gain VCVS	B.H.	EN
+
+
+2	Basic elements of digital signal processing: Introduction to the series	B.H.	
+
+
+3	Basic elements of digital signal processing filter element, part 1	B.H.	
+
+
+Jun 2001	198	1	Analog corner: Measuring Q with decrement	B.H.	EN
+
+
+2	Basic elements of digital signal processing filter element, part 2	B.H.	
+
+
+Vol. 21 (Dec. 2001 - Aug. 2003)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Sep 2001	199	1	Analog corner reducing the accumulating gain - via Thevenin	B.H.	EN
+
+
+3	Basic elements of digital signal processing filter element - Part 3	B.H.	
+
+
+Dec 2001	200	1	Further adventures with analog synthesizer newsgroups	B.H.	EN
+
+
+3	Basic elements of digital signal processing sampling element	B.H.	
+
+
+56	Troubleshooting - Always a connection?	B.H.	
+
+
+Feb 2002	201	1	Analog signal processing corner second-order time overshoot: A second-order envelope generator?	B.H.	EN ECE426
+
+
+7	Some additional sampling examples	B.H.	
+
+
+Aug 2003	202	1	Book reviews (Analog Days, etc)	B.H.	EN ECE426
+
+
+3	Active compensation of Sallen-Key low-pass filters	B.H.	
+
+
+20	The curious ambiguous length of a triangular window	B.H.	
+
+
+Jan 2004	203	1	Bittersweet	B.H.	On acknowledging sources and the TVA using the Electronotes name	EN
+
+
+3	An intuitive approach to polyphase rate changing	B.H.	
+
+
+Aug 2004	204	1	Reader's question (recovering a sinewave from samples)	B.H.	EN
+
+
+5	Basic elements of digital signal processing - Finite wordlength effects (part 1)	B.H.	
+
+
+Vol. 22 (Mar. 2008 - Feb. 2012)
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Mar 2008	205	3	Sample-rate changing by polyphase on demand	B.H.	EN
+
+
+17	Recovery from bunched sampling	B.H.	
+
+
+Dec 2010	206	1	Negative frequencies and through-zero frequency modulation	B.H., D. Kraul, B. Moog	EN
+
+
+Dec 2011	207	1	Tools for investigating Kautz functions	B.H.	EN
+
+
+Jan 2012	208	1	A white noise curiosity	B.H.	EN
+
+
+Feb 2012	209	1	Basic elements of digital signal processing – finite wordlength effects (part 2)	B.H.	EN
+
+
+May 2012	210	1	RC lowpass revisited	B.H.	EN
+
+
+Jul 2012	211	1	Engineering models	B.H.	EN
+
+
+Dec 2012	212	1	The sound of a bouncing ball	B.H.	EN
+
+
+12	DACs for pseudo-random noise sequences	
+
+
+Jan 2013	213	1	Musical scales revisited	B.H.	EN
+
+
+30	Beating revisited	
+
+
+Feb 2013	214	1	Compensation of circuit blocks for op-amp poles - Revisited	B.H.	EN
+
+
+Vol. 23
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+May 2013	215	1	Revisited - Some VCF ideas	B.H.	EN
+
+
+Jul 2013	216	1	Revisited - Pulse-width modulation	B.H.	EN
+
+
+Sep 2013	217	1	What about: Self-frequency-modulation	B.H.	EN
+
+
+Oct 2013	218	1	Dispersion of "tone bursts" as a means of forming musical sounds	B.H.	EN
+
+
+Nov 2013	219	1	Feedback revisited - Gain due to feedback	B.H.	EN
+
+
+Jan 2014	220	1	Reviewing the current state of music synthesis	B.H.	EN
+
+
+Mar 2014	221	1	Resonators and friends - Prony with noise	B.H.	EN
+
+
+Jun 2014	222	1	FFT - Interpolation in time and frequency	B.H.	EN
+
+
+Nov 2014	223	1	Time-series smoothing - A review	B.H.	EN
+
+
+Feb 2015	224	1	Variable-slope filtering - Revisited	B.H.	EN
+
+
+Sep 2015	225	1	Filtering with "rings" of poles/zeros	B.H.	EN
+
+
+Jan 2016	226	1	Linear and exponential ramps	B.H.	EN
+
+
+Feb 2016	227	1	FFT of chirps - Linear FM	B.H.	EN
+
+
+Vol. 24
+
+
+Date	Issue	Page	Topic	Author	Comments	Web
+
+
+Jun 2016	228	1	Waveshaping - Static and dynamic	B.H.	EN
+
+
+Mar 2017	229	1	Pitch vs. frequency	B.H.	EN
+
+
+Supplements
+
+Supplements originally were to fill in more basic or transient content. Superseded by Application Notes. Later only 14, 15, 16 and 17 were made available.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+Jun 1972	S 1	The op-amp in electronic music	B.H.	pg. 7, Equation near top right Q =∆/f0 should read Q = f0/∆	
+
+
+	S 2	(List of publications of interest in popular literature, included in later lists.)	B.H.	
+
+
+Jul 1972	S 3	Philosophy of Electronic Music Pt 2: this is EN 9 pp10-14; 'Pt 1' is EN 6 pp2-5	B.H.	
+
+
+	S 4	(List of publications of interest in popular literature, included in later lists.)	B.H.	
+
+
+	S 5	(A listing of some electronic music works, replaced by S 12.)	B.H.	
+
+
+	S 6	(On the use of zener diode voltage regulators, replaced by later information.)	B.H.	
+
+
+Dec 1972	S 7	Digivox user's guide	R. Burhans	EN
+
+
+Dec 1972	S 8	Hybrid voltage-controlled digital electronic music systems considerations – with EN 16	B.H., Tom Wells, Simon Benlevy	pg. 4, 16th line from bottom; EN 51 should read EN 15
+pg, 7, Step 2: and Step 3:; Appropriate lines should read: Repeat for r = 1,2,3,.......2m (not just m, but 2m)
+pg. 13, lines 13 and 14; should read ....every eighth harmonic .... .... The fourth sinewave harmonic ....
+pg. 18, diagram; 11 keys should read 12 keys	EN
+
+
+Apr 1973	S 9	Scales of 1 to 49 tones	B.H.	
+
+
+Apr 1974	S 10	Starting to use a voltage-controlled electronic music synthesiser	B.H.	
+
+
+Jun 1974	S 11	Notes on the spring 1974 meetings of the Cornell musical engineering group	B.H.	
+
+
+May 1974	S 12	Listening list of contemporary music of all types	B.H.	
+
+
+Jun 1974	S 13	Notes on troubleshooting the ENS-73 in EN 28 – EN 37	B.H.	
+
+
+7 Jun 1977	S 14	New approaches to analog music synthesis	B.H.	
+
+
+Jul 1977	S 15	Transform methods in musical engineering	B.H.	
+
+
+1978	S 16	Laboratory problems and examples in active, voltage-controlled and delay line networks:
+Ch 1 Ideal op-amps and basic op-amp circuits
+Ch 2 Initial experiments with real op-amps
+Ch 3 s-plane analysis techniques and active filters
+Ch 4 Characterization of active filter responses
+Ch 5 Low-pass active filter examples and experiments
+Ch 6 High-pass, band-pass, all-pass and notch filters
+Ch 7 State-variable and voltage-controlled filters
+Ch 8 Discrete-time filtering with delay line networks	B.H.	EN
+
+
+Aug - Dec 1977	S 17	Literature evaluation LE-1 - LE-10	B.H.	
+
+
+Aug 1979	S 18	TI-59 program for roots of a polynomial	B.H.	
+
+
+Spring 1981	S 19	Log and exponential (antilog) circuits	B.H.	EN
+
+
+Application Notes
+
+Application Notes are shorter, more tutorial, aimed at a somewhat wider range of signal processing and general electrical/electronic engineering applications.
+
+Some of these are reprinted in the Builder's Guide and Preferred Circuits Collection in 1986.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+4 Aug 1976	AN 1	Five volt one amp power supplies for TTL	B.H.	BG&PCC p. 77	EN
+
+
+11 Aug 1976	AN 2	Bipolar 15 volt supplies for op-amps	B.H.	BG&PCC p. 79	EN
+
+
+18 Aug 1976	AN 3	Use of IC voltage regulators for powering equipment from car batteries	B.H.	
+
+
+25 Aug 1976	AN 4	Testing and using LED's and LED readouts	B.H.	
+
+
+4 Sep 1976	AN 5	Notch filters for hum rejection	B.H.	
+
+
+11 Sep 1976	AN 6	Using the 555 as a monostable	B.H.	
+
+
+18 Sep 1976	AN 7	Design of second-order low-pass filters	B.H.	
+
+
+25 Sep 1976	AN 8	Design of fourth-order low-pass filters	B.H.	
+
+
+4 Oct 1976	AN 9	Circuit for detecting slowly changing signals	B.H.	
+
+
+11 Oct 1976	AN 10	IC amplifier selection guide	B.H.	
+
+
+18 Oct 1976	AN 11	Determining the "Q" of a state-variable filter	B.H.	
+
+
+25 Oct 1976	AN 12	The biquad active filter circuit	B.H.	
+
+
+4 Nov 1976	AN 13	Equalisers and tone controls	B.H.	
+
+
+11 Nov 1976	AN 14	How to actually build something part 1: Parts and supplies	B.H.	BG&PCC p. 63	EN
+
+
+18 Nov 1976	AN 15	How to actually build something - Part 2: Circuit boards	B.H.	BG&PCC p. 65
+
+
+25 Nov 1976	AN 16	How to actually build something - Part 3: Soldering in parts	B.H.	BG&PCC p. 67
+
+
+4 Dec 1976	AN 17	How to actually build something - Part 4: Packaging	B.H.	BG&PCC p. 69
+
+
+11 Dec 1976	AN 18	How to actually build something - Part 5: Miscellaneous hints	B.H.	BG&PCC p. 71
+
+
+18 Dec 1976	AN 19	Simple linear voltage-controlled oscillator	B.H.	
+
+
+25 Dec 1976	AN 20	Improving the linear VCO	B.H.	
+
+
+4 Jan 1977	AN 21	Applying the CA3080 OTA	B.H.	EN
+
+
+11 Jan 1977	AN 22	Gain control applications of the CA3080	B.H.	
+
+
+18 Jan 1977	AN 23	The CA3080 as a voltage-controlled resistor	B.H.	
+
+
+25 Jan 1976	AN 24	Overdriven, saturating, and switching applications of the CA3080	B.H.	
+
+
+4 Feb 1977	AN 25	Low-Q bandpass filter	B.H.	
+
+
+11 Feb 1977	AN 26	Bandpass filter examples	B.H.	
+
+
+18 Feb 1977	AN 27	Simple clocking oscillators for digital IC's	B.H.	
+
+
+25 Feb 1977	AN 28	Simple op-amp multivibrator circuit	B.H.	
+
+
+5 Mar 1977	AN 29	Simple sine-wave oscillators	B.H.	BG&PCC p. 133 LFO	
+
+
+11 Mar 1977	AN 30	More clocking oscillators with digital IC's	B.H.	EN
+
+
+18 Mar 1977	AN 31	Schmitt trigger circuits with ICs	B.H.	
+
+
+25 Mar 1977	AN 32	The 555 as a collection of devices	B.H.	
+
+
+4 Apr 1977	AN 33	Simple interface circuits with CMOS	B.H.	
+
+
+11 Apr 1977	AN 34	Delay line setup with the MN3001	B.H.	
+
+
+18 Apr 1977	AN 35	Delay line setup with the SAD1024	B.H.	BG&PCC p. 257	
+
+
+25 Apr 1977	AN 36	Applying delay line evaluation setups	B.H.	
+
+
+4 May 1977	AN 37	High-Q bandpass filter	B.H.	
+
+
+11 May 1977	AN 38	High-Q bandpass filter example	B.H.	
+
+
+18 May 1977	AN 39	Design of second-order high-pass filters	B.H.	
+
+
+25 May 1977	AN 40	Design of fourth-order high-pass filters	B.H.	
+
+
+4 Jun 1977	AN 41	Summing amplifiers	B.H.	
+
+
+11 Jun 1977	AN 42	RMS to DC converter	B.H.	
+
+
+18 Jun 1977	AN 43	Selecting resistors for a given application	B.H.	
+
+
+25 Jun 1977	AN 44	Selecting capacitors for a given application	B.H.	
+
+
+4 Jul 1977	AN 45	Graphical determination of frequency response - S-plane case	B.H.	
+
+
+11 Jul 1977	AN 46	Graphical determination of phase response	B.H.	
+
+
+18 Jul 1977	AN 47	Graphical relationships in the Z-plane	B.H.	
+
+
+25 Jul 1977	AN 48	Z-plane graphical relationships for first-order systems	B.H.	
+
+
+4 Aug 1977	AN 49	Z-plane graphical relationships - A second-order example	B.H.	
+
+
+11 Aug 1977	AN 50	Discrete time all-pass networks	B.H.	
+
+
+18 Aug 1977	AN 51	Discrete time notch filters	B.H.	
+
+
+25 Aug 1977	AN 52	Relationships for higher-order discrete time filters	B.H.	
+
+
+4 Sep 1977	AN 53	Graphs for decibels	B.H.	
+
+
+11 Sep 1977	AN 54	A staircase wave generation technique	B.H.	
+
+
+18 Sep 1977	AN 55	R-filters	B.H.	
+
+
+25 Sep 1977	AN 56	R-filter method of op-amp frequency response testing	B.H.	
+
+
+4 Oct 1977	AN 57	Algebra tricks we have all forgotten	B.H.	
+
+
+11 Oct 1977	AN 58	Some hard to remember things about trigonometry	B.H.	
+
+
+18 Oct 1977	AN 59	Some easily forgotten things about complex numbers	B.H.	
+
+
+25 Oct 1977	AN 60	Hyperbolic functions	B.H.	Page 2 the second term should be "3" not "3!", remove the "!" from the tan and tanh expressions.	
+
+
+4 Nov 1977	AN 61	Fourier series square wave example	B.H.	
+
+
+11 Nov 1977	AN 62	Low-passed square wave - Time analysis	B.H.	
+
+
+18 Nov 1977	AN 63	Low-passed square wave - Frequency analysis	B.H.	
+
+
+25 Nov 1977	AN 64	Reference table - Fourier series	B.H.	
+
+
+4 Dec 1977	AN 65	Single stage phase shifter	B.H.	
+
+
+11 Dec 1977	AN 66	Lissajous figures	B.H.	
+
+
+18 Dec 1977	AN 67	Simple triangle-square oscillator	B.H.	BG&PCC p. 135 LFO	EN
+
+
+25 Dec 1977	AN 68	Analogue multipliers	B.H.	
+
+
+4 Jan 1978	AN 69	Additional analogue multipliers	Chuck Rogers	
+
+
+11 Jan 1978	AN 70	Signal splitting techniques	Seamour Solutions	
+
+
+18 Jan 1978	AN 71	Multi-mode filter based on first-order low-pass	B.H.	EN
+
+
+25 Jan 1978	AN 72	The twin-T filter	B.H.	
+
+
+4 Feb 1978	AN 73	Multi-phase scanning with sawtooth waveforms	B.H., Lester Ludwig	EN
+
+
+11 Feb 1978	AN 74	Mathematical factoring	B.H.	
+
+
+18 Feb 1978	AN 75	Designing Butterworth filters without data	B.H.	
+
+
+25 Feb 1978	AN 76	Graphical methods for Chebyshev pole placements	B.H.	
+
+
+4 Mar 1978	AN 77	TI 58/59 program for T(s)	B.H.	
+
+
+11 Mar 1978	AN 78	TI 58/59 program for H(z)	B.H.	
+
+
+18 Mar 1978	AN 79	Some simple sawtooth wave generators	B.H.	BG&PCC p. 137 LFO	
+
+
+25 Mar 1978	AN 80	Handling and application precautions for FET input op-amps	B.H.	
+
+
+4 Apr 1978	AN 81	TI-59 program for high-ripple Chebyshev poles	B.H.	
+
+
+11 Apr 1978	AN 82	Data for high-ripple Chebyshev filters	B.H.	
+
+
+18 Apr 1978	AN 83	Alarm circuit	B.H.	
+
+
+25 Apr 1978	AN 84	Reference levels for decibels	B.H.	
+
+
+4 May 1978	AN 85	Measuring op-amp parameters: Open-loop gain	B.H.	
+
+
+11 May 1978	AN 86	Measuring op-amp parameters: Input error values	B.H.	
+
+
+18 May 1978	AN 87	Measuring op-amp parameters: Output drive limitations	B.H.	
+
+
+25 May 1978	AN 88	Measuring op-amp parameters: Input resistance, CMRR	B.H.	
+
+
+4 Jun 1978	AN 89	Measuring op-amp parameters: Bandwidth limitations	B.H.	
+
+
+11 Jun 1978	AN 90	Resonant peaking in second-order filters	B.H.	
+
+
+18 Jun 1978	AN 91	DC gain of state-variable filters	B.H.	
+
+
+25 Jun 1978	AN 92	Three ways to partial fractions	B.H.	
+
+
+4 Jul 1978	AN 93	Logic decisions with op-amps	B.H.	
+
+
+11 Jul 1978	AN 94	N or more of M - Op-amp logic	B.H.	
+
+
+18 Jul 1978	AN 95	AC amplifiers with op-amps	B.H.	
+
+
+25 Jul 1978	AN 96	TI-59 program for 90° phase differencing networks	Mark Swartwout	
+
+
+4 Aug 1978	AN 97	The transferable power supply	B.H.	EN
+
+
+11 Aug 1978	AN 98	IC regulators for small bench supplies	B.H.	BG&PCC p. 81	EN
+
+
+18 Aug 1978	AN 99	TI-59 program for the "Deliyannis" bandpass filter	B.H.	
+
+
+25 Aug 1978	AN 100	Op-amp selection guide - 1978	B.H.	
+
+
+4 Sep 1978	AN 101	Delay lines setup with the MN3003	B.H.	
+
+
+11 Sep 1978	AN 102	Bipolar summing control with one pot	B.H.	
+
+
+18 Sep 1978	AN 103	Second-order step response	B.H.	EN
+
+
+25 Sep 1978	AN 104	A hidden bandpass decoupling stage	B.H.	
+
+
+4 Oct 1978	AN 105	Considerations for bilinear z-transformed delay line networks	B.H.	
+
+
+11 Oct 1978	AN 106	Current mirrors	B.H.	
+
+
+18 Oct 1978	AN 107	Matched filters for sequence detection	B.H.	
+
+
+25 Oct 1978	AN 108	Series expansions (where calculators fear to tread)	B.H.	
+
+
+5 Nov 1978	AN 109	Taylor series expansions	B.H.	
+
+
+11 Nov 1978	AN 110	Some useful series expansions	B.H.	
+
+
+18 Nov 1978	AN 111	TI-59 program for Bessel functions	B.H.	
+
+
+25 Nov 1978	AN 112	Differential and buffered differential amplifiers	B.H.	
+
+
+5 Dec 1978	AN 113	Biquadratic functions with state-variable filters	B.H.	
+
+
+11 Dec 1978	AN 114	A frequency-to-voltage converter	B.H.	
+
+
+18 Dec 1978	AN 115	Triangle-to-sine converters using nonlinear shapers	B.H.	
+
+
+25 Dec 1978	AN 116	Triangle-to-sine conversion based on power series	B.H.	
+
+
+4 Jan 1979	AN 117	Transversal digital filter demonstration program for TI-59 calculator	B.H.	
+
+
+11 Jan 1979	AN 118	Transversal filter program - Instructions and examples	B.H.	
+
+
+18 Jan 1979	AN 119	More transversal filter examples	B.H.	
+
+
+25 Jan 1979	AN 120	Full-wave rectifiers	B.H.	
+
+
+5 Feb 1979	AN 121	A state-variable configuration with constant peak response	B.H.	EN
+
+
+15 Feb 1979	AN 122	AC amplifiers with transistors	B.H.	
+
+
+25 Feb 1979	AN 123	Single supply setup for IC amplifiers	B.H.	
+
+
+4 Mar 1979	AN 124	An experimental switched capacitor filter	B.H.	
+
+
+11 Mar 1979	AN 125	Applying the AD581 voltage reference	B.H.	
+
+
+18 Mar 1979	AN 126	A lock-in detector circuit	B.H.	
+
+
+25 Mar 1979	AN 127	Applying the lock-in detector	B.H.	
+
+
+5 Apr 1979	AN 128	A semiautomatic CA3080 selection scheme	B.H.	
+
+
+15 Apr 1979	AN 129	Touch-controlled switches - 1	B.H.	
+
+
+25 Apr 1979	AN 130	Touch-controlled switches - 2	B.H.	
+
+
+4 May 1979	AN 131	Troubleshooting - 1	B.H.	BG&PCC p. 275	
+
+
+11 May 1979	AN 132	Troubleshooting - 2	B.H.	BG&PCC p. 277	
+
+
+18 May 1979	AN 133	Troubleshooting - 3	B.H.	BG&PCC p. 279	
+
+
+25 May 1979	AN 134	Troubleshooting - 4	B.H.	BG&PCC p. 281	
+
+
+5 Jun 1979	AN 135	Control-voltage test sequencer	B.H.	
+
+
+15 Jun 1979	AN 136	An op-amp supply based on a 12.6V filament transformer	B.H.	BG&PCC p. 83	
+
+
+25 Jun 1979	AN 137	A switched capacitor state-variable filter	B.H.	
+
+
+4 Jul 1979	AN 138	Applying the multiple-feedback infinite-gain low-pass filter	B.H.	
+
+
+11 Jul 1979	AN 139	Catalogue - Second-order step response	B.H.	
+
+
+18 Jul 1979	AN 140	The measurement of phase	B.H.	
+
+
+25 Jul 1979	AN 141	TI-59 - PC-100A program for Deliyannis bandpass filter	B.H.	
+
+
+5 Aug 1979	AN 142	The documentation of electronic circuits	B.H.	
+
+
+15 Aug 1979	AN 143	Simple noise sources	B.H.	BG&PCC p. 251	
+
+
+25 Aug 1979	AN 144	Simple tricks with logic gates	B.H.	
+
+
+4 Sep 1979	AN 145	Analysis of the "Deliyannis" bandpass filter	B.H.	
+
+
+11 Sep 1979	AN 146	TI-59 program for second-order bilinear-Z low-pass	B.H.	
+
+
+18 Sep 1979	AN 147	Choice of design parameters for analogue delay line comb filters	B.H.	
+
+
+25 Sep 1979	AN 148	Digital frequency dividers - Integer division - 1	B.H.	
+
+
+5 Oct 1979	AN 149	Digital frequency dividers - Integer division - 2	B.H.	
+
+
+15 Oct 1979	AN 150	Digital frequency dividers - Integer division - 3	B.H.	
+
+
+25 Oct 1979	AN 151	Digital frequency dividers - Integer division - 4	B.H.	
+
+
+4 Nov 1979	AN 152	Digital frequency dividers - Non-integer division	B.H.	
+
+
+11 Nov 1979	AN 153	Frequency multiplication - 1	B.H.	
+
+
+18 Nov 1979	AN 154	Frequency multiplication - 2	B.H.	
+
+
+25 Nov 1979	AN 155	Frequency multiplication - 3	B.H.	
+
+
+5 Dec 1979	AN 156	Second-order frequency response	B.H.	
+
+
+15 Dec 1979	AN 157	Second-order frequency response - Curve data	B.H.	
+
+
+25 Dec 1979	AN 158	Transconductor transfer curves for the CA3080	B.H.	
+
+
+4 Jan 1980	AN 159	Bugs and debugs - Series 1	B.H.	
+
+
+11 Jan 1980	AN 160	Efficient calculation of the Fourier series of rectangular functions	B.H.	EN
+
+
+18 Jan 1980	AN 161	Correlation-cancellation loops - 1, basics	B.H.	
+
+
+25 Jan 1980	AN 162	Correlation-cancellation loops - 2, experimental circuit	B.H.	
+
+
+5 Feb 1980	AN 163	Correlation-cancellation loops - 3, loop with quadrature reference	B.H.	
+
+
+15 Feb 1980	AN 164	Correlation-cancellation loops - 4, additional comments	B.H.	
+
+
+25 Feb 1980	AN 165	90° phase-difference networks - Basics and data	B.H.	
+
+
+4 Mar 1980	AN 166	90° phase-difference networks - Use of phase shift sections	B.H.	
+
+
+11 Mar 1980	AN 167	90° phase-difference networks - Second-order all-pass networks - 1	B.H.	EN
+
+
+18 Mar 1980	AN 168	Second-order all-pass networks - 2	B.H.	
+
+
+25 Mar 1980	AN 169	Second-order all-pass networks - 3	B.H.	
+
+
+5 Apr 1980	AN 170	Second-order all-pass networks - 4	B.H.	
+
+
+15 Apr 1980	AN 171	Analogue integrators - 1, basics: Stability, true and leaky integrators	B.H.	
+
+
+25 Apr 1980	AN 172	Analogue integrators - 2, the leaky integrator - A low-pass filter	B.H.	
+
+
+4 May 1980	AN 173	Analogue integrators - 3, positive, summed, and differential integrators	B.H.	
+
+
+11 May 1980	AN 174	Analogue integrators - 4, the Deboo integrator	B.H.	
+
+
+18 May 1980	AN 175	Analogue integrators - 5, response of a stable integrator	B.H.	
+
+
+25 May 1980	AN 176	Analogue integrators - 6, miscellaneous observations	B.H.	
+
+
+5 Jun 1980	AN 177	Applications of uncompensated op-amps	B.H.	
+
+
+15 Jun 1980	AN 178	Basics - Op-amps	B.H.	
+
+
+25 Jun 1980	AN 179	Basics - Op-amps - A bit more	B.H.	
+
+
+4 Jul 1980	AN 180	Basics - Logic ICs	B.H.	
+
+
+11 Jul 1980	AN 181	Basics - Miscellaneous ICs	B.H.	
+
+
+18 Jul 1980	AN 182	Second-order low-pass filters using voltage follower	B.H.	
+
+
+25 Jul 1980	AN 183	Elements of notch filter design	B.H.	
+
+
+5 Aug 1980	AN 184	Selection of notch and bandstop responses	B.H.	
+
+
+15 Aug 1980	AN 185	Notch filter using simulated inductor	B.H.	
+
+
+25 Aug 1980	AN 186	State-variable input-notch structure	B.H.	
+
+
+4 Sep 1980	AN 187	State-variable output-notch structure	B.H.	
+
+
+11 Sep 1980	AN 188	The bootstrapped twin-T notch	B.H.	
+
+
+18 Sep 1980	AN 189	Notch filters using bandpass subtraction	B.H.	
+
+
+25 Sep 1980	AN 190	A sawtooth frequency multiplier	B.H.	
+
+
+5 Oct 1980	AN 191	The basic ideas of calculus	B.H.	
+
+
+15 Oct 1980	AN 192	The basic ideas of complex numbers	B.H.	
+
+
+25 Oct 1980	AN 193	Philosophy of mathematical models	B.H.	
+
+
+4 Nov 1980	AN 194	Simple shelving equaliser	B.H.	EN
+
+
+11 Nov 1980	AN 195	Precision work with 5% resistors	B.H.	
+
+
+18 Nov 1980	AN 196	Capacitors - 1	B.H.	
+
+
+25 Nov 1980	AN 197	Capacitors - 2	B.H.	
+
+
+5 Dec 1980	AN 198	Distortion - 1	B.H.	
+
+
+15 Dec 1980	AN 199	Distortion - 2	B.H.	
+
+
+25 Dec 1980	AN 200	Some simple good design ideas	B.H.	EN
+
+
+4 Jan 1981	AN 201	Fourier series coefficients from Fourier transform	B.H.	
+
+
+11 Jan 81	AN 202	A feedforward almost-flash A/D converter	B.H.	
+
+
+18 Jan 1981	AN 203	Four-quadrant multiplier based on operational transconductance amplifier	B.H.	
+
+
+25 Jan 1981	AN 204	Quadrature circuits for amplitude detection and frequency differencing	B.H.	
+
+
+5 Feb 1981	AN 205	Relationships between trigonometric and complex Fourier series	B.H.	
+
+
+15 Feb 1981	AN 206	Amplitude spectra from Fourier series coefficients	B.H.	
+
+
+25 Feb 1981	AN 207	High order Butterworth filters - Design	B.H.	
+
+
+4 Mar 1981	AN 208	High order Butterworth filters - Trimming	B.H.	
+
+
+11 Mar 1981	AN 209	Limited depth notch filtering	B.H.	
+
+
+18 Mar 1981	AN 210	AC amplifiers with op-amps: High frequency limits	B.H.	
+
+
+25 Mar 1981	AN 211	Mathematical notation and conventions - English letters and symbols	B.H.	
+
+
+5 Apr 1981	AN 212	Mathematical notation and conventions - Greek letters and symbols	B.H.	
+
+
+15 Apr 1981	AN 213	Mathematical notation and conventions - Misc. terms and symbols	B.H.	
+
+
+25 Apr 1981	AN 214	Third-order low-pass with unity-gain follower	B.H.	
+
+
+4 May 1981	AN 215	A simple mid-range booster	B.H.	
+
+
+11 May 1981	AN 216	Bench loudspeaker amplifier with op-amps	B.H.	
+
+
+18 May 1981	AN 217	Phase-locked loops - 1	B.H.	
+
+
+25 May 1981	AN 218	Phase-locked loops - 2	B.H.	
+
+
+5 Jun 1981	AN 219	Phase-locked loops - 3	B.H.	
+
+
+15 Jun 1981	AN 220	Phase-locked loops - 4	B.H.	
+
+
+25 Jun 1981	AN 221	Phase-locked loops - 5	B.H.	
+
+
+4 Jul 1981	AN 222	Working with finite gain-bandwidth-product op-amps - 1, amplifiers	B.H.	
+
+
+11 Jul 1981	AN 223	Working with finite gain-bandwidth-product op-amps - 2, Sallen-Key filters	B.H.	
+
+
+18 Jul 1981	AN 224	Working with finite gain-bandwidth-product op-amps - 3, NFIG filters	B.H.	
+
+
+25 Jul 1981	AN 225	Working with finite gain-bandwidth-product op-amps - 4, integrators	B.H.	
+
+
+5 Aug 1981	AN 226	Quantization errors in digital systems - 1, large, complex, signals	B.H.	
+
+
+15 Aug 1981	AN 227	Quantization errors in digital systems - 2, low-level simple signals	B.H.	
+
+
+25 Aug 1981	AN 228	Spectral shaping of hold devices	B.H.	
+
+
+4 Sep 1981	AN 229	Simple signal prediction systems	B.H.	
+
+
+11 Sep 1981	AN 230	Distortion in digitally generated sine waves, part 1	B.H.	
+
+
+18 Sep 1981	AN 231	Distortion in digitally generated sine waves, part 2	B.H.	
+
+
+25 Sep 1981	AN 232	Resistor averaging networks	B.H.	
+
+
+5 Oct 1981	AN 233	Resistor level shifting networks, part 1 - Theory	B.H.	
+
+
+15 Oct 1981	AN 234	Resistor level shifting networks, part 2 - Formulas and examples	B.H.	
+
+
+25 Oct 1981	AN 235	Active, non-inverting level shifting	B.H.	EN
+
+
+4 Nov 1981	AN 236	Response of equal tap weight FIR filters	B.H.	
+
+
+11 Nov 1981	AN 237	FIR filters with triangle and square tap weights	B.H.	
+
+
+18 Nov 1981	AN 238	FIR filters with sinusoidal tap weights	B.H.	
+
+
+25 Nov 1981	AN 239	FIR filters from Fourier-series of ideal response	B.H.	
+
+
+5 Dec 1981	AN 240	Dimensional analysis	B.H.	
+
+
+15 Dec 1981	AN 241	Angles for pole plotting	B.H.	
+
+
+25 Dec 1981	AN 242	TI-59 program for Chebyshev poles	B.H.	
+
+
+5 Jan 1982	AN 243	Inductance simulation with a gyrator	B.H.	
+
+
+20 Jan 1982	AN 244	Filter based on op-amp poles	B.H.	
+
+
+5 Feb 1982	AN 245	FIR filters with square wave taps	B.H.	
+
+
+20 Feb 1982	AN 246	The prewarp problem in bilinear-Z method - 1	B.H.	
+
+
+5 Mar 1981	AN 247	The prewarp problem in bilinear-Z method - 2	B.H.	
+
+
+20 Mar 1982	AN 248	The prewarp problem in bilinear-Z method - 3	B.H.	
+
+
+5 Apr 1982	AN 249	Calculations for space satellites - 1	B.H.	
+
+
+20 Apr 1980	AN 250	Calculations for space satellites - 2	B.H.	
+
+
+5 May 1982	AN 251	New frequency response program for TI-59	B.H.	
+
+
+20 May 1982	AN 252	The theory of FIR filter frequency response - 1	B.H.	
+
+
+5 Jun 1982	AN 253	The theory of FIR filter frequency response - 2	B.H.	
+
+
+20 Jun 1982	AN 254	TI-59 Program for H|(z)| based on FIR filter taps	B.H.	
+
+
+5 Jul 1982	AN 255	TI-59 Program for H|(z)| without factoring	B.H.	
+
+
+20 Jul 1982	AN 256	TI-59 Program for T|(s)| without factoring	B.H.	EN
+
+
+5 Aug 1982	AN 257	Op-amp noise gain	B.H.	
+
+
+20 Aug 1982	AN 258	Notes on various window functions	B.H.	
+
+
+5 Sep 1982	AN 259	Windowing of FIR filter taps - 1	B.H.	
+
+
+20 Sep 1982	AN 260	Windowing of FIR filter taps - 2	B.H.	
+
+
+5 Oct 1982	AN 261	TI-59 program for FIR filter taps	B.H.	
+
+
+20 Oct 1982	AN 262	FIR filters with exponential taps	B.H.	
+
+
+5 Nov 1982	AN 263	Bilinear Z design program for TI-59/PC100A	B.H.	
+
+
+20 Nov 1982	AN 264	Bilinear Z-transform design example	B.H.	
+
+
+5 Dec 1982	AN 265	Design of digital Hilbert transformers	B.H.	
+
+
+20 Dec 1982	AN 266	Active compensation of the integrator	B.H.	
+
+
+5 Jan 1983	AN 267	Impulse invariance digital filter design - 1	B.H.	
+
+
+15 Jan 1983	AN 268	Impulse invariance digital filter design - 2	B.H.	
+
+
+25 Jan 1983	AN 269	Impulse invariance digital filter design - 3	B.H.	
+
+
+5 Feb 1983	AN 270	Frequency tuning of digital filters	B.H.	
+
+
+15 Feb 1983	AN 271	Frequency response of bandpass filters	B.H.	EN
+
+
+25 Feb 1983	AN 272	Time response of bandpass filters	B.H.	
+
+
+5 Mar 1983	AN 273	Bessel filter poles	B.H.	
+
+
+15 Mar 1983	AN 274	Bessel filter example	B.H.	
+
+
+25 Mar 1983	AN 275	Design of Chebyshev filters - 1	B.H.	
+
+
+5 Apr 1983	AN 276	Design of Chebyshev filters - 2	B.H.	
+
+
+15 Apr 1983	AN 277	Introduction to elliptical filters	B.H.	
+
+
+25 Apr 1983	AN 278	Numerical aids to filter tuning	B.H.	
+
+
+5 May 1983	AN 279	Measuring the Q of bandpass filters	B.H.	
+
+
+15 May 1983	AN 280	Highpass from lowpass - Example	B.H.	
+
+
+Jun 1983	AN 281	Active simulation of passive LC filters	B.H.	
+
+
+Jan 1986	AN 283	Negative gain VCVS lowpass	B.H.	
+
+
+Feb 1986	AN 284	Passive sensitivity [lowpass filters]	B.H.	
+
+
+Mar 1986	AN 285	Notes on calculating passive sensitivity	B.H.	
+
+
+Apr 1986	AN 286	Useful hints on setting up and correctly solving active networks	B.H.	
+
+
+May 1986	AN 287	Biquadratic circuit realisations	B.H.	
+
+
+Jun 1986	AN 288	Notes on impulse invariance	B.H.	
+
+
+Jul 1986	AN 289	Wires	B.H.	
+
+
+Aug 1986	AN 290	Identification of parts	B.H.	
+
+
+Sep 1986	AN 291	Digital lattice filters	B.H.	
+
+
+Oct 1986	AN 292	Windows for signal processing	B.H.	
+
+
+Nov/Dec 1986	AN 293	Frequency sample filters and related devices	B.H.	
+
+
+Jan 1987	AN 294	Analysis of switched capacitor integrator configurations	B.H.	
+
+
+Feb/Mar/Apr 1987	AN 295	Finite word length effects in digital filters	B.H.	
+
+
+May 1987	AN 296	A coefficient roundoff sensitivity example	B.H.	
+
+
+Jun/Jul 1987	AN 297	Coefficient space study of second-order digital filters	B.H.	
+
+
+Aug 1987	AN 298	A class of limit cycles	B.H.	
+
+
+Sep/Oct 1987	AN 299	Design considerations for digital sinewave oscillators	B.H.	
+
+
+Nov/Dec 1987	AN 300	Three random points about random signals (i) addition of noise sources	B.H.	
+
+
+Three random points about random signals (ii) signal to noise ratio improved by parallel amplifiers	B.H.	
+
+
+Three random points about random signals (iii) quantization noise	B.H.	
+
+
+Mar 1988	AN 301	Filters based on MFIG bandpass and related topics	B.H.	
+
+
+May 1988	AN 302	TMS32010 EVM terminal program	B.H.	
+
+
+Jun 1988	AN 303	TMS32010 terminal program instructions	B.H.	
+
+
+Jul 1988	AN 304	TMS terminal program install guide	B.H.	
+
+
+Sep 1988	AN 305	Fourier series of piecewise constant functions	B.H.	
+
+
+Dec 1988	AN 306	Peak amplitude response in second-order digital filters	B.H.	
+
+
+Aug 1989	AN 307	Some notes on digital sequence generation	B.H.	
+
+
+Jan 1990	AN 308	Fourier series of piecewise continuous functions	B.H.	
+
+
+Sep 1990	AN 309	A view of a digital sinewave oscillator	B.H.	
+
+
+Oct 1990	AN 310	Small-scale limit cycles due to truncation	B.H.	
+
+
+Nov 1990	AN 311	Extensions of equiripple FIR filter design	B.H.	
+
+
+Dec 1990	AN 312	An intuitive approach to FFT algorithms	B.H.	EN ECE426
+
+
+Jan 1991	AN 313	Options for low-frequency quadrature digital oscillators	B.H.	
+
+
+Aug 1991	AN 314	Additional quadrature oscillator methods	B.H.	
+
+
+Nov 1991	AN 315	Least-squared error filter design	B.H.	
+
+
+Dec 1991	AN 316	Least-square filters for non-integrator delay and interpolation	B.H.	
+
+
+Jan 1992	AN 317	Polynomial fitting for sample-rate changing at rational and irrational frequency ratios	B.H.	EN
+
+
+Feb 1992	AN 318	Time domain least-squared low-pass filters	B.H.	EN
+
+
+Mar 1992	AN 319	Subtle design considerations for Hamming windows	B.H.	
+
+
+Apr 1992	AN 320	Wavelet synthesis of Walsh functions	B.H.	
+
+
+May 1992	AN 321	A two-component aliasing demonstration	B.H.	
+
+
+Jun 1992	AN 322	Effects of multiplying sequence by ±1	B.H.	
+
+
+Jul 1992	AN 323	Sinc interpolation for sample rate changing at irrational frequency ratios	B.H.	
+
+
+Dec 1992	AN 324	Time aliasing	B.H.	
+
+
+Feb 1993	AN 325	Time responses of basic RC circuits	B.H.	
+
+
+Jul 1993	AN 326	A basis for time-response-invariant digital filter designs	B.H.	
+
+
+Nov 1993	AN 327	A new adaptive filter simulation program	B.H.	
+
+
+Dec 1993	AN 328	An adaptive filter using the TMS320C30	B.H.	
+
+
+Feb 1994	AN 329	A real-time autocorrelator using the TMS320C25	B.H.	
+
+
+Oct 1994	AN 330	Properties of reciprocal positions with respect to the unit circle	B.H.	
+
+
+May 1995	AN 331	An interesting adaptive filter case resulting in a notch response	B.H.	
+
+
+Aug 1995	AN 332	Weighted, integrated, least-squared error for FIR filter design	B.H.	
+
+
+Oct 1995	AN 333	Design and applications of inverse Chebyshev filters	B.H.	EN
+
+
+Nov 1995	AN 334	Design and applications of elliptic filters	B.H.	EN
+
+
+Dec 1995	AN 335	Low-pass to high-pass transformations: Analog and digital approaches	B.H.	EN
+
+
+Jan 1996	AN 336	Low-pass to band-pass transformations: Analog and digital approaches	B.H.	EN
+
+
+Mar 1996	AN 337	A general review of frequency sampling design	B.H.	EN
+
+
+May 1996	AN 338	Multiple-order unit circle zeros and their effect on magnitude response	B.H.	
+
+
+Sep 1996	AN 339	Frequency conventions for discrete-time systems	B.H.	
+
+
+Nov 1996	AN 340	To views of "leakage" in DFT-based spectral estimation	B.H.	
+
+
+Dec 1996	AN 341	A simple FIR filter based on an analog prototype using bilinear Z-transform	B.H.	
+
+
+15 Feb 1997	AN 342	Mathematical considerations relating to equiripple filters	B.H.	
+
+
+28 Feb 1997	AN 343	A simple equiripple filter obtained by iterating by hand	B.H.	
+
+
+Sep 1997	AN 344	A "poor mans" sample-hold correction obtained by omitting a Butterworth low-pass pole	B.H.	
+
+
+Oct 1997	AN 345	Improved signal/noise ratio with first order noise shaping: An example	B.H.	EN ECE426
+
+
+Feb 1998	AN 346	Mathematical derivations of resampling, compression, and expansion	B.H.	
+
+
+Apr 1998	AN 347	A simple view of a perfect reconstruction filter	B.H.	
+
+
+Jul 1998	AN 348	Contrasting sinewave generation in the analog and digital cases	B.H.	EN
+
+
+Aug 1998	AN 349	Two pole vs. four-pole filters - The issues	B.H.	EN ECE426
+
+
+Nov 1998	AN 350	Linear phase - The term taken outside	B.H.	EN
+
+
+Sep 2000	AN 351	Cascading discrete and continuous holds	B.H.	EN
+
+
+May 2002	AN 352	Phase errors, amplitude errors, and unwanted sidebands in frequency shifters	B.H.	EN
+
+
+Mar 2003	AN 353	A note on the gain and time constant of integrators	B.H.	EN
+
+
+May 2003	AN 354	A simple (simplest?) side-tracking filter	B.H.	EN
+
+
+Oct 2003	AN 355	Envelope extraction with the Hilbert transform	B.H.	EN
+
+
+Oct 2003	AN 356	Spectral recovery for a class of non-uniform ("bunched") sampling	B.H.	EN ECE426
+
+
+Nov 2003	AN 357	Consideration for a noise ordinance	B.H.	EN
+
+
+Jun 2004	AN 358	Example perfect reconstruction filters	B.H.	EN
+
+
+Jul 2004	AN 359	DFT length conversion	B.H.	EN
+
+
+Aug 2004	AN 360	Flat and not-so-flat spectra	B.H.	EN
+
+
+15 May 2005	AN 361	Passive sensitivities and tuning equations	B.H.	EN
+
+
+Dec 2005	AN 362	Customized Hamming window with filter design applications	B.H.	EN
+
+
+Mar 2006	AN 363	Calculating the bit-saving achieved with noise-shaping	B.H.	EN
+
+
+5 Apr 2006	AN 364	Fourier series and DFT	B.H.	EN
+
+
+15 Apr 2006	AN 365	Frequency analysis/resolution with few samples	B.H.	EN
+
+
+May 2006	AN 366	Unfiltering - Equalization	B.H.	EN
+
+
+Jun 2006	AN 367	Some comments on fixed-point digital oscillator design	B.H.	EN
+
+
+Dec 2006	AN 368	Interpolation with a minimum norm polynomial	B.H.	EN
+
+
+Feb 2007	AN 369	Two dimensional uniform sampling	B.H.	EN
+
+
+Mar 2007	AN 370	Lifting - A third approach to wavelets	B.H.	EN
+
+
+Apr 2007	AN 371	A 2D wavelet filtering example	B.H.	EN
+
+
+Jan 2008	AN 372	Interpolation error in sinewaves tables	B.H.	EN
+
+
+Feb 2009	AN 373	Interpretation of DFT as one frequency sinusoidal waveforms	B.H.	EN
+
+
+Aug 2010	AN 374	A view of linear invariant systems	B.H.	EN
+
+
+Nov 2011	AN 375	Moving averages and single sinewave cycles	B.H.	EN
+
+
+Dec 2011	AN 376	Interpolation of samples on a square lattice	B.H.	EN
+
+
+Feb 2012	AN 377	False ideas about random sequences	B.H.	EN
+
+
+Mar 2012	AN 378	A program for a flat white noise	B.H.	EN
+
+
+Jul 2012	AN 379	Fun plotting your own global warming curves	B.H.	EN
+
+
+5 Aug 2012	AN 380	Fun with lighting switches—simple but sometimes frustrating	B.H.	EN
+
+
+10 Aug 2012	AN 381	A fun analysis - Instrumentation amplifier	B.H.	EN
+
+
+20 Aug 2012	AN 382	Fun with Ohm's law - Maximum power transfer	B.H.	EN
+
+
+25 Aug 2012	AN 383	A fun problem Don Lancaster dropped on us years ago	B.H.	EN
+
+
+1 Sep 2012	AN 384	Fun with red noise	B.H.	EN
+
+
+5 Sep 2012	AN 385	Looking at principal component analysis	B.H.	EN
+
+
+1 Oct 2012	AN 386	Fun with a round earth	B.H.	EN
+
+
+10 Oct 2012	AN 387	Fun with FFT timing	B.H.	EN
+
+
+1 Nov 2012	AN 388	Fun with survey maps	B.H.	EN
+
+
+15 Nov 2012	AN 389	Fun with probability puzzles 1 — the Monty Hall problem	B.H.	EN
+
+
+20 Nov 2012	AN 390	Fun with probability puzzles 2 — false positives	B.H.	EN
+
+
+25 Nov 2012	AN 391	Fun with probability puzzles 3 — the girl named Florida	B.H.	EN
+
+
+5 Dec 2012	AN 392	Fun with Reverend Bayes - An overview	B.H.	EN
+
+
+10 Dec 2012	AN 393	The Bayes equation denominator	B.H.	EN
+
+
+20 Jan 2013	AN 394	Node voltages by superposition	B.H.	EN
+
+
+30 Mar 2013	AN 395	Averaging - And endpoint garbage	B.H.	EN
+
+
+5 Jun 2013	AN 396	Controlling a low-pass peak gain	B.H.	EN
+
+
+15 Jun 2013	AN 397	Clipping: Friend or foe	B.H.	EN
+
+
+20 Jul 2013	AN 398	A short presentation of FFT (DFT) interpolation	B.H.	EN
+
+
+13 Sep 2013	AN 399	The "Jung trick" applied to a dual OTA	B.H.	EN
+
+
+5 Dec 2013	AN 400	Square-roots by hand	B.H.	EN
+
+
+22 Dec 2013	AN 401	Yearly moving averages as FIR filters	B.H.	EN
+
+
+10 Jan 2014	AN 402	Anomalies in pseudo-random generators	B.H.	EN
+
+
+27 Jan 2014	AN 403	Spurious correlation due to filtering (of noise)	B.H.	EN
+
+
+13 Feb 2014	AN 404	Savitzky-Golay smoothing	B.H.	EN
+
+
+22 Feb 2014	AN 405	Removing "outliers" from averaging	B.H.	EN
+
+
+15 Mar 2014	AN 406	Wiener alternative to LMS algorithm	B.H.	EN
+
+
+30 Mar 2014	AN 407	Inverting a moving average operation	B.H.	EN
+
+
+5 Apr 2014	AN 408	Examples of inverting of smoothers	B.H.	EN
+
+
+6 Apr 2014	AN 409	Changing the moving average length - A recipe	B.H.	EN
+
+
+6 May 2014	AN 410	Fourier map	B.H.	EN
+
+
+20 May 2014	AN 411	DTFT and Fourier series: N equations in N unknowns	B.H.	EN
+
+
+25 May 2014	AN 412	More fun with red noise	B.H.	EN
+
+
+30 Jul 2014	AN 413	Notch filtering - Some notes	B.H.	EN
+
+
+15 Aug 2014	AN 414	Step response from Laplace transform	B.H.	EN
+
+
+1 Nov 2014	AN 415	Do random sequences need “improving”?	B.H.	EN
+
+
+7 Nov 2014	AN 416	More concerning non-flat random FFT	B.H.	EN
+
+
+22 Nov 2014	AN 417	Time domain weighted least squares	B.H.	EN
+
+
+10 Dec 2014	AN 418	Fitting a line to a fixed error criteria	B.H.	EN
+
+
+26 Dec 2014	AN 419	Finding Chebyshev polynomials	B.H.	EN
+
+
+31 Dec 2014	AN 420	Chebyshev as a filter characteristic	B.H.	EN
+
+
+7 Jan 2015	AN 421	Matlab programs for Chebyshev	B.H.	EN
+
+
+6 Mar 2015	AN 422	Notch filter as a "washed out" comb	B.H.	EN
+
+
+27 Apr 2015	AN 423	Exponential decay – continuous and discrete	B.H.	EN
+
+
+30 Aug 2015	AN 424	“Cycle-11”: In time, frequency, and period	B.H.	EN
+
+
+10 Oct 2015	AN 425	Inverting a DTFT ?	B.H.	EN
+
+
+15 Nov 2015	AN 426	A DFT curiosity - Investigating bottom up	B.H.	EN
+
+
+1 Mar 2016	AN 427	Tweaking a VCO with minimal equipment	B.H.	EN
+
+
+10 Jul 2016	AN 428	Why no range-switch with hearing	B.H.	EN
+
+
+1 Aug 2016	AN 429	Cascading voltage dividers - And friends	B.H.	EN
+
+
+27 Sep 2016	AN 430	Feedback and sensitivity	B.H.	EN
+
+
+5 Mar 2017	AN 431	Audio volume controls	B.H.	EN
+
+
+3 Aug 2017	AN 432	Simplified digital notch filter design	B.H.	EN
+
+
+Mid-Month + Perspectives
+
+Mid-Month letters ran from 1976 to 1978 and then became the broader Perspectives, which ran from from 1979 to 1982.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+5 Nov 1976	MM 70A	Some experiments with VCFs and P/V converters	B.H.	
+
+
+20 Dec 1976	MM 72A	More on ringing bandpass	B.H.	EN
+
+
+20 Jan 1977	MM 73A	Generalised resonators	B.H.	
+
+
+20 Feb 1977	MM 74A	Digital applications	B.H.	
+
+
+Improvements to S/N on bucket-brigade delay line circuits	B.H.	
+
+
+20 Mar 1977	MM 75A	On middle length pseudo-random sequences	B.H.	
+
+
+The singing voice	B.H.	
+
+
+Driving the CA3080	B.H.	
+
+
+Transistor arrays	B.H.	
+
+
+20 Apr 1977	MM 76A	Does analogue synthesis have a future	B.H.	
+
+
+An adapting comb filter using charge transfer devices	B.H.	
+
+
+20 May 1977	MM 77A	Transconductance-controlled networks	B.H.	Line below equation (8) should read "get rid of the 'B' term....".	
+
+
+20 Jun 1977	MM 78A	Additional new approaches to analogue music synthesis	B.H.	An appendix to S 14.	EN
+
+
+20 Jul 1977	MM 79A	All-pass filters	B.H.	
+
+
+20 Aug 1977	MM 80A	Possibilities and structures made feasible by electronic music ICs	B.H.	
+
+
+20 Sep 1977	MM 81A	Some random comments about small electronic music business	B.H.	
+
+
+20 Oct 1977	MM 82A	Comments on "signal processing aspects of computer music"	B.H.	
+
+
+20 Nov 1977	MM 83A	The fall 1977 AES convention - Electronic music session	B.H.	
+
+
+20 Dec 1977	MM 84A	Isolation and unfamiliar subjects	Seamour Solutions	
+
+
+20 Jan 1978	MM 85A	Self-heating of Q81 resistors	B.H.	
+
+
+20 Feb 1978	MM 86A	A waveform animating device	B.H.	
+
+
+Real and imaginary descriptions of the same network	B.H.	
+
+
+20 Mar 1978	MM 87A	High end compensation of exponential converters	B.H.	
+
+
+20 Apr 1978	MM 88A	The spectrum of fluctuating musical parameters	B.H.	
+
+
+20 May 1978	MM 89A	Learning from things that don't work as well, and more on the MPWA	B.H.	Multi-phase waveform animator in EN 87	
+
+
+20 Jun 1978	MM 90A	Concerning the common ground between music and speech synthesis	B.H.	
+
+
+20 Jul 1978	MM 91A	Two types of four-phase envelope generators	B.H.	
+
+
+20 Aug 1978	MM 92A	The VOSIM synthesis system - A generalised resonator	B.H.	
+
+
+Phase shifters as flanging simulators	B.H.	
+
+
+20 Sep 1978	MM 93A	Formant equalisation as a method of pre-processing for pitch extraction	B.H.	
+
+
+20 Oct 1978	MM 94A	Matched filtering of pseudo-random sequences	B.H.	
+
+
+Pink noise by transversal filtering	B.H.	
+
+
+20 Nov 1978	MM 95A	Coupled resonators for musical synthesis and sound animation	B.H.	
+
+
+20 Dec 1978	MM 96A	Simple controllers for playing notes "in the cracks"	B.H.	
+
+
+Jan 1979	P 97A	Principles relating to complexity and control	B.H.	
+
+
+Feb 1979	P 98A	Principles relating to ranges and regimes of processes	B.H.	
+
+
+Mar 1979	P 99A	Principles relating to communications between engineers and musicians	B.H.	
+
+
+Apr 1979	P 100A	More on musician/engineer communication	B.H.	
+
+
+May 1979	P 101A	What constitutes a musical sound	B.H.	
+
+
+Jun 1979	P 102A	A view of linear prediction	B.H.	
+
+
+Jul 1979	P 103A	A view of linear prediction (continued)	B.H.	
+
+
+Aug 1979	P 104A	A view of adapting filters	B.H.	
+
+
+Sep 1979	P 105A	Loose ends and random notes: audio work, reverberation, polyphonic systems	B.H.	
+
+
+Oct 1979	P 106A	An interesting (or at least fun) connection between visual and aural structures	B.H.	
+
+
+Nov 1979	P 107A	Recent findings on the piano	B.H.	
+
+
+Dec 1979	P 108A	Music and catastrophe theory (?)	B.H.	
+
+
+Jan 1980	P 109A	What is an electronic music synthesiser god for?	B.H.	
+
+
+Feb 1980	P 110A	The value of the live synthesiser	B.H.	
+
+
+Mar 1980	P 111A	Testing for publication, and looking at network stability	B.H.	
+
+
+Apr 1980	P 112A	More comments and plans for a further study of animation	B.H.	
+
+
+May 1980	P 113A	Open problems in animator design and research	B.H.	
+
+
+Jun 1980	P 114A	Reasonable and unusual alterations to working circuit concepts	B.H.	
+
+
+Jul 1980	P 115A	More on alterations to working circuit concepts: delay lines with added phase shift	B.H.	
+
+
+Aug 1980	P 116A	Additional comments on alterations to working circuit concepts	B.H.	
+
+
+Sep 1980	P 117A	Some comments on some "mystical" phenomena in audio	B.H.	
+
+
+Oct 1980	P 118A	On the extent of unique ideas	B.H.	
+
+
+Nov 1980	P 119A	New and interesting books: "Godel, Escher, Bach" and "The flying circus of physics"	B.H.	
+
+
+Dec 1980	P 120A	Automatic tuning of VCOs	B.H.	
+
+
+Jan 1981	P 121A	Zeroes of FIR digital filters	B.H.	
+
+
+Feb 1981	P 122A	Notes on a waveform with a fundamental and even harmonics	B.H.	
+
+
+Mar 1981	P 123A	Comments on the context in which music is heard	B.H.	
+
+
+Apr 1981	P 124A	Context for hearing music as supplied by tradition known to the listener	B.H.	
+
+
+May 1981	P 125A	Review of theories of comb-filtered noise-pitch	B.H.	
+
+
+Jun 1981	P 126A	A possible modulation model for delay subtract comb-filtered noise-pitch	B.H.	
+
+
+Jul 1981	P 127A	Summary comment on delay-subtract comb-filtered noise-pitch	B.H.	
+
+
+Aug 1981	P 128A	Resonant frequency of a soft drink bottle and other acoustic problems	B.H.	EN
+
+
+Sep 1981	P 129A	The flute and clarinet	B.H.	
+
+
+Oct 1981	P 130A	The oboe and trumpet	B.H.	
+
+
+Nov 1981	P 131A	The violin	B.H.	
+
+
+Dec 1981	P 132A	The piano	B.H.	
+
+
+Jan 1982	P 133A	Percussion instruments -1	B.H.	EN
+
+
+Feb/Mar 1982	P 134A + P 135A	Percussion instruments -2	B.H.	
+
+
+Apr 1982	P 136A	Percussion instruments -3	B.H.	
+
+
+Jul 1982	P 139A	Notes on adaptive filtering -1	B.H.	
+
+
+Aug/Sep 1982	P 140A + P 141A	Notes on adaptive filtering -2	B.H.	
+
+
+WebNotes
+
+WebNotes have somewhat arbitrary coverage.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+15 Aug 2009	WN 1	Choice of op-amps	B.H.	EN
+
+
+17 Aug 2009	WN 2	Recalling Walsh functions	B.H.	EN
+
+
+21 Aug 2009	WN 3	4-pole extensions	B.H.	EN
+
+
+30 Aug 2009	WN 4	Linearity – Use of the term in music synthesis	B.H.	EN
+
+
+10 Jul 2012	WN 5	Problems with CFL light bulbs	B.H.	EN
+
+
+26 Sep 2012	WN 6	Notes on the intuitive FFT	B.H.	EN
+
+
+15 Oct 2012	WN 7	Notes on a "derived" negative supply	B.H.	EN
+
+
+10 Dec 2012	WN 8	Still problems with CFLs	B.H.	EN
+
+
+24 Dec 2012	WN 9	How the farmer correctly saw Saturn	B.H.	EN
+
+
+5 Feb 2013	WN 10	Why engineers (specifically) should be very skeptical of claims of dangerous man-made global warming	B.H.	EN
+
+
+22 Feb 2013	WN 11	Peer review - Short comments	B.H.	EN
+
+
+7 Aug 2013	WN 12	Another one for the casebook of troubleshooting	B.H.	EN
+
+
+27 Aug 2013	WN 13	Fun with grounds and neutrals	B.H.	EN
+
+
+2 Dec 2013	WN 14	Compiled Moog stuff	B.H.	EN
+
+
+20 Dec 2013	WN 15	The alarming concentration of CO2	B.H.	EN
+
+
+21 Dec 2013	WN 16	Those CFL bulbs - Still a joke?	B.H.	EN
+
+
+13 Feb 2014	WN 17	Simple illustrations of statistical significance	B.H.	EN
+
+
+15 Feb 2014	WN 18	Savitzky-Golay = maximally flat?	B.H.	EN
+
+
+15 Sep 2014	WN 19	The difference between all-pass and notch	B.H.	EN
+
+
+25 Nov 2014	WN 20	Continuing the casebook of troubleshooting	B.H.	EN
+
+
+14 Dec 2014	WN 21	Lasting impressions - And other memories	B.H.	EN
+
+
+6 Jan 2015	WN 22	Safety first (or at least eventually)	B.H.	EN
+
+
+22 Feb 2015	WN 23	Trig identities - Useful for phase shifters	B.H.	EN
+
+
+13 Mar 2015	WN 24	Notch filters with real poles	B.H.	EN
+
+
+30 Mar 2015	WN 25	A frequency-sensitive feedback path example	B.H.	EN
+
+
+10 Apr 2015	WN 26	Step response with feedback - Laplace view	B.H.	EN
+
+
+3 Sep 2015	WN 27	Fun with power factor correction	B.H.	EN
+
+
+6 Nov 2015	WN 28	Fun with world's simplest circuit	B.H.	EN
+
+
+25 Jan 2016	WN 29	Jerry Coyne - Reprehensible censor	B.H.	EN
+
+
+10 Feb 2016	WN 30	Misplaced security: Passwords and combinations	B.H.	EN
+
+
+13 Feb 2016	WN 31	Oh-hum	B.H.	EN
+
+
+1 Mar 2016	WN 32	You really can't fight city hall	B.H.	EN
+
+
+15 Mar 2016	WN 33	Pet peeves	B.H.	EN
+
+
+20 Mar 2016	WN 34	Non-photo blue and related matters	B.H.	EN
+
+
+28 Mar 2016	WN 35	Coincidence	B.H.	EN
+
+
+7 Apr 2016	WN 36	Engineering license	B.H.	EN
+
+
+8 Apr 2016	WN 37	More on "the hum"	B.H.	EN
+
+
+11 Apr 2016	WN 38	Notching to try to display "the hum"	B.H.	EN
+
+
+27 Apr 2016	WN 39	Calculating/measuring the notch	B.H.	EN
+
+
+6 May 2016	WN 40	Current view of my view of "the hum"	B.H.	EN
+
+
+18 Jun 2016	WN 41	Brief interruptions of "the hum"	B.H.	EN
+
+
+2 Sep 2016	WN 42	The 4-pole looked at a bit more	B.H.	EN
+
+
+28 Sep 2016	WN 43	Interruption of the hum - Speculation	B.H.	EN
+
+
+24 Oct 2016	WN 44	On demodulation and superposition	B.H.	EN
+
+
+12 Dec 2016	WN 45	Edge pitch, tinnitus, and the hum - A quick look (and listen)	B.H.	EN
+
+
+20 Jan 2017	WN 46	Interruption of the hum - Audio simulations	B.H.	EN
+
+
+26 Feb 2017	WN 47	Evidence for internal source of "the hum"	B.H.	EN
+
+
+17 Apr 2017	WN 48	Peer review - Less than you suppose	B.H.	EN
+
+
+2 Jul 2017	WN 49	Food on the table: Leaving well enough alone	B.H.	EN
+
+
+6 Aug 2017	WN 50	Engineers: What you do and what you say	B.H.	EN
+
+
+30 Aug 2017	WN 51	Further comment on "the hum"	B.H.	EN
+
+
+20 Feb 2018	WN 52	Just the (math) facts	B.H.	EN
+
+
+27 Feb 2018	WN 53	Checklist - Typical hum	B.H.	EN
+
+
+11 Mar 2018	WN 54	Problems recording the hum	B.H.	EN
+
+
+12 Jul 2018	WN 55	A poor-man's guide to displaying low-frequency acoustic hum	B.H.	EN
+
+
+29 Jul 2018	WN 56	Histogram of the pitch of the hum: A first look	B.H.	EN
+
+
+20 Aug 2019	WN 57	Assuming - Winding down	B.H.	EN
+
+
+10 Sep 2019	WN 58	Cascading two identical bandpass filters	B.H.	EN
+
+
+17 Oct 2019	WN 59	More on cascading identical bandpass	B.H.	EN
+
+
+1 Aug 2021	WN 60	More on "the hum" as LF tinnitus	B.H.	EN
+
+
+3 Aug 2021	WN 61	Moog at Cornell - Spring 1971	B.H.	EN
+
+
+Musical Engineer's Handbook
+
+Musical Engineer's Handbook written in 1975 is about the theory of analog music synthesis. See Electronotes Newsletter for digital music synthesis.
+
+
+Musical scales, Chapter 1e, pp. 3-5
+
+Pulse modulation, Chapter 2c, pp. 20-22
+
+Power supply design, Chapter 5j, pp. 1-10
+
+Calculation of the poles of 90° phase difference networks, Ch. 6a, pp. 14-16
+
+Builder's Guide and Preferred Circuits Collection
+
+Builder's Guide and Preferred Circuits Collection is a collection of the best EN analog circuits up to July 1986. These are circuits suggested for construction.
+
+"Because of the way the BG&PCC has evolved over the years, the style, format, and amount of accompanying text varies from item to item. A few diagrams are included to more or less complete a "Catalog" of circuits, and the accompanying text may begin and/or end mid-sentence. Most items now include the full, original text, but don't be alarmed by the few that don't."
+
+
+Other contributors
+
+Making rack panels by Thomas Henry, 1981, pp. 53-57
+
+Notes
+
+Page 85: One other typographical error in both the ENS-73 synth (EN 29 p. 9) and the HBSP: The filter capacitor in the 5V supply should be 10,000 uF not 1000 uF as shown.
+
+Page 155: Renumber VCFs - 5 to 8, 6 to 5, 7 to 6 and 8 to 7
+
+Theory and practice of musical sound synthesis
+
+A guide to creating both familiar and new sounds for music composition, emphasizing basic concepts and how to apply them.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+1980	TOPOMSS-Ch1	Theory and practice of musical sound synthesis 1.0 – 1.5	B.H.	EN
+
+
+TOPOMSS-Ch2a	Theory and practice of musical sound synthesis 2.0 – 2.1	B.H.	EN
+
+
+TOPOMSS-Ch2b	Theory and practice of musical sound synthesis 2.1 cont.	B.H.	EN
+
+
+TOPOMSS-Ch2c	Theory and practice of musical sound synthesis 2.2	B.H.	EN
+
+
+TOPOMSS-Ch2d	Theory and practice of musical sound synthesis 2.2 cont.	B.H.	EN
+
+
+AES
+
+Papers by Bernie Hutchins published in the Journal of the Audio Engineering Society.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+Oct 1973	AES 1	Experimental electronic music devices employing Walsh functions	B.H.	EN
+
+
+Sep 1975	AES 2	Application of a real-time Hadamard transform network to sound synthesis	B.H.	EN
+
+
+Apr 1975	AES 3	The frequency modulation spectrum of an exponential voltage-controlled oscillator	B.H.	EN
+
+
+Nov 1981	AES 4	Animation	B.H.	EN
+
+
+Jan/Feb 1982	AES 5	Adapting delay comb filter	B.H., Walter H. Ku	EN
+
+
+Mar 1982	AES 6	Simple hardware pitch extractor	B.H., Walter H. Ku	EN
+
+
+Bibliography
+
+Lists of publications.
+
+
+Date	Issue	Topic	Author	Comments	Web
+
+
+Nov 1972	B 1	B.H.	Preliminary bibliography - Part 1 (Initially released as Supplement S 4.)	
+
+
+May 1973	B 2	B.H.	Preliminary bibliography - Part 2	
+
+
+Nov 1973	B 3	B.H.	Preliminary bibliography - Part 3	
+
+
+Dec 1975	B 4	B.H.	Bibliography Item B-004, Supplement to EN 59
+(Initially printed in EN Vol. 7 issues 49 - 53 and 55, later reissued as B-004 with very few updates and additions.)	
+
+
+Club tapes
+
+There were two club tapes made in the first couple of years of Electronotes, containing demonstrations and compositions from members.
+
+
+Further reading
+
+EN 92 pp. 3-4 & EN 96 pp. 7-8.pdf - Listing of application notes 1 - 116 and Master list of Electronotes publications up to Dec. 1978
+
+References
+
+
+^ Master List Of Electronotes Publications, Electonotes 96, Dec 1978, pp. 7-8
+
+
+^ EN 87 p.21
+
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac EN 27, pp. 6-7 - The error might not be present in later re-issues.
+
+
+^ a b EN 91, p. 1
+
+
+^ a b c d e EN 86 pp. 3-4
+
+
+^ a b c d e f EN 81 p.20: B.H. explains how/why S2, S4, S5 & S6 became 'superseded'
+
+
+^ EN 84 p. 3
+
+
+^ EN 86 p. 5
+
+
+Tim Stinchcombe web pages
+
+Electronotes Index
+
+Application Notes index
+
+Indices of Mid-Month Letters, including Perspectives, Webnotes and Bibliographies.
+
+Supplements index, including Theory and Practice of Musical Sound Synthesis and AES papers.
