@@ -1,0 +1,1033 @@
+Electronotes Newsletters
+
+Volume 1	(January - June 1972)
+
+EN#	1	01	Digital Synthesiser (Introduction)
+
+EN#	2	01	Digital Rhythm Synthesiser
+
+EN#	3	01	Digital Melody Synthesiser
+
+EN#	4	01	(This issue contains only newsletter details and list of interesting papers) 
+
+EN#	5	02	Digital Synthesiser - Final Comments (Almost)
+EN#	5	05	Reader's Circuits - VCO, Fan-out Expander, Clock for TTL
+EN#	5	06	Composition: Four Sounds From The Early Days
+EN#	5	06	Literature Review
+
+EN#	6	02	Editorial: The Philosophy Of Electronic Music
+EN#	6	05	Reader's Circuits: Neon Oscillator, Envelope Shaper, Resonant Amplifier
+EN#	6	06	Composition
+EN#	6	07	Literature Review
+
+EN#	7	04	Waveshaping
+EN#	7	07	Reader's Equipment - Digital Waveshaping System
+EN#	7	10	Composition: Simple But Useful Echo Effects With A Stereo Tape Recorder
+EN#	7	11	Literature Review
+EN#	7	13	Performance Review: Electronotes Tape, Non-Such Guide, Switched-On Bach
+EN#	7	15	Product Review: Total, Ionic, EMSA,
+EN#	7	16	Mechanical Standards For Synthesisers
+
+EN#	8	02	Fourier Analysis
+EN#	8	04	Reader's Equipment: VCO, Melody Generator
+EN#	8	05	Composition
+EN#	8	06	Literature Review
+EN#	8	07	Theory Of Hearing 1: An Experiment
+EN#	8	08	Experimenting With The NE566 (Craig Anderton)
+Volume 2 (July - December 1972)
+
+EN#	9	02	Envelope Shaper
+EN#	9	06	Reader's Equipment: Antilog Amp, Signal Generator, VCA
+EN#	9	07	Composition
+EN#	9	08	Literature Review
+EN#	9	09	Product Review: Buchla keyboard & Exar ICs
+S-003
+EN#	9	10	Philosophy Of Electronic Music 2: A Critique And Some Comments On Part 1
+EN#	9	14	Signal Interaction; Mixing And Forms Of Amplitude Modulation
+EN#	9	16	Basic Passive Filters (Robert Rioja)
+EN#	9	17	Musical Acoustics 1
+EN#	9	17	Theory Of Hearing 2, Musical Acoustics 2
+
+EN#	10	01	Basic Course In Electronic Music, Lesson 1: Parts 1-3: Organisation & Passive Component
+EN#	10	04	Reader's Equipment: Power Amp (1W)
+EN#	10	05	Composition: Tape Delay Line For EM (Tom Mintner)
+EN#	10	06	Literature Review: Papers
+EN#	10	06	Performance Review - A Clockwork Orange, By Walter Carlos
+EN#	10	08	Envelope Generator Refinements 1
+EN#	10	08	A White Noise Source
+
+EN#	11	01	Digisyntone Corrections (Original Article in Radio Electronics, Sept. 1970)
+EN#	11	03	Reader's Equipment: Noise Sources
+EN#	11	03	Composition: Technique #1 (John Marshall)
+EN#	11	04	Literature Review
+EN#	11	05	Performance Review: Carlos, Stockhausen & Electronic Concept Orchestra
+EN#	11	06	Basic Course: Lesson 2, Part 4 - Discrete Active Components
+EN#	11	08	Envelope Generator Refinements 2
+
+EN#	12	01	Systems Theory In The Design Of Electronic Music Systems (Glenn Sogge)
+EN#	12	04	Multiplier Modules, VCAs, Modulators etc
+EN#	12	04	Frequency Shifting 1: Towards A Poor Man's Frequency Shifter
+EN#	12	05	Digital Harmonics 1, Waveshaping 2 - "Games For 2 AM)
+EN#	12	07	Basic Course, Lesson 3, Part 5 - Integrated Circuits
+
+EN#	13	01	Frequency Modulation - Applications
+EN#	13	04	Reader's Equipment - A TTL "Digisyntone", Exponential VCO (Rossum), Phase Shifter 
+EN#	13	06	Composition: Classical Phasing (Craig Anderton)
+EN#	13	07	Literature Review
+EN#	13	08	Performance Reviews: Pierre Henry, Charles Dodge, M.Czajkowski, M.Subotnick
+EN#	13	09	Product Review: Total "Octron"
+EN#	13	10	More On Multipliers
+EN#	13	11	Frequency Shifting 2: Other Methods
+EN#	13	12	Digital Harmonics 2
+EN#	13	13	Basic Course, Lesson 4, Part 7 - 10
+EN#	13	16	Design Considerations In Synthesiser Systems (Dave Rossum)
+
+EN#	14	02	Phase-Locked Loops 1
+EN#	14	04	Reader's Equipment: Keyboard S&H (Rossum), Duophonic Keyboard
+EN#	14	06	Composition
+EN#	14	06	Literature Review: NE560-567 PLLs etc
+EN#	14	08	Product Review: EML101, DEW
+EN#	14	08	Basic Course: Lesson 5, Part 11
+EN#	15	02	The Rest Of The Voltage Controlled Modules, Initial Designs
+EN#	15	07	Product Review (PAiA, AEU, TNY)
+EN#	15	07	Universal Active Filters (Dave Rossum) 
+EN#	15	08	Basic Course, Lesson 6, Part 12
+
+EN#	16	01	Introduction To Walsh Functions
+EN#	16	03	Reader's Equipment: New Exponential VCO and "Chip" VCO (Rossum)
+EN#	16	04	Composition: Composing On A Low Budget!
+EN#	16	05	Product Review (Total Technology)
+EN#	16	05	Fourier Analysis 2: Common Periodic Functions
+EN#	16	07	Basic Course, Part 13, A Little Integral Calculus
+
+Volume 3 (January - June, 1973)
+
+EN#	17	02	An Experimental Additive Synthesis Device Employing Walsh Functions As Harmonics
+EN#	17	04	Reader's Ideas:  Fourier Harmonics Gen., Relay Step Sequencer,  Spectrum Sampler
+EN#	17	06	Performance Review: Walter Sear, Bruce Hack, Beaver & Krause
+EN#	17	07	Basic Course, Lesson 8, Part 14, Envelope Waveforms
+EN#	17	08	Deriving Single Pulses Denoting Single Segments Of Walsh Waveforms
+
+EN#	18	04	A New Sample-And-Hold Circuit
+EN#	18	04	Composition: Organising For Composition, Part 1
+EN#	18	06	Literature Review
+EN#	18	06	Basic Course, Lesson 9, Part 15, Filters 1
+
+EN#	19	01	Generation Of Envelopes Using Walsh Functions - Initial Considerations
+EN#	19	04	Composition: Organisation For Composition, Part 1
+EN#	19	04	Educational Aspects Of Electronic Music: Teaching Electronics
+EN#	19	05	Literature Review
+EN#	19	05	Power Supplies 1:  Voltage Regulators (Dave Rossum)
+EN#	19	08	Theory Of Hearing 3: Pitch vs. Frequency
+
+EN#	20	02	Completed Basic Walsh Function Synthesiser - Envelope Control etc.
+EN#	20	05	Construction Outline - Part 1, Items 1 - 12
+EN#	20	06	Hadamard And Other Transforms
+
+EN#	21	01	Synthesiser Keyboards (Dave Rossum)
+EN#	21	04	Educational Aspects Of Electronic Music: Selling The Synthesiser Buy
+EN#	21	04	Literature Review
+EN#	21	05	Product Review: Synthi AKS, EMSA Programmable Waveform Generator (PWG-2), EMU
+EN#	21	06	Basic Course, Lesson 10, Part 16: Technical Aspects Of Musical Scales
+
+EN#	22	01	Digital 4 Bit Envelope Generator (Ralph Burhans)
+EN#	22	05	Reader's Ideas: Proposed Design For A 4 Part Envelope Generator
+EN#	22	06	On Transient Generators (Dave Rossum)
+EN#	22	08	Basic Course, Lesson 11, Part 17 Reading
+
+EN#	23	02	Comparison Of Methods For Producing Arbitrary Waveforms And Envelopes (Hal Chamberlin)
+EN#	23	05	Composition: How To Make A "Raindrop" Cannon
+EN#	23	05	Educational Aspects Of Electronic Music
+EN#	23	06	Literature Review
+EN#	23	08	Basic Course, Lesson 11, Parts 17, A Note In The Life Of A Simple Synthesiser,   Part 18, Quiz
+EN#	23	11	Construction Outline - Part 2, Items 13 - 17
+EN#	23	12	Non-Harmonic Effects Using Walsh Functions, Part 1
+
+EN#	24	02	More Thoughts On System Design (Dave Rossum)
+EN#	24	05	Educational Aspects Of  Electronic Music
+EN#	24	05	Literature Review
+EN#	24	06	Product Review: Emu Modules
+EN#	24	06	Basic Course, Lesson 12, Part 19: Some Quiz Answers And Tips,  Part 20: What Is S & H
+EN#	24	07	Three Additional Electronic Music Applications Of Walsh Functions
+
+Volume 4 (July 1973 - December 1973)
+
+EN#	25	02	The Role Of Phase In Waveshape And Timbre (Hal Chamberlin)
+EN#	25	05	Project Ideas: Frequency Doubler
+EN#	25	05	Project Ideas: VC Phase Delay Between Walsh Harmonic Banks
+EN#	25	06	Project Ideas: PLLs And Paralleling VCOs
+EN#	25	07	Project Ideas: Formant Filtering, Non-Linear VCF Tracking, Programmable Patching
+EN#	25	07	Project Ideas: Development Of Walsh Generator VC Phase Shift System
+EN#	25	08	Project Ideas: Investigation Of A Variety Of Scales
+EN#	25	08	Project Ideas: Modulation And Spectrum Shifting, Envelope Selection For VCFs
+EN#	25	08	Extensive Study Of Literature On Scientific Studios Of Musical Instruments
+
+EN#	26	02	On Changing Linear Waveforms And Envelopes To Exponential
+EN#	26	05	Composition: Parameters Of Audio Production (Steven Birchall)
+EN#	26	06	Literature Review
+EN#	26	07	Basic Course, Lesson 13, Part 21: Some Mathematics And Applications
+
+EN#	27	01	Introduction To The New Synthesiser (ENS-73)
+EN#	27	02	Literature Review
+EN#	27	04	Performance Review: Second Club Tape
+EN#	27	05	Product Review
+EN#	27	07	Errors In Past Issues
+
+EN#	28	01	Presentation Of The ENS-73, Part 1: The Overall System And VCO Options
+
+EN#	29	01	Presentation Of The ENS-73, Part 2: The Minimal Operational Setup (ENS-73-MO)
+
+EN#	30	02	Presentation Of The ENS-73, Part 3:  VCF2, Noise 1, S&H 1
+EN#	30	05	Literature Review
+EN#	30	07	Basic Course: Lesson 14, Part 22, More Math With Applications
+
+EN#	31	03	Some Notes On Sequencers 1: (Controller Series 1)
+EN#	31	05	Reader's Equipment: (Controller Series 2)
+EN#	31	05	Basic Course: Lesson 15, Part 23, Maths With Applications 3,   Part 24, Sampling A Sawtooth
+EN#	31	07	Presentation Of The ENS-73, Part 4: Errors And Additions, An Example, Parts And Hints
+EN#	31	09	Two Experimental Ribbon Controllers (Controller Series 3)
+
+EN#	32	01	Imaginary Conversation With A Musician Concerning Some Keyboard Ideas
+EN#	32	03	Composition: Some Notes On Sequencers 2 (Controller Series 5):
+EN#	32	05	Presentation Of The ENS-73, Part 5: Corrections & Troubleshooting, Balanced Modulator 1
+EN#	32	06	Basic Course: Lesson 16, Part 25, Sampling A Sawtooth 2
+EN#	32	08	Polyphonic Synthesisers (Dave Rossum)
+Volume 5 (January 1974 - June 1974)
+
+EN#	33	03	Location Modulation 1: Introduction To LM
+EN#	33	05	Reader's Equipment: SV VCF (3080), Frequency Doubler (sine), Relay ADSR
+EN#	33	06	Composition: An S&H Type Sequencer Can Also Be An ABA Device (Controller Series 8)
+EN#	33	07	Literature Review
+EN#	33	07	Product Review: Help Building Your ENS-73 And Others
+EN#	33	08	Some Initial "Utility VCO" Design Ideas: 8038, CA3080 & 555 Timer, Thermal Stability
+
+EN#	34	03	Forum: Technology
+EN#	34	03	Triple Feature On Digital Electronic Music Equipment
+EN#	34	03	a) Digital Point-By-Point Waveform Generator (Hal Chamberlin)
+EN#	34	08	b) The Digital Divider In Music Synthesis (John A. Ball)
+EN#	34	13	c) An All-Digital Synthesiser: Sketches Of The Psyctone II (Don Lancaster)
+EN#	34	16	Reader's Equipment: Four From Terry Mikulik - Mixer, Noise/Random, VCA, SV VCF
+EN#	34	18	Reader's Ideas: Not An Envelope Generator, But…
+EN#	34	18	Literature Review: Catching Up On The Theory Of Hearing
+EN#	34	20	Using A Keyboard To Detect Harmonics In A Waveform
+EN#	34	21	Basic Course: Lesson 17, Part 25: PC Boards (David Mitchell)
+
+EN#	35	02	Universal Music ? (Sebastian Von Hoerner)
+EN#	35	04	Readers Ideas: S&H As PLL Phase Detector, Frequency Multipliers
+EN#	35	06	Some Initial ENS-73 Sequencer Design Ideas
+EN#	35	08	TTL In Synthesiser Systems (Dave Rossum)
+EN#	35	09	Basic Course: Lesson 18, Part 26: IC Substitution
+
+EN#	36	02	Forum: Whither Electronic Music? (Larry Greisel)
+EN#	36	03	Forum: The Synthesis Of Expression (Allen Watson III)
+EN#	36	04	ENS-73: The Utility VCO, Option 2
+EN#	36	07	Literature Review
+EN#	36	07	On Voltage Controlled Filters (Dave Rossum)
+EN#	36	08	Basic Course: Lesson 19, Part 27: Transistor Substitution
+
+EN#	37	02	Exponential Converters (Terry Mikulic)
+EN#	37	04	Reader's Equipment: Additions To Terry Mikulic's VCF In EN#34
+EN#	37	05	Product Review: Oberheim DS-2 and APR 2600 mods, 360 Systems, New EMU Sub-Modules
+EN#	37	05	ENS-73: VCF Option 3
+EN#	37	07	Basic Course: Lesson 20, Part 28: Substitution Of Resistors And Capacitors
+
+EN#	38	02	Forum: Results Of The Composer Survey And Some Comments
+EN#	38	04	The FM Spectrum Of An Exponential VCO: Expansion About The Linear VCO Solution
+EN#	38	08	Literature Review
+EN#	38	09	Analogue Switching Circuits With The CA3080
+
+EN#	39	02	Correction: ENS-73 Keyboard Interface
+EN#	39	02	Fourier Series Waveform Generator, part 1 (Hal Chamberlin)
+EN#	39	06	Reader's Ideas: PNP/NPN Pairs, Converting Triangle-Sine, Pulse Conversion, Voltage Dividers
+EN#	39	06	Literature Review
+EN#	39	07	The FM Spectrum Of An Exponential VCO: Part 2
+EN#	39	08	Testing And Calibrating - Part 1
+
+EN#	40	04	A Simple And Inexpensive Frequency Counter
+EN#	40	07	Reader's ideas: CA3080 VC Resistor, Three Sequencers
+EN#	40	09	Aesthetics Of New Music: Three Thoughts On Electronic Music (Jim Wilson)
+EN#	40	11	Literature Review: Books By Thomas Wells, Friend, Pearlman & Piggott, Stuart Hoenig
+EN#	40	12	Product Review: Small Enterprise Profile: #1 Electronotes,  #2 Eu Systems
+EN#	40	14	The Multi-Talented LM309 Regulator (Craig Anderton)
+EN#	40	15	Non-Uniform Comb Filter Spacings With Respect To Equally Tempered Scales (Ralph Burhans)
+EN#	40	16	Formant Modulation, Timbre Modulation & The Interaction Of Formant Filters & Modulated Sig.
+EN#	40	18	Basic Course: Lesson 21, Part 29: Understanding And Adapting Input Structures
+Volume 6 (July 1974 - December 1974)
+
+EN#	41	01	A Four Pole Voltage Controlled network: Analysis, Design And Application As A Low-Pass
+			VCF And A Quadrature VCO
+EN#	41	08	Aesthetics Of New Music: Thoughts On Electronic Music II (Jim Wilson)
+EN#	41	09	A Simple VCA With Applications (LM3900)
+
+EN#	42	01	Introduction To Computer Music Techniques (T. Joseph Zingheim)
+EN#	42	05	The Rate Multiplier In Music Synthesis (Stephen Wilson)
+EN#	42	08	Reader's Equipment: Slew Limiters
+EN#	42	09	Aesthetics Of New Music: Thoughts On Electronic Music III (Jim Wilson)
+	
+EN#	43	02	Design Of 90  Phase Differencing Networks And Application To Frequency Shifter Designing
+EN#	43	09	Project Ideas: Fumucosyn (Ellis Cooper)
+
+EN#	44	02	Some More LM3900 Simple-Minded Circuits For Synthesisers (Ralph Burhans)
+EN#	44	05	Composition: Techniques With A Frequency Shifter
+EN#	44	07	Living With patch Cords
+EN#	44	08	Basic Course: Lesson 22, Part 30: Understanding And Adapting Output Structures
+
+EN#	45	02	Forum: Editorial - Do You Like Opera?
+EN#	45	02	An Interview With Robert Moog, Part 1: The First Ten Years
+EN#	45	06	Reader's Equipment: Two Linear AD Generators
+EN#	45	07	Literature Review
+EN#	45	11	The ENS-74 Home Built Synthesiser, part 1  (Keyboard & ADSR 1)
+EN#	45	16	Antilog/Exponential Circuit Provides Over Eight Octaves (Charles Rogers, Dynasyn Corp.) 
+EN#	45	17	Surplus Parts, Power Supplies And Catastrophic Failures (Dave Rossum)
+EN#	45	18	Image Generation Using Electronic Synthesis Techniques
+EN#	45	20	The Ideal Keyboard (Richard Rae)
+EN#	45	21	Transform Methods In Musical Engineering, part 1
+
+EN#	46	01	The ENS-74 Home Built Synthesiser, part 2 (VCOs)
+EN#	46	05	Reader's Equipment: Location Modulation With Two Co-ordinate Voltages 
+EN#	46	08	Transform Methods In Musical Engineering, part 2
+
+EN#	47	03	An Interview With Robert Moog, Part 2: The Present State Of The Art
+EN#	47	05	Literature Review
+EN#	47	06	A Brief Glossary Of Electronic Music Terms For Electrical Engineers, Part 1 (A-F)
+
+EN#	48	01	Reader's Questions: Retriggering Envelope Generators
+EN#	48	02	Reader's Equipment: Analogue Delay Lines
+EN#	48	02	Literature Review (Ear Magazine, Computer Hobbyist, Electronic Music Review)
+EN#	48	04	Basic Course: Lesson 23, Part 31: "Magic" Numbers In Exponential Conversion (M. Mellowitz)
+EN#	48	04	A Brief Glossary Of Electronic Music Terms For Electrical Engineers, Part 2 (G-R)
+
+
+Volume 7 (January 1975 - December 1975)
+
+EN#	49	02	The Frequency Modulation Spectrum Of An Exponential VCO, Part 3:
+			Experimental Verification And Some Suggested Solutions
+EN#	49	06	Some Additional VCO Design Problems And Solutions
+EN#	49	08	A New Exponential Current Source For The ENS-74 VCO
+EN#	49	10	A New VCO Design: A VCO With Sawtooth Output And HF Tracking And Sync
+EN#	49	11	A Sourcelist Of Electronic Music & Musical Engineering, Part 1
+
+EN#	50	01	Reader's Questions: ENS-74 Triggering From A Sequencer
+EN#	50	04	An Interview With Robert Moog, Part 3: Trends For The Future
+EN#	50	10	A New ADSR Envelope Generator
+EN#	50	11	A Brief Glossary Of Electronic Music Terms For Electrical Engineers, Part 2 (S-Z & Numbers)
+EN#	50	16	A Sourcelist Of Electronic Music & Musical Engineering, Part 2
+
+EN#	51	02	Distorters (W. M. Hartman)
+EN#	51	03	Reader's Equipment: Two Sequencer Designs
+EN#	51	07	Reader's Ideas: "Slinky" Reverb, Ribbon Controller, Noise Source
+EN#	51	07	Literature Review
+EN#	51	08	Product Review: ARP, Aries, RMI, Roland, Korg & EML
+EN#	51	10	Oscillator Sync Methods (Buzz Frappe, Eu Systems)
+EN#	51	11	A Sourcelist Of Electronic Music & Musical Engineering, Part 3
+EN#	51	18	More Applications Of Rate Multiplier Circuits (R. W. Burhans)
+EN#	51	20	A Gate And Trigger Delay Unit
+
+EN#	52	04	The Ideal Keyboard, Part 2 (Richard Rae)
+EN#	52	07	Thoughts On Digital Keyboards
+EN#	52	10	Guitar Controllers For Synthesisers (Bob Mustacich) 
+EN#	52	13	Reader's Ideas: Breadboarding, And Chip Thermostating
+EN#	52	13	A Sourcelist Of Electronic Music & Musical Engineering, Part 4
+EN#	52	22	Product Review: Wasatch Music Systems and Devtronix
+
+EN#	53	03	Forum: Keyboards, Frets And Other Controllers (R. W. Burhans)
+EN#	53	03	Forum: On Epoxy Blocks And Missing Schematics (Larry Greisel)
+EN#	53	04	Pitch Extraction, Part 1 (Basic Approaches)
+EN#	53	15	Reader's Equipment: 8038 Function Generator
+EN#	53	16	Literature Review: Musical Engineers Handbook
+EN#	53	16	Product Review: Polyphonic Keyboard, Guitar Controllers, Omniphon, Axxe, Sequential
+EN#	53	17	A Sourcelist Of Electronic Music & Musical Engineering, Final Part
+
+EN#	54	02	Forum: 741s, 307s And 308s In Exponential Current Sources
+EN#	54	03	Dual Feature On Digital Controllers:
+EN#	54	04	Sequencers & Programmable Controllers, Part 1 (Douglas E. Fullmer)
+EN#	54	08	Digivox II: Digital Keyboard Control For Analogue Music Synthesisers (R. W. Burhans)
+EN#	54	12	Reader's Equipment: Envelope Generators (W. M. Hartmann)
+EN#	54	12	Project Ideas: Bandpass Filter Bank Used To Adjust VCO, Resetting Sample & Hold, Slew 
+			Limiting Sample & Hold, On Making Linear Dynamic FM Depth A Feature Of VCO Design
+EN#	54	14	Literature Review: Musical Engineers Handbook
+EN#	54	17	Pitch Extraction, Part 2: (Progress Report)
+
+EN#	55	03	Pitch Extraction, Part 3: The Complete Experimental Device
+EN#	55	11	Literature Review
+EN#	55	17	A New Sinewave Shaper Applied To A Sweep Generator Design
+EN#	55	20	A Sourcelist Of Electronic Music & Musical Engineering (Addendum)
+
+EN#	56	02	Analogue Delay For Musical Engineers
+EN#	57	02	Reader's Questions: Chord Playing Buttons
+EN#	57	03	Problems With The Keyboard Interface (ENS-74)
+EN#	57	04	A Minicomputer-Controlled Music Synthesiser (Michael R. Abram)
+EN#	57	07	Reader's Equipment: VCO (Paul Titchener)
+EN#	57	09	Selection Of Op-Amps For Power Bandwidth
+EN#	57	12	The Measurement Of Phase Difference
+
+EN#	58	02	Forum: The Origins Of The Term "Flanging"
+EN#	58	02	Forum: Letter From Scott Fraser - Tape Recorders
+EN#	58	05	Digital Recording Of Melodies Played On A Keyboard By Microprocessor Control (M. Suchoff)
+EN#	58	14	Voltage-Controlled Highpass Filters And Other VCF Structures
+
+EN#	59	02	Forum: Phase Shift Networks And Applications
+EN#	59	02	Forum: On The Relative Merits Of Linear And Exponential VCOs
+EN#	59	11	Microprocessors In Electronic Music, Part 1 (Bill Hemsath)
+EN#	59	13	Reader's Equipment: VC Slew Limiter
+EN#	59	14	Literature Review
+EN#	59	16	Voltage-Controlled Highpass Filters And Other VCF Structures: Appendix A And Appendix B
+EN#	59	20	Popcorn Noise And Exponential Generators (Charlie Thompson)
+EN#	59	20	An Indefinitely Touch Sensitive Keyboard Controller Scheme Using One Pot. (J. Orion)
+
+EN#	60	02	Electronic Music Studio Hardware (W. M. Hartmann)
+EN#	60	07	Reader's Equipment: Envelope Follower (Nicholas Collins)
+EN#	60	08	A Hadamard Transform Network - Comments And Reprint
+EN#	60	14	The Dawn Of The Future Computer (Or The Start Of A Computer In Every Home) (Al Bushert)
+EN#	60	16	Microprocessors In Electronic Music, Part 2 (Bill Hemsath)
+EN#	60	19	Electronotes In 1975 And 1976
+Volume 8 (January 1976 - December 1976)
+
+EN#	61	02	Forum: Addendum To The Relative Merits Of Linear And Exponential VCOs (J. Simonton)
+EN#	61	04	Design And Applications Of Sample & Hold Modules With Slew Limiting And Cascading
+			Features
+EN#	61	14	Microprocessors In Electronic Music, Part 3 (Bill Hemsath)
+EN#	61	16	Two New Analogue Delay Line Circuits (Terry Mikulic & Jan Hall)
+EN#	61	20	Back To Basics - Resistor Tolerances
+
+EN#	62	02	Design Ideas For Digital Keyboards (B. Hutchins,  D.Williams,  V. Huebner,  G.Embler)
+EN#	62	11	New Design Ideas For Voltage-Controlled Oscillators (Thompson, Mikulic, Kraul, Helfrich)
+EN#	62	18	Microprocessors In Electronic Music, Part 4 (Bill Hemsath)
+
+EN#	63	02	The ENS-76 Home-Built Synthesiser System - Part 1
+EN#	63	08	Precise Matching Of Transistors Using Synthesiser Oscillators (Carl Fravel, Gentle Electric) 
+EN#	63	11	Analogue Interfaces For Microprocessor Systems (Douglas Kraul)
+EN#	63	14	Reviews Of Recorded Music
+EN#	63	17	Back To Basics 2 - Triggering The 555 As A Monostable
+EN#	63	??	News - Ozni Mk.1 & 1A
+
+EN#	64	03	Theory And Applications Of Noise Generators In Electronic Music
+EN#	64	18	Voltage-Controlled Amplifier As A Balanced Modulator (W. M. Hartmann)
+EN#	64	18	Further Comments On Balanced Modulators From Two Quadrant Multipliers
+EN#	64	19	Record Review: The Music Of Penderecki (Al Halstead)
+EN#	64	19	Equipment Review: The Lyricon (Allan Cody)
+EN#	64	20	Back To Basics 3, Resistor Power Ratings
+EN#	64	21	Back To Basics 4, The Difference Between Positive And Negative
+
+EN#	65	03	Microprocessors In Electronic Music, Part 5 (Bill Hemsath)
+EN#	65	05	Debounce Scheme For Scanning-Type Digital Keyboards (Douglas Kraul)
+EN#	65	09	An 8x32 Random Access Memory For Synthesiser Applications (Vic Huebner, THINC)
+EN#	65	11	Reader's Equipment - A ±10KHz Through Zero Linear VCO (Jan Hall)
+EN#	65	13	Record Review - Synergy
+EN#	65	16	Literature Review - Audio Handbook And Periodicals
+
+EN#	66	02	Sine Waves And VCFs - Do They Mix?
+EN#	66	03	The ENS-76 Homebuilt Synthesiser System - Part 2 (EG Options 1, 2 & 3)
+
+EN#	67	03	The Gilbert Multiplier In Electronic Music (Dave Rossum)
+EN#	67	07	Converting Modules Of ±5 Volt Standard To ±10 Volt Standard
+EN#	67	11	Notes On The ENS-74 Keyboard Interface Unit (Ian Fritz)
+EN#	67	13	The ENS-76 Homebuilt Synthesiser System - Part 3; Utility VCO
+EN#	67	16	Comments On The Triangle-To-Sawtooth Conversion Problems (W. M. Hartmann)
+EN#	67	18	And Eight-Bit Pseudo-Random Generator (Vic Heubner)
+EN#	67	19	Back To Basics 5 - D/A Conversion For Equal Tempered Scales
+
+EN#	68	01	News And Notes: Using The MN3001 Analogue Delay Line Chip
+EN#	68	03	Project Ideas: Non-Linear Transfer Function
+EN#	68	08	Project Ideas: Quantisers
+EN#	68	10	The ENS-76 Homebuilt Synthesiser System - Part 4: Instalment On The Digital Keyboard 
+EN#	68	20	Modifications To The Electronotes Low-Pass Filter/Quadrature Oscillator And A Possible New
+			Waveform Technique With The Unit (Ian Fritz)
+
+EN#	69	03	Design Procedures For Using Exponential Converters To Perform Mathematical Operations
+EN#	69	08	Circuits For The Piecewise-Linear Technique Of Electronic Music Synthesisers (E.D.Cooper)
+EN#	69	13	Applying The CA3140 Op-Amp In Electronic Musical Devices
+EN#	69	17	A Utility VCO With AM Inputs (Jan R. Hall)
+EN#	69	19	Record Review: "Pieces For Kohn" by Tom Hamilton (Craig Anderton)
+EN#	69	20	Literature Review: Handbook Of Operational Amplifier Circuit Design
+EN#	69	21	Back To Basics 6: Testing Of Voltage Regulators
+EN#	70	03	Frequency Multiplication And Division Methods
+EN#	70	18	8 Voice Digital Keyboard Design Idea (Mark Goldstein)
+EN#	70	21	Record Review: Selected Shorts, part 1 (Craig Anderton)
+
+EN#	71	03	The Bandpass Filter Response And Electronic Music Applications
+EN#	71	14	The ENS-76 Homebuilt Synthesiser System - Part 5 (VCF Options 1 & 2)
+EN#	71	22	Record Reviews (Craig Anderton)
+
+EN#	72	03	Some Theory On The Design And Application Of Variable Slope Filters
+EN#	72	12	The ENS-76 Homebuilt Synthesiser System - Part 6 (VCF 3, Timbre Modulator 1, Delay 1)
+EN#	72	21	Reader's Circuits: FET As VCF (Jacob Moskowitz), Three Waveshapers (Ian Fritz)
+
+Volume 9 (January 1977 - December 1977)
+
+EN#	73	07	Report On New Waveform Techniques (Ian Fritz)
+EN#	73	11	Debouncing In Digital Keyboards (Greg Mullin)
+EN#	73	12	Improvements To Digital Tone Generators (James Wirth)
+EN#	73	14	Simple Bandpass Filter For Filter Bank Design
+EN#	73	19	Record Review: "No Pussyfooting" (Craig Anderton)
+EN#	73	21	Envelope Generator Employing Diode Logic (Joseph Medina)
+
+EN#	74	07	Digital Filter Note 1 (R. B. Tipton & V. M. Tipton)
+EN#	74	14	Theory And Design Of A "Responding" Filter Bank
+EN#	74	21	Book Review: National Semiconductor And Texas Applications Books
+
+EN#	75	03	The ENS-76 Homebuilt Synthesiser System - Part 7 (VCO Options 1, 1a, 2, 3, 4 & 5)
+
+EN#	76	02	Reader's Questions - VCO Drift
+EN#	76	03	The ENS-76 Homebuilt Synthesiser System - Part 8 (Random Source 1 & 2, further options)
+EN#	76	16	Reader's Equipment: Gate & Trigger Unit, Simple ADSR
+EN#	76	17	Forum: About Our Readers (Results Of Survey)
+EN#	76	19	Record Review: "Sequencer" by Larry Fast (Craig Anderton)
+
+EN#	77	03	Digital Filter Note 2 (R. B. Tipton & V. M. Tipton)
+EN#	77	13	Comb Filters Applied To The Pitch Extraction Problem
+EN#	77	21	Record Reviews: "Low" by Bowie, "Trans-Europe Express" by Kraftwerk (Craig Anderton)
+
+EN#	78	03	Synthesis Procedures For Musical Sounds - Part 1
+EN#	78	11	Re-Evaluating The Diatonic Scale - Conversation With Marion McCoskey (Craig Anderton)
+EN#	78	13	Electronic Music Applications Of The XR206 Monolithic Function Generator (S. Franco)
+EN#	78	15	Two ICs For Electronic Music - SSM2020 And SSM2040 (Dave Rossum)
+
+EN#	79	05	Synthesis Procedures For Musical Structures - Part 1
+
+EN#	80	03	Synthesis Procedures For Musical Structures (Special Effects) - Part 1
+EN#	80	10	Review Of Periodic Literature
+
+EN#	81	03	Simple Pitch Extractor For Clarinet (Ian Fritz)
+EN#	81	08	A New Design For A Multimode Voltage-Controlled Filter
+EN#	81	14	On Improving Mechanical Performance Of Keyboards
+EN#	81	15	Back To Basics 7 - Waveshaping
+EN#	81	18	Reader's Questions
+
+EN#	82	01	Plans For 1978
+EN#	82	03	Reader's Questions
+EN#	82	05	Mathematical Analysis Of Differential Amplifier Triangle-To-Sine Converters
+EN#	82	17	Hints On Setting Up An Electronic Music Working Area
+EN#	82	20	Reader's Circuits: Quadrature Oscillator (Ian Fritz)
+
+EN#	83	02	Reader's Questions
+EN#	83	05	The ENS-76 Homebuilt Synthesiser System - Part 9 (Frequency Shifter)
+EN#	83	19	Record Review - Brian Eno, John Cage, LEM, Morton Subotnick, Pat Gleeson (Craig Anderton)
+
+EN#	84	02	Reader's Questions
+EN#	84	05	A Frequency-To-Voltage Converter For Use With Pitch-To-Voltage Conversion Devices (Iodice)
+EN#	84	09	An Odd-harmonic To Even-harmonic Timbre Modulator
+EN#	84	13	Clocking Techniques For Analogue Delay Lines (Craig Anderton)
+EN#	84	15	Proposal For A Type Of "Oral Joystick" (Jeffrey Noble)
+EN#	84	17	Reader's Circuits - VCF With SSM2040 (Rich Ryan)
+EN#	84	19	Book Reviews In Brief
+
+Volume 10 (January 1978 - December 1978)
+
+EN#	85	05	Additional Ideas For Voltage-Controlled Filters
+EN#	85	05	1. Corner Peaking Of A Four-Pole Filter 
+EN#	85	12	2. Obtaining Bandpass And Highpass Functions From A Four Pole Lowpass Filter
+EN#	85	16	3. Present Day Voltage Controlled Filter Design Options
+EN#	85	18	Hints On Obtaining Parts For Projects
+
+EN#	86	03	Forum, inc. Corrections
+EN#	86	05	Reader's Questions: Shielding, Minimum Phase
+EN#	86	07	A Gate Driven Second-Order Envelope-Transient Generator
+EN#	86	14	Woodwind Type Controller For Synthesis, Part 1: Electronic Mouthpiece (Ian Fritz)
+EN#	86	20	One Chip Envelope, Gate And Trigger Extractor (Robert Iodice)
+
+EN#	87	02	Reader's Questions
+EN#	87	03	A Sawtooth Driven Multiphase Waveform Animator: The Synthesis Of Animated Sounds. Part 1
+EN#	87	11	Minimum Parts Count Synthesiser (Dave Rossum)
+EN#	87	17	Using The Panasonic MN3005 4096 Stage Delay Chip (Jan Hall)
+EN#	87	19	Reader's Equipment: Guitar Pickup (Dale Willis)
+
+EN#	88	02	Reader's Questions: Phaser Or Flanger, Animated Comment, Validity Of Project
+EN#	88	03	Woodwind Type Controller For Synthesis, Part 2: Keyswitch Fingering System (Ian Fritz)
+EN#	88	10	Literature Review: Comments On Ernst's "The Evolution Of Electronic Music" (R.B.Elder)
+EN#	88	15	Pitch Extractor For Guitar And Microphone (Dale Wills)
+EN#	88	23	Reader's Ideas: 
+EN#	88	23	A. Envelope Follower With Improved Ripple And Response Time (D. Genovese, Dennis Elect.)
+EN#	88	24	B. LFO With Ramp, Inverted Ramp, Triangle And Pulse Width From 10% To 90% (P. Lutz)
+EN#	88	26	C. Mixing Plate Based On Capacitive Coupling (D.Weiss) 
+EN#	88	26	D. Patch For Controlled Beating With Two VCOs (D.Weiss)
+EN#	88	27	E. Variable Positive And Negative Waveform Clippers (A.Halstead)
+EN#	88	27	Basic Applications Of Components Available Through Electronotes.
+
+EN#	89	02	Reader's Questions: VCO Resistor Tolerance
+EN# 	89	03	Some Comments On Amplitude Envelopes And Their Extraction
+
+EN#	90	02	Reader's Questions: Nyquist etc
+EN#	90	03	How I Make My PC Boards In A Matter Of  Few Hours
+EN#	90	06	A High Ripple VCF For Waveform Animation: The Synthesis Of Animated Sounds. Part 2
+EN#	90	18	Record Reviews: Moroder, Kraftwerk, TD, Tomita, Genesis, Eno, Bowie (Craig Anderton)
+
+EN#	91	01	Corrections To Frequency Shifter And Pitch Extractor
+EN#	91	03	Review Of Homebuilt Equipment, Or, What's In The Preferred Circuit Collection
+EN#	91	13	A Few Remarks On Current Tendencies In Synthesised Music (R. Bruce Elder) 
+EN#	91	16	Additional Notes On Bandpass Filters
+EN#	91	20	A Sourcelist On Pitch Extraction, 1978
+
+EN#	92	02	Reader's Questions: 8038, Op-Amp Noise
+EN#	92	03	The First 100 Electronotes Application Notes: Numerical Listing
+EN#	92	05	The First 100 Electronotes Application Notes: Subject Listing
+EN#	92	07	Fast Envelope Extraction By Maximum Station Sampling
+EN#	92	10	Filter Banks With Multiple Outputs
+EN#	92	12	Modified AD + AR Envelope Generator Design (Ian Fritz)
+EN#	92	14	A Quasi-Digital Bi-N-Tic Filter (Jan Hall)
+EN#	92	14	Digital Keyboard Revisited (Richard Curcio)
+EN#	92	18	The Ear - Part 1: Basic Idea On Pitch perception
+EN#	92	20	Reader's Comments (N. Rose,  W. Norcross,  N. Bodley,  R. Graham,  C. Cooper,  L. King) 
+
+EN#	93	02	Reader's Questions: Real Frequencies, How Electronotes Started, Analogue Reverb
+EN#	93	03	The Ear - Part 2: An Observational Basis For Pitch perception Theories
+EN#	93	11	A Sourcelist On Pitch Perception - 1978
+EN#	93	18	A Cascaded-Monostable Type Generalised Resonator: The Synthesis Of Animated Sounds, Part 3
+
+EN#	94	03	Reader's Questions: Part Sources, Power Supply Lines
+EN#	94	04	The Ear - Part 3: Models And Phenomenon Vs Place And Fine-Structure Theory
+
+EN#	95	01	Reader's Questions: MEG etc
+EN#	95	03	The Migration Of Poles As A Function Of Feedback In A Class Of Voltage-Controlled Filter
+
+EN#	96	02	Reader's Questions: Computer Controlled Synthesisers
+EN#	96	03	Review Of Periodicals Of Interest To Our Readers
+EN#	96	07	Master List Of Electronotes Publications
+EN#	96	09	Master Index To Electronotes Publications 1972-1978
+
+Volume 11 (January 1979 - December 1979)
+
+EN#	97	03	Some Comments On The State Of Music Synthesis - 1979 - Part 1
+EN#	97	07	A Brief Note On Polygon Filters (Richard Bjorkman)
+EN#	97	09	A Few More Notes On Polygon Filters
+EN#	97	10	A Four, Six And Eight Pole Voltage Controlled Filter
+EN#	97	17	Literature Review: Electronic Trade Journals - 1978 - Part 1
+
+EN#	98	02	Reader's Questions: Just Intonation, Frequency Shifting Vs Pitch Shifting
+EN#	98	03	Putting Your Circuit Boards Inside Something
+EN#	98	05	Preset Circuitry For Synthesisers (Lester Ludwig)
+EN#	98	09	A Square-Wave Frequency-Division Sub-Octave Cross-Product Module: It's Relationship With
+			Lie Algebra And Other Related Processes (Lester Ludwig)
+EN#	98	15	A Cure For "Overtracking" In An Exponential Converter (Ian Fritz)
+EN#	98	17	A General Purpose 1 Volt/Octave VCO Using The 8038 IC (Jan Hall)
+EN#	98	19	Record Review: Cluster & Eno, Devo, Jarre, Bowie, Vangelis, Gleeson, Synergy, Stepian (Anderton)
+EN#	98	20	Literature Review: Electronic Trade Journals - 1978 - Part 2
+
+EN#	99	01	Reader's Questions: Sample-And-Hold Droop, VCA Feedthrough
+EN#	99	03	A Fourth Order State-Variable Filter (Bob Chidlaw)
+EN#	99	13	A Reasonably Good Pitch Extractor "Back End"
+EN#	99	17	More Suggestions On Actually Getting Construction Underway
+EN#	99	20	Literature Review: Electronic Trade Journals - 1978 - Part 3
+
+EN#	100	01	News And Notes: New VCA ICs
+EN#	100	02	Reader's Questions: Reversing Low Priority Keyboards, MIL Spec
+EN#	100	03	The Ear - Part 4: Recent Developments Regarding Pitch Perception
+EN#	100	13	A Short Primer On Vocoders
+EN#	100	15	Vocoder Design Using State-Variable Filter Structures (Jan Hall)
+EN#	100	20	Some Brief Reflections On 100 Issues Of Electronotes
+
+EN#	101	03	An Experimental Correlator/Convolver For Electronic Music
+
+EN#	102	02	A Vocal-Effects Waveform Animator: The Synthesis Of "Animated" Sound - Part 4
+
+EN#	103	02	A Vocal-Effects Waveform Animator: The Synthesis Of "Animated" Sound - Part 4 (Addendum)
+EN#	103	06	Linear Applications Of CMOS Logic (Hal Chamberlin)
+EN#	103	09	Course Review - Techniques Of Computer Sound Synthesis (Hal Chamberlin)
+
+EN#	104	01	Reader's Questions: Capacitor Codes, Resistor Power Ratings
+EN#	104	03	Some Comments On The State Of Music Synthesis -1979, Part 2
+EN#	104	07	Appendix A: New Ideas On Filter Bank Design
+EN#	104	09	Appendix B: Pseudo-Random Tone-Wheel
+
+EN#	105	02	Reader's Questions: Finding Patents, Blown LF351s
+EN#	105	03	The Effects Of Feedback On Four-Pole Filters With Differing Pole Frequencies
+
+EN#	106	03	A Pseudo-Random Tone-Wheel Animator: The Synthesis Of "Animated" Sound - Part 5
+EN#	106	21	Book Review: Don Lancaster - The Incredible Secret Money Machine
+
+EN#	107	02	Reader's Questions: Getting Patents, Top Octaves
+EN#	107	03	The New OTAs: The CA3280 And The LM13600
+EN#	107	13	A (Gulp) Simple Balanced Four-Quadrant Multiplier With An OTA
+EN#	107	16	Filter Bank Design (Ian Fritz)
+
+EN#	108	02	Reader's Questions: Analogue Keyboard Interface Problems
+EN#	108	03	Some Interesting Audio Visual Analogues
+EN#	108	04	A Self-Modulating VCO, Revisited
+EN#	108	06	Multi-Phased Waveform Animator With Reduced Part Count And Two Extensions (L. Ludwig)
+EN#	108	09	A New Look At Pulse-Width Modulation - Part 1
+EN#	108	16	A Generalised Linear Amplitude Processor (Lester Ludwig)
+EN#	108	19	Notes On Noise, Fractional Calculus And The Variable Slope Filter (Normand Provencher)
+
+Volume 12 (January 1980 - December 1980)
+
+EN#	109	01	Reader's Questions: Speak & Spell, AD818 Alternatives, Alternative Analogue Delays
+EN#	109	03	Uniform Variable Slope Processor (Lester Ludwig)
+
+EN#	110	01	A Short List Of "Buzz Words" For IC Buyers And Users
+EN#	110	03	A New Look At Pulse-Width Modulation - Part 2
+EN#	110	18	An "Articulating" Contour Generator
+
+EN#	111	01	A Collection Of Reader Submitted And Reader Inspired Ideas:-
+EN#	111	03	A: Alternative To The CA3080 Simple VCO (B. Hutchins, Ron Teel)
+EN#	111	05	B: Warping The Response Of A Linear Input Attenuator (Richard Brewster)
+EN#	111	06	C: A Linear ADSR Envelope Generator (William park)
+EN#	111	07	D: Unusual Biquad And State-Variable Type Configurations (B. Hutchins, Norman Rose)
+EN#	111	10	E: Simple Voltage-Controlled Amplifier With 4009 CMOS Chip (Mike Yantis)
+EN#	111	12	F: Body-Proximity Controllers For Voltage-Controlled Synthesisers (John Valente)
+EN#	111	13	G: Frequency Halver For Triangle And Sine Waves (B. Hutchins. Iggy Foulke)
+EN#	111	14	H: Some Unusual High-Q Circuits (B. Hutchins, Tom La Mar)
+EN#	111	19	I:  Controlled-Current Switching Oscillator (Ian Fritz)
+EN#	111	20	J:  Simulated Waveform Generation With A Programmable Calculator (B. Hutchins, Allen Eaton)
+EN#	111	21	K: Sync Circuit For ENS-76 VCO Option 1 (Richard Brewster)
+
+EN#	112	02	Reader's Questions: Modulation Bandwidth For CV Inputs
+EN#	112	03	A Solution To The Mystery Of The Variable-Slope Filter (Lee Powell)
+EN#	112	10	A New Sample And Hold Circuit (John Talbert)
+EN#	112	13	Some Results Of Reversing Input And Ground With Some Filter Structures
+EN#	112	18	Ultrasonic VCO With Digital Waveform Generator (Ian Fritz)
+
+EN#	113	01	Reader's Questions: Through Zero FM
+EN#	113	03	Switchable VCA/balanced Modulator Based On The LM/XR13600 OTA (Ian Fritz)
+EN#	113	08	Comments On The New 13600 And 3280 OTA Device (Serge Tcherepnin)
+EN#	113	11	Spectra Of Some Simple Shift-Register Sequences:
+
+EN#	114	03	Four Voice Digital Keyboard Interface (Bob Chidlaw)
+EN#	114	09	Spectra Of Some Dual-Pulse Waveforms
+
+EN#	115	01	Time Reversing Oscillators And Through Zero FM
+EN#	115	03	A 39-Channel Variable-Q Filter Bank - Part 1
+
+EN#	116	01	News And Notes: CEM3350 And CEM3360
+EN#	116	02	Reader's Questions: Preferred Circuits Collection S&H Option 2
+EN#	116	03	A 39-Channel Variable-Q Filter Bank - Part 2
+
+EN#	117	01	Reader's Questions: Paralleling OTAs
+EN#	117	03	A Delay-Line/Phase-Shifter Based Filter Bank (Theta Processor)
+
+EN#	118	01	Reader's Questions: Books On Circuitry, Voltage Shifting
+EN#	118	03	A New Look At Pulse-Width Modulation - Part 3 (Lester Ludwig And Bernie Hutchins)
+
+EN#	119	02	From the Lab Notebook: The Digital Divider As A "Vibrato Killer"
+EN#	119	03	A Balanced modulator Application Of VCA Chips (Thomas Henry)
+EN#	119	07	A Pitch-To-Voltage Converter For A Polyphonic Guitar Synthesiser (Tony Dean)
+EN#	119	12	A Method For Measuring Modulation Bandwidth (Normand Provencher)
+EN#	119	13	Frequency Division Of Sine Waves (Normand Provencher)
+EN#	119	15	How Many Kinds Of Square Wave Are There? (Normand Provencher)
+EN#	119	16	Some Notes On Pseudo-Random Noise Generators
+
+EN#	120	01	Electronotes Publications
+EN#	120	01	Newcomer's Page: Timbre
+EN#	120	01	Electronotes Application Notes 1976 - 1980, Numerical Listing
+EN#	120	01	Master Index Of Electronotes Publications 1972 - 1980
+
+Volume 13 (January 1981 - December 1981)
+
+EN#	121	03	Lab Notebook - Effects Of PW Drivers On Short PWM Tones
+EN#	121	04	Newcomer's Page - Fourier Series
+EN#	121	05	Fourier Series Results For Some Simple New Waveshapers
+EN#	121	13	Two Hints For Using The CEM3340 IC (Thomas Henry)
+EN#	121	16	Stability In Linear Systems - Routh's Criterion
+EN#	121	22	A Brief Note On Variable Slope Spectra And Self Modulation
+
+EN#	122	02	More On The CEM3340 IC (Thomas Henry/Doug Curtis)
+EN#	122	03	Lab Notebook - Distortion Of  Triangle-To-Sine Converters
+EN#	122	04	Newcomer's Page - Strange Numbers
+EN#	122	05	Making Rack Panels (Thomas Henry)
+EN#	122	09	Square Law Attenuator (Normand Provencher)
+EN#	122	10	Determining The Probability Of Saturation Of Gausian Noise (Normand Provencher)
+EN#	122	13	A Function Generator With "Quadrature" Triangle Wave Outputs (Thomas Henry)
+
+EN#	123	01	Reader's Questions: Instrument Waveshapes, Band-Pass Filter Orders, IC Sockets
+EN#	123	03	Lab Notebook - More Tests Of  Triangle-To-Sine Converters
+EN#	123	04	Newcomer's Page - Pitch
+EN#	123	05	Pitch, Filtered Noise, Suggested Experiments
+EN#	123	09	A Few More Variable-Slope Ideas (Normand Provencher)
+EN#	123	14	Browser's Report (Normand Provencher)
+EN#	123	15	Review Of Recorded Music (Craig Anderton)
+EN#	123	17	Book Reviews
+EN#	123	19	An Add-On Sub-Octave Circuit For VCOs
+
+EN#	124	02	Book Review: "A Biography Of Computer Music" By Sandra L. Tjepkema
+EN#	124	03	Lab Notebook - Modulations With The Voice
+EN#	124	04	Newcomer's Page - What Is Digital?
+EN#	124	10	Design Of Simple Quantizers (B. Hutchins plus Mike Conrad)
+EN#	124	19	The ARP Surplus Three-Octave Keyboard (Dev Gualtieri)
+
+EN#	125	01	Source List Of Electronic Music And Musical Engineering (1978, 1979, 1980)
+
+EN#	126	02	Reader's Questions: Sinewave LFO
+EN#	126	03	Lab Notebook - Tests Of An Extension Of Standard Frequency Modulation Patches
+EN#	126	04	Newcomer's Page - Digital Synthesis Of Music
+EN#	126	05	The Reciprocal Square-Law Attenuator (Normand Provencher)
+EN#	126	07	A New Self-Varying Gate And Trigger Delay Unit (Lester Ludwig)
+EN#	126	10	Redundancy In Music As A Reason For Parametric Music Synthesis
+
+EN#	127	02	Reader's Questions: Quadratic Formula
+EN#	127	03	Lab Notebook - A Couple Of Circuits For Through-Zero VCOs
+EN#	127	04	Newcomer's Page - Looking For The Parts You Need
+EN#	127	05	GLAP Revisited: Smaller Parts Count Using CEM3330, Constant Power Correction 
+And Image Angle Curves (Lester Ludwig)
+EN#	127	09	Brief Notes On Integrator Phase Compensation
+
+EN#	128	02	Reader's Questions: Animation Vs Modulation, Fast Or Finite Transfer Functions
+EN#	128	03	Lab Notebook - Comb Filter Tests Of Animators
+EN#	128	04	Newcomer's Page - Getting Publications
+EN#	128	05	Theory And Design Of Electronic Percussion Instruments Based On The Band-Pass Resonator
+
+EN#	129	02	Newcomer's Page - Getting Publications
+EN#	129	03	A VCO With Through-Zero FM Capabilities
+
+EN#	130	01	News And Notes: Passport Designs, SSM2012, SSM2022, SSM2033, SSM2056 & SSM2100
+EN#	130	02	Newcomer's Page - Getting Publications
+EN#	130	03	A VOSIM Processor [including PCB Layout], (Devlin M. Gualtieri)
+
+EN#	131	03	Lab Notebook - Coupled VCOs
+EN#	131	04	Newcomer's Page - Interpreting Schematic Diagrams
+EN#	131	05	The Drumhead Problem - The Vibrating Membrane
+EN#	131	14	Le Gendre Filters  (Normand Provencher)
+EN#	131	18	Those Marvelous Whale Songs
+
+EN#	132	03	Animation Of Live Sounds
+EN#	132	04	Newcomer's Page - Interpreting Schematic Diagrams
+EN#	132	05	Simple Equipment For An Electronic Music "Utility" Panel
+EN#	132	05	1.  Microphone Amplifier
+EN#	132	05	2.  Mix/Gain/Monitor Unit
+EN#	132	06	3.  Flip-Flop Unit
+EN#	132	06	4.  Output Filters For Tape Recording
+EN#	132	07	5.  Headphone-Speaker Amplifier/Attenuator
+EN#	132	08	6.  Comparator/Differencer/Rectifier Unit
+EN#	132	09	7.  Ramp Generator/Oscillator
+EN#	132	10	8.  DC Source/Ultra-Fine Tuner
+EN#	132	11	Possible New Electronic Musical Instrument Based On Self-Sustained Oscillator Principles 
+EN#	132	19	A Proposed Design Of A "Mallet" Controller
+
+Volume 14 (January 1982 - June 1983)
+
+EN#	133	02	Reader's Questions: Cassettes In Electronic Music, AES Preprints
+EN#	133	03	Lab Notebook - Measuring The Spectra Of Noise
+EN#	133	04	Newcomer's Page - Mathematical Transforms
+EN#	133	05	Integrated Musical Electronics - Part 1
+EN#	133	08	The Analytic Signal As A Unifying Concept For Modulation Processes (Normand Provencher)
+EN#	133	18	Review Of Recorded Music - Musical Perspectives (Craig Anderton)
+
+EN#	134	01	Reader's Questions: Reader's Questions: Op-Amp Poles
+EN#	134	02	Monthly Literature Review - "Electronic Music Circuits" By Barry Klein
+EN#	134	03	Lab Notebook - More Transistor Noise Spectra
+EN#	134	04	Newcomer's Page - Modular Systems And Patching
+EN#	134	05	Integrated Musical Electronics - Part 2
+EN#	134	07	An Introduction To Hilbert Transform Theory And Applications
+EN#	134	17	Tri-Coloured LED Indicates Voltage Peaks
+
+EN#	135	03	Monthly Literature Review - List Of AN201 To AN242
+EN#	135	04	More On The Experimental Mallet Controller (B. Hutchins, T. Henry, A. Berg) 
+
+EN#	136	01	Monthly Literature Review - Journal Of Troublefinding Research
+EN#	136	02	A Pitch Extraction Scheme Based On Hilbert Transformation (B. Hutchins. D. Parola, L. Ludwig)
+
+EN#	137	02	Lab Notebook - Comparisons Of Exponential Decay, Linear And Convex 
+Envelope Shapes For Decay
+EN#	137	03	Coupled Resonator And Other Methods Of Achieving Two-Stage Amplitude Decay
+
+EN#	138	02	Low Key Digital Keyboard
+
+EN#	139	02	Methods Of Digital Oscillator Design Based On Digital Filter Structures
+
+EN#	140	01	A Summary Of OTA Control Current Methods
+EN#	140	03	Some Useful Frequency Response Calculations Avoiding Factoring
+
+EN#	141	02	Newcomer's Page - State Variable Filters
+EN#	141	03	Some New Results Concerning Q Enhancement In OTA Based VCFs
+
+EN#	142	01	Choices Between Analogue And Digital Synthesis
+EN#	142	03	Some Remarks On The "Copying Problem"
+EN#	142	04	A New Triangle-To-Sine Converter Using A 1496-Type Multiplier (Terry Michaels)
+
+EN#	143	02	Newcomer's Page - Digital Structures And Hardware
+EN#	143	03	Guide To Digital Filter Network Design - Chapter 1
+EN#	143	09	Integrated Musical Electronics - Part 3: Better Use Of VCF Chips
+
+EN#	"A" (EN# 144 - 146)
+EN#	144	02	Digital Envelope Generator Design Based On Digital Filter Structures
+EN#	144	11	Guide To Digital Filter Network Design - Chapter 2: Mathematical Basis For Analysis & Design
+EN#	144	29	The Effect Of Effective Sample & Hold With Digital Signals
+EN#	"B" (EN# 147 - 150)
+EN#	147	01	Meet the SN76477 (Thomas Henry)
+EN#	147	03	Guide To Digital Filter Network Design - Chapter 3: Filtering With Delay Line Networks
+EN#	147	13	Guide To Digital Filter Network Design - Chapter 4: Design Of Finite Impulse Response Filters
+EN#	147	29	A Proposed FIR Digital Filter Approach To Variable-Slope Filtering
+
+
+Volume 15 (July 1983 - December 1987)
+
+EN#	"C" (EN# 151 - 154)
+EN#	151	01	Reader's Questions: Digital All-Pass Filters, FIR Poles
+EN#	151	03	Guide To Digital Filter Network Design - Chapter 5: Design Of IIR Filters
+EN#	151	29	A Possible Mechanism For Electronic Tuning Of Hair Cells In The Ear
+ 
+EN#	"D" (EN# 155 - 160)
+EN#	155	01	Reader's Questions: Substitute Parts, Imperfect Harmonics
+EN#	155	03	Review Of Fourier Methods In Signal Processing And Musical Engineering:
+EN#	155	03	Definition And Notation
+EN#	155	04	Complex Numbers
+EN#	155	05	The Trigonometric Fourier Series
+EN#	155	06	The Complex Fourier Series
+EN#	155	07	Example Using TFS And CFS
+EN#	155	10	Side Trip To Fourier Transform
+EN#	155	13	Fourier Series As A Sampled Fourier Transform
+EN#	155	17	Complex Fourier Series Of A Piecewise Constant Waveform
+EN#	155	19	Discrete Fourier Transform And It's Inverse
+EN#	155	21	Interpretation Of The DFT Equation
+EN#	155	22	Evaluation Of The DFT And IDFT
+EN#	155	27	The Fast Fourier Transform
+EN#	155	35	Spectral Analysis With The DFT/FFT
+EN#	155	41	Refinement And Subtle Points Of The FFT Spectral Analysis
+EN#	155	46	The FFT Route To Convolution Of Sequences
+EN#	155	49	Signal Synthesis Using Inverse DFT/FFT
+
+EN#	"E" " (EN# 161 - 163)
+EN#	161	02	Cautions On Waveforms And Spectra
+EN#	161	03	Harmonics Of harmonicas (David Staver)
+EN#	161	11	Build A Precision Clock Controller (Thomas Henry)
+EN#	161	18	On The Implementation Of Variable Digital Filters With Fixed Clock Rate
+	
+EN#	"F" (EN# 164 - 167)
+EN#	164	01	Readers Questions - Microphone Amplifiers
+EN#	164	03	Interpolation, Decimation And Prediction Of Digital Signals
+EN#	164	47	Compensation Of Linear Circuit Blocks For the Effects Of Real Operational Amplifiers
+EN#	164	66	Another (Easier) Way Of Understanding The Hilbert Transform Based Pitch Extractor
+EN#	164	68	Book Reviews
+EN#	164	70	A Four-Pole Variable Digital Filter With Fixed Clock Rate (B. Hutchins And Eric Multanen)
+EN#	164	79	Some Comments On Digital Sampling Instruments
+
+EN#	"G" (EN# 168)
+EN#	168	03	Design of Wideband Analogue 90' Phase Differencing Networks Without
+Large Spread Of Capacitor Values
+EN#	168	10	Corrections Of Interpolation, Decimation And Prediction Of Digital Signals
+Volume 16 (January 1988 - July 1989)
+
+EN#	169	02	Problems Of Recovering The Analogue Signal From Digital Samples
+
+EN#	170	01	Reader's Questions: Interpolation
+EN#	170	03	Introduction To Adaptive Filters Of Several Types
+
+EN#	171	01	Book Review - DSP
+EN#	171	03	Review Of Frequency Modulation Synthesis Techniques Of Musical Sound
+
+EN#	172	01	Book Review - Books On Speech
+EN#	172	02	Interpolating Samples With The DFT/FFT
+
+EN#	173	01	Book Review
+EN#	173	03	Processing Of Information-Bearing Signals For Pitch-Changing, Time-Base Changing
+And Information Preservation
+
+EN#	174	01	Reader's Questions: Digital Reconstruction Filters
+EN#	174	03	Overflow Oscillations And The "Mickey Mouse" Fractal -Part 1
+Volume 17 (August 1989 - July 1992)
+
+EN#	175	01	Reader's Questions: DSP - C Compiler Or Assembly Language
+EN#	175	03	New Simplified Equiripple Design Algorithm For FIR Filters
+
+EN#	176	01	Breadboarding
+EN#	176	03	An Initial Study Of The Use Of Chaotic Signals In Synthesis Of Animated Musical Tones
+
+EN#	177	01	Reader's Questions: Restoring LPs
+EN#	177	03	Spawning Locations And Mechanisms For Overflow Oscillation Modes In A Second-Order 
+Digital Oscillator
+
+EN#	178	01	Two Roads To Narrow-Band Chaos
+EN#	178	03	Narrow-Band Chaos Achieved With Duffing's Equation With Possible Musical Synthesis 
+Applications (Eric Demers)
+EN#	178	35	A New Adaptive Filter Simulator
+
+EN#	179	01	A Least-Square And Min-Max Error Examination Of The Musical Scale Question
+EN#	179	03	Prediction, Deconvolution And System Identification: Part 1 - Undriven Systems
+
+EN#	180	03	Prediction, Deconvolution And System Identification: Part 2 - Driven Systems
+
+Volume 18 (April 1993 - September 1995)
+
+EN#	181	01	Holes In A Simulated Frequency Response Measurement (F. Fox And B. Hutchins)
+EN#	181	16	An Interesting Special Case Of An LMS Adaptive Filter
+EN#	181	25	Practical Aspects Of Obtaining Spectra From FFTs
+
+EN#	182	03	Four Useful Examples Involving Piecewise-Constant And Piecewise-Continuous Functions
+
+EN#	183	03	Basic Principles Of Adaptive System Modelling
+
+EN#	184	03	The Importance Of The Notation Of Band Limiting And Sample Reconstruction
+
+EN#	185	03	Sample Rate Changing And Corresponding Effects On Normalised And Unnormalised
+Spectra Description
+
+EN#	186	03	Frequency Errors And Distortion In Digital Sinewave Oscillators
+Volume 19 (August 1996 – March 2000)
+
+EN#	187	01	Book Review - The Computer Music Tutorial
+EN#	187	03	Sampling And Recovering Based On An Average Sampling Rate
+EN#	187	33	Bob Moog Visits Cornell
+
+EN#	188	01	"It's Better Than TV"
+EN#	188	03	Calculating The DFT And The Fourier Series - Each With The Other
+EN#	188	18	Up-Boxes And Down-Boxes - Time And Frequency Response - Making Sense?
+
+EN#	189	01	A Preference For Acoustic Sounds
+EN#	189	03	Exploiting The Periodic Frequency Response Of Discrete-Time Filters
+EN#	189	12	Time-Domain Zero-Padding And The DFT
+EN#	190	01	To Bib of Not to Bib
+EN#	190	03	The Strange Case of Unconjugated Poles and Negative Frequencies
+EN#	190	14	Internal Decimation
+EN#	190	30	A Min-Max Polynomial-Fitting Curiosity
+
+EN#	191	02	Analog Signal Processing Chapters 1 and 2
+
+EN#	192	01	Zeros at Infinity
+EN#	192	02	Analog Signal Processing Chapter 3
+
+EN#	193	01	A Butterworth that Peaks!
+EN#	193	02	Analog Signal Processing Chapter 4
+
+Volume 20 (April 2000 – September 2001)
+
+EN#	194	01	Modifications to a VCO
+EN#	194	02	Analog Signal Processing Chapters 5 and 6
+
+EN#	195	02	Active Sensitivity n a Compensated State-Variable Filter
+EN#	195	02	Analog Signal Processing Chapter 7
+
+EN#	196	02	Tuning Equations Derived from Passive Sensitivities
+EN#	196	02	Analog Signal Processing Chapters 8,9 and 10
+
+EN#	197	01	Analog Signal Processing Corner The Strange Root Locus of Negative Gain VCVS
+EN#	197	02	Basic Elements of Digital Signal Processing Introduction to the Series
+EN#	197	03	Basic Elements of Digital Signal Processing Filter Element - Part 1
+
+EN#	198	01	Analog Corner - Measuring Q wit Decrement
+EN#	198	02	Basic Elements of Digital Signal Processing Filter Element - Part 2
+
+Volume 21 (December 2001 – August 2003)
+	
+EN#	199	01	Analog Corner Reducing the Accumulating Gain - via Thevenin	
+EN#	199	03	Basic Elements of Digital Signal Processing Filter Element - Part 3
+
+EN#	200	01	Further Adventures with Analog Synthesizer Newsgroups
+EN#	200	03	Basic Elements of Digital Signal Processing Sampling Element
+EN#	200	56	Troubleshooting - Always a Connection?
+
+EN#	201	01	Analog Signal Processing Corner Second-Order Time Overshoot: A Second-Order Envelope Generator?
+EN#	201	07	Some Additional Sampling Examples
+
+EN#	202	01	Book Reviews (Analog Days, etc)
+EN#	202	03	Active Compensation of Sallen-Key Low-Pass Filters
+EN#	202	20	The Curious Ambiguous Length of a Triangular Window
+
+EN#	203	01	Bittersweet
+EN#	203	03	An Intuitive Approach to Polyphase Rate Changing
+
+EN#	204	01	Reader's Question (Recovering a Sinewave from Samples)
+EN#	204	05	Basic Elements of digital Signal Processing
+			Finite Wordlength Effects (Part 1)
+
+Volume 22 (March 2008 – February 2012)
+
+EN#	205	03	Sample-Rate Changing by Polyphase On Demand
+EN#	205	17	Recovery from Bunched Sampling
+
+EN#	206	01	Negative Frequencies and Through-Zero Frequency Modulation
+
+EN#	207	01	Tools for Investigating Kautz Functions
+
+EN#	208	01	A White Noise Curiosity
+
+EN#	209	01	Basic elements of Digital Signal Processing
+			Finite Wordlength Effects (Part 2)
+

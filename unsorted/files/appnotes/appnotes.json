@@ -1,0 +1,1772 @@
+[
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-08-04",
+    "id": "AN1",
+    "title": "Five-Volt One-Amp Power Supplies for TTL",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN1/AN1.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-08-11",
+    "id": "AN2",
+    "title": "Bipolar 15 Volt Supplies for Op-Amps",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN2/AN2.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-08-18",
+    "id": "AN3",
+    "title": "Use of IC Voltage Regulators for Powering Equipment from Car Batteries",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN3/AN3.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-08-25",
+    "id": "AN4",
+    "title": "Testing and Using LED\u2019s and LED Readouts",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN4/AN4.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-09-04",
+    "id": "AN5",
+    "title": "Notch Filters for Hum Rejection",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN5/AN5.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-09-11",
+    "id": "AN6",
+    "title": "Using the 555 Timer as a Monostable",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN6/AN6.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-09-18",
+    "id": "AN7",
+    "title": "Design of Second-Order Low-Pass Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN7/AN7.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-09-25",
+    "id": "AN8",
+    "title": "Design of Fourth-Order Low-Pass Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN8/AN8.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-10-04",
+    "id": "AN9",
+    "title": "Circuits for Detecting Slowly Changing Signals",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN9/AN9.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-10-11",
+    "id": "AN10",
+    "title": "IC Amplifier Selection Guide",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN10/AN10.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-10-18",
+    "id": "AN11",
+    "title": "Determining the \u201cQ\u201d of a State-Variable Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN11/AN11.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-10-25",
+    "id": "AN12",
+    "title": "The Biquad Active Filter Circuit",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN12/AN12.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-11-04",
+    "id": "AN13",
+    "title": "Equalizers and Tone Controls",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN13/AN13.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-11-11",
+    "id": "AN14",
+    "title": "How To Actually Build Something Part 1: Parts and Supplies",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN14/AN14.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-11-18",
+    "id": "AN15",
+    "title": "How To Actually Build Something Part 2: Circuit Boards",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN15/AN15.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-11-25",
+    "id": "AN16",
+    "title": "How To Actually Build Something Part 3: Soldering In Parts",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN16/AN16.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-12-04",
+    "id": "AN17",
+    "title": "How To Actually Build Something Part 4: Packaging",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN17/AN17.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-12-11",
+    "id": "AN18",
+    "title": "How To Actually Build Something Part 5: Miscellaneous Hints",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN18/AN18.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-12-18",
+    "id": "AN19",
+    "title": "Simple Linear Voltage-Controlled Oscillator",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN19/AN19.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1976-12-25",
+    "id": "AN20",
+    "title": "Improving the Linear VCO",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN20/AN20.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-01-04",
+    "id": "AN21",
+    "title": "Applying the CA3080 OTA",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN21/AN21.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-01-11",
+    "id": "AN22",
+    "title": "Gain Control Applications of the CA3080",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN22/AN22.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-01-18",
+    "id": "AN23",
+    "title": "The CA3080 as a Voltage-Controlled Resistor",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN23/AN23.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-01-25",
+    "id": "AN24",
+    "title": "Overdriven, Saturating, and Switching applications of the CA3080",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN24/AN24.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-02-04",
+    "id": "AN25",
+    "title": "Low-Q Bandpass Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN25/AN25.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-02-11",
+    "id": "AN26",
+    "title": "Bandpass Filter Examples",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN26/AN26.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-02-18",
+    "id": "AN27",
+    "title": "Simple Clocking Oscillators for Digital IC\u2019s",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN27/AN27.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-02-25",
+    "id": "AN28",
+    "title": "Simple Op-Amp Multivibrator Oscillator",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN28/AN28.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-03-05",
+    "id": "AN29",
+    "title": "Simple Sine Wave Oscillators",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN29/AN29.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-03-11",
+    "id": "AN30",
+    "title": "More Clocking Oscillators for Digital IC's",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN30/AN30.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-03-18",
+    "id": "AN31",
+    "title": "Schmitt Trigger Circuits with IC\u2019s",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN31/AN31.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-03-25",
+    "id": "AN32",
+    "title": "The 555 as a Collection of Devices",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN32/AN32.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-04-04",
+    "id": "AN33",
+    "title": "Simple Interface Circuits with CMOS",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN33/AN33.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-04-11",
+    "id": "AN34",
+    "title": "Delay Line Setup Using the MN3001",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN34/AN34.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-04-18",
+    "id": "AN35",
+    "title": "Delay Line Setup Using the SAD-1024",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN35/AN35.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-04-25",
+    "id": "AN36",
+    "title": "Applying Delay Line Evaluation Setups",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN36/AN36.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-05-04",
+    "id": "AN37",
+    "title": "High-Q Bandpass Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN37/AN37.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-05-11",
+    "id": "AN38",
+    "title": "High-Q Bandpass Filter Example",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN38/AN38.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-05-18",
+    "id": "AN39",
+    "title": "Design of Second-Order High-Pass Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN39/AN39.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-05-25",
+    "id": "AN40",
+    "title": "Design of Fourth-Order High-Pass Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN40/AN40.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-06-04",
+    "id": "AN41",
+    "title": "Summing Amplifiers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN41/AN41.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-06-11",
+    "id": "AN42",
+    "title": "RMS to DC Converters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN42/AN42.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-06-18",
+    "id": "AN43",
+    "title": "Selecting Resistors for Given Applications",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN43/AN43.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-06-25",
+    "id": "AN44",
+    "title": "Selecting Capacitors for Given Applications",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN44/AN44.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-07-04",
+    "id": "AN45",
+    "title": "Graphical Determination of Frequency Response S-Plane Case",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN45/AN45.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-07-11",
+    "id": "AN46",
+    "title": "Graphical Determination of Phase Response",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN46/AN46.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-07-18",
+    "id": "AN47",
+    "title": "Graphical Relationships in the Z-Plane",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN47/AN47.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-07-25",
+    "id": "AN48",
+    "title": "Z-Plane Graphical Relationships for First-Order Systems",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN48/AN48.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-08-04",
+    "id": "AN49",
+    "title": "Z-Plane Graphical Relationships: A Second-Order Example",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN49/AN49.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-08-11",
+    "id": "AN50",
+    "title": "Discrete Time All-Pass Networks",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN50/AN50.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-08-18",
+    "id": "AN51",
+    "title": "Discrete Time Notch Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN51/AN51.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-08-25",
+    "id": "AN52",
+    "title": "Relationships for Higher-Order Discrete Time Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN52/AN52.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-09-04",
+    "id": "AN53",
+    "title": "Graphs for Decibels",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN53/AN53.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-09-11",
+    "id": "AN54",
+    "title": "A Staircase Wave Generation Technique",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN54/AN54.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-09-18",
+    "id": "AN55",
+    "title": "R-Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN55/AN55.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-09-25",
+    "id": "AN56",
+    "title": "R-Filter Method of Op-Amp Frequency Response Testing",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN56/AN56.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-10-04",
+    "id": "AN57",
+    "title": "Algebra Tricks We Have All Forgotten",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN57/AN57.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-10-11",
+    "id": "AN58",
+    "title": "Some Hard to Remember Things About Trigonometry",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN58/AN58.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-10-18",
+    "id": "AN59",
+    "title": "Some Easily Forgotten Things About Complex Numbers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN59/AN59.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-10-25",
+    "id": "AN60",
+    "title": "Hyperbolic Functions",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN60/AN60.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-11-04",
+    "id": "AN61",
+    "title": "Fourier Series Square Wave Example",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN61/AN61.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-11-11",
+    "id": "AN62",
+    "title": "Low-Passed Square Wave \u2013 Time Analysis",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN62/AN62.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-11-18",
+    "id": "AN63",
+    "title": "Low-Passed Square Wave \u2013 Frequency Analysis",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN63/AN63.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-11-25",
+    "id": "AN64",
+    "title": "Reference Table \u2013 Fourier Series",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN64/AN64.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-12-04",
+    "id": "AN65",
+    "title": "Single Stage Phase Shifters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN65/AN65.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-12-11",
+    "id": "AN66",
+    "title": "Lissajous Figures",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN66/AN66.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-12-18",
+    "id": "AN67",
+    "title": "Simple Triangle-Square Oscillator",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN67/AN67.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1977-12-25",
+    "id": "AN68",
+    "title": "Analog Multipliers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN68/AN68.pdf"
+  },
+  {
+    "authors": [
+      "Chuck Rogers, CFR Associates, Newton NH"
+    ],
+    "comment": "",
+    "date": "1978-01-04",
+    "id": "AN69",
+    "title": "Additional Analog Multipliers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN69/AN69.pdf"
+  },
+  {
+    "authors": [
+      "Seamour Solutions"
+    ],
+    "comment": "",
+    "date": "1978-01-11",
+    "id": "AN70",
+    "title": "Signal Splitting Networks",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN70/AN70.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-01-18",
+    "id": "AN71",
+    "title": "Multi-Mode Filter Based on First-Order Low-Pass",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN71/AN71.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-01-25",
+    "id": "AN72",
+    "title": "The Twin-T Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN72/AN72.pdf"
+  },
+  {
+    "authors": [
+      "Lester Ludwig"
+    ],
+    "comment": "",
+    "date": "1978-02-04",
+    "id": "AN73",
+    "title": "Multi-Phase Scanning with Sawtooth Waveforms",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN73/AN73.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-02-11",
+    "id": "AN74",
+    "title": "Mathematical Factoring",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN74/AN74.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-02-18",
+    "id": "AN75",
+    "title": "Designing Butterworth Filters without Data",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN75/AN75.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-02-25",
+    "id": "AN76",
+    "title": "Graphical Methods for Chebyshev Pole Placement",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN76/AN76.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-03-04",
+    "id": "AN77",
+    "title": "TI-58/59 Program for |T(s)|",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN77/AN77.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-03-11",
+    "id": "AN78",
+    "title": "TI-58/59 Program for |H(Z)|",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN78/AN78.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-03-18",
+    "id": "AN79",
+    "title": "Some Simple Sawtooth Wave Generators",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN79/AN79.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-03-25",
+    "id": "AN80",
+    "title": "Handling and Application Precautions for FET Input Op-Amps",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN80/AN80.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-04-04",
+    "id": "AN81",
+    "title": "TI-59 Program for High-Ripple Chebyshev Poles",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN81/AN81.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-04-11",
+    "id": "AN82",
+    "title": "Data for High-Ripple Chebyshev Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN82/AN82.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-04-18",
+    "id": "AN83",
+    "title": "Alarm Circuit",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN83/AN83.pdf"
+  },
+  {
+    "authors": [
+      "Seamour Solutions"
+    ],
+    "comment": "",
+    "date": "1978-04-25",
+    "id": "AN84",
+    "title": "Reference Levels For Decibels",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN84/AN84.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-05-04",
+    "id": "AN85",
+    "title": "Measuring Op-Amp Parameters: Open-Loop Gain",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN85/AN85.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-05-11",
+    "id": "AN86",
+    "title": "Measuring Op-Amp Parameters: Input Error Values",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN86/AN86.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-05-18",
+    "id": "AN87",
+    "title": "Measuring Op-Amp Parameters: Output Drive Limitations",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN87/AN87.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-05-25",
+    "id": "AN88",
+    "title": "Measuring Op-Amp Parameters: Input Resistance, CMRR",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN88/AN88.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-06-04",
+    "id": "AN89",
+    "title": "Measuring Op-Amp Parameters: Bandwidth Limitations",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN89/AN89.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-06-11",
+    "id": "AN90",
+    "title": "Resonant Peaking in Second-Order Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN90/AN90.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-06-18",
+    "id": "AN91",
+    "title": "DC Gain of State-Variable Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN91/AN91.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-06-25",
+    "id": "AN92",
+    "title": "Three Ways to Partial Fractions",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN92/AN92.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-07-04",
+    "id": "AN93",
+    "title": "Logic Decisions with Op-Amps",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN93/AN93.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-07-11",
+    "id": "AN94",
+    "title": "N or More of M \u2013 Op-Amp Logic",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN94/AN94.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-07-18",
+    "id": "AN95",
+    "title": "AC Amplifiers with Op-Amps",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN95/AN95.pdf"
+  },
+  {
+    "authors": [
+      "Mark Swartwout"
+    ],
+    "comment": "",
+    "date": "1978-07-25",
+    "id": "AN96",
+    "title": "TI-59 Program for 90\u00b0 Phase-Difference Networks",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN96/AN96.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-08-04",
+    "id": "AN97",
+    "title": "The Transferable Power Supply",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN97/AN97.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-08-11",
+    "id": "AN98",
+    "title": "IC Regulators for Small Bench Supplies",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN98/AN98.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-08-18",
+    "id": "AN99",
+    "title": "TI-59 Program for the \u201cDeliyannis\u201d Bandpass Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN99/AN99.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-08-25",
+    "id": "AN100",
+    "title": "Op-Amp Selection Guide \u2013 1978",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN100/AN100.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-09-04",
+    "id": "AN101",
+    "title": "Delay Line Setup with MN3003",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN101/AN101.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-09-11",
+    "id": "AN102",
+    "title": "Bipolar Summing Control with One Pot",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN102/AN102.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-09-18",
+    "id": "AN103",
+    "title": "Second-Order Step Response",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN103/AN103.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-09-25",
+    "id": "AN104",
+    "title": "A Hidden Bandpass Decoupling Stage",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN104/AN104.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-10-04",
+    "id": "AN105",
+    "title": "Considerations for Bilinear Z-Transformed Delay Line Networks",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN105/AN105.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-10-11",
+    "id": "AN106",
+    "title": "Current Mirrors",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN106/AN106.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-10-18",
+    "id": "AN107",
+    "title": "Matched Filters for Sequence Detection",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN107/AN107.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-10-25",
+    "id": "AN108",
+    "title": "Series Expansions (Where Calculators Fear to Tread)",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN108/AN108.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-11-05",
+    "id": "AN109",
+    "title": "Taylor Series Expansion",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN109/AN109.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-11-11",
+    "id": "AN110",
+    "title": "Some Useful Series Expansions",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN110/AN110.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-11-18",
+    "id": "AN111",
+    "title": "TI-59 Program for Bessel Functions",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN111/AN111.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-11-25",
+    "id": "AN112",
+    "title": "Differential and Buffered-Differential Amplifiers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN112/AN112.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-12-05",
+    "id": "AN113",
+    "title": "Biquadratic Functions with State-Variable Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN113/AN113.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-12-11",
+    "id": "AN114",
+    "title": "A Frequency-to-Voltage Converter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN114/AN114.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-12-18",
+    "id": "AN115",
+    "title": "Triangle-to-Sine Converters Using Nonlinear Shapers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN115/AN115.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1978-12-25",
+    "id": "AN116",
+    "title": "Triangle-to-Sine Conversion Based on Power Series",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN116/AN116.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1979-02-05",
+    "id": "AN121",
+    "title": "A State-Variable Configuration with Constant Peak Response",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN121/AN121.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-01-11",
+    "id": "AN160",
+    "title": "Efficient Calculation of the Fourier Series of Rectangular Functions",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN160/AN160.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-03-11",
+    "id": "AN167",
+    "title": "90\u00b0 Phase-Difference Networks: Second-Order All-Pass Networks part 1",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN167/AN167.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-03-18",
+    "id": "AN168",
+    "title": "90\u00b0 Phase-Difference Networks: Second-Order All-Pass Networks part 2",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN168/AN168.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-03-25",
+    "id": "AN169",
+    "title": "90\u00b0 Phase-Difference Networks: Second-Order All-Pass Networks part 3",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN169/AN169.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-04-05",
+    "id": "AN170",
+    "title": "90\u00b0 Phase-Difference Networks: Second-Order All-Pass Networks part 4",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN170/AN170.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-11-04",
+    "id": "AN194",
+    "title": "Simple Shelving Equalizer",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN194/AN194.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1980-12-25",
+    "id": "AN200",
+    "title": "Some Simple Good Design Ideas",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN200/AN200.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1982-07-20",
+    "id": "AN256",
+    "title": "TI-59 Program for |T(s)| Without Factoring",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN256/AN256.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1983-02-15",
+    "id": "AN271",
+    "title": "Frequency Response of Bandpass Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN271/AN271.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1990-12-01",
+    "id": "AN312",
+    "title": "An Intuitive Approach to FFT Algorithms",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN312/AN312.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1992-01-01",
+    "id": "AN317",
+    "title": "Polynomial Fitting for Sample-Rate Changing at Rational and Irrational Frequency Ratios",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN317/AN317.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1992-02-01",
+    "id": "AN318",
+    "title": "Time Domain Least Squared Low-Pass Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN318/AN318.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1995-10-01",
+    "id": "AN333",
+    "title": "Design and Applications of Inverse Chebyshev Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN333/AN333.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1995-11-01",
+    "id": "AN334",
+    "title": "Design and Applications of Elliptic Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN334/AN334.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1995-12-01",
+    "id": "AN335",
+    "title": "Low-Pass to High-Pass Transformations: Analog and Digital Approaches",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN335/AN335.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1996-01-01",
+    "id": "AN336",
+    "title": "Low-Pass to Band-Pass Transformations: Analog and Digital Approaches",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN336/AN336.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1996-03-01",
+    "id": "AN337",
+    "title": "A General Review of Frequency-Sampling Design",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN337/AN337.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1997-10-01",
+    "id": "AN345",
+    "title": "Improved Signal to Noise Ratio with First-Order Noise Shaping: An Example",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN345/AN345.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1998-07-01",
+    "id": "AN348",
+    "title": "Contrasting Sinewave Generation in the Analog and Digital Cases",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN348/AN348.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1998-08-01",
+    "id": "AN349",
+    "title": "Two-Pole vs. Four-Pole Filters: The Issues",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN349/AN349.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "1998-11-01",
+    "id": "AN350",
+    "title": "Linear Phase - The Term Taken Outside",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN350/AN350.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2000-09-01",
+    "id": "AN351",
+    "title": "Cascading Discrete and Continuous Holds",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN351/AN351.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2002-05-01",
+    "id": "AN352",
+    "title": "Phase Errors, Amplitude Errors, and Unwanted Sidebands in Frequency Shifters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN352/AN352.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2003-03-01",
+    "id": "AN353",
+    "title": "A Note on the Gain and Time Constant of Integrators",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN353/AN353.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2003-05-01",
+    "id": "AN354",
+    "title": "A Simple (Simplest?) Side-Tracking Filter",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN354/AN354.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2003-10-01",
+    "id": "AN355",
+    "title": "Envelope Extraction with the Hilbert Transform",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN355/AN355.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2003-10-01",
+    "id": "AN356",
+    "title": "Spectral Recovery for a Class of Non-Uniform (\"Bunched\") Sampling",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN356/AN356.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2003-11-01",
+    "id": "AN357",
+    "title": "Considerations for a Noise Ordinance",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN357/AN357.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2004-06-01",
+    "id": "AN358",
+    "title": "Example Perfect Reconstruction Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN358/AN358.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2004-07-01",
+    "id": "AN359",
+    "title": "DFT Length Conversion",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN359/AN359.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2004-08-01",
+    "id": "AN360",
+    "title": "Flat and Not-So-Flat Spectra",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN360/AN360.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2005-05-15",
+    "id": "AN361",
+    "title": "Passive Sensitivities and Tuning Equations",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN361/AN361.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2005-12-01",
+    "id": "AN362",
+    "title": "Customized Hamming Window with Filter Design Applications",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN362/AN362.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-03-01",
+    "id": "AN363",
+    "title": "Calculating the Bit-Saving Achieved with Noise-Shaping",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN363/AN363.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-04-05",
+    "id": "AN364",
+    "title": "Fourier Series and DFT",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN364/AN364.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-04-15",
+    "id": "AN365",
+    "title": "Frequency Analysis/Resolution with Few Samples",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN365/AN365.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-05-01",
+    "id": "AN366",
+    "title": "Unfiltering - Equalization",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN366/AN366.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-06-01",
+    "id": "AN367",
+    "title": "Some Comments on Fixed-Point Digital Oscillator Design",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN367/AN367.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2006-12-01",
+    "id": "AN368",
+    "title": "Interpolation with a Minimum Norm Polynomial",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN368/AN368.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2007-02-01",
+    "id": "AN369",
+    "title": "Two Dimensional Uniform Sampling",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN369/AN369.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2007-03-01",
+    "id": "AN370",
+    "title": "Lifting- A Third Approach to Wavelets",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN370/AN370.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2007-04-01",
+    "id": "AN371",
+    "title": "A 2D Wavelet Lifting Example",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN371/AN371.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2008-01-01",
+    "id": "AN372",
+    "title": "Interpolation Error in Sinewave Tables",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN372/AN372.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2009-02-01",
+    "id": "AN373",
+    "title": "Interpretation of DFT as One Frequency Sinusoidal Waveforms",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN373/AN373.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2010-08-01",
+    "id": "AN374",
+    "title": "A View of Linear Frequency Invariant Systems",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN374/AN374.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2011-11-01",
+    "id": "AN375",
+    "title": "Moving Averages and Single Sinewave Cycles",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN375/AN375.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2011-12-01",
+    "id": "AN376",
+    "title": "Interpolation of Samples on a Square Lattice",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN376/AN376.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-02-01",
+    "id": "AN377",
+    "title": "False Ideas About Random Sequences",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN377/AN377.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-03-01",
+    "id": "AN378",
+    "title": "A Program for a Flat White Noise",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN378/AN378.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-07-01",
+    "id": "AN379",
+    "title": "Fun Plotting Your Own Global Warming Curves",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN379/AN379.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-08-05",
+    "id": "AN380",
+    "title": "Fun with Lighting Switches- Simple but Sometimes Frustrating",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN380/AN380.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-08-10",
+    "id": "AN381",
+    "title": "A Fun Analysis- Instrumentation Amplifier",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN381/AN381.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-08-20",
+    "id": "AN382",
+    "title": "Fun with Ohm's Law Maximum Power Transfer",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN382/AN382.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-08-25",
+    "id": "AN383",
+    "title": "A Fun Problem Don Lancaster Dropped on Us Years Ago",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN383/AN383.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-09-01",
+    "id": "AN384",
+    "title": "Fun with Red Noise",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN384/AN384.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-09-05",
+    "id": "AN385",
+    "title": "Looking at Principal Component Analysis",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN385/AN385.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-10-01",
+    "id": "AN386",
+    "title": "Fun with a Round Earth",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN386/AN386.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-10-10",
+    "id": "AN387",
+    "title": "Fun with FFT Timing",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN387/AN387.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-11-01",
+    "id": "AN388",
+    "title": "Fun with Survey Maps",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN388/AN388.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-11-15",
+    "id": "AN389",
+    "title": "Fun with Probability Puzzles 1- The Monty Hall Problem",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN389/AN389.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-11-20",
+    "id": "AN390",
+    "title": "Fun with Probability Puzzles 2- False Positives",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN390/AN390.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-11-25",
+    "id": "AN391",
+    "title": "Fun with Probability Puzzles 3- The Girl Named Florida",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN391/AN391.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-12-05",
+    "id": "AN392",
+    "title": "Fun with Reverend Bayes- An Overview",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN392/AN392.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2012-12-10",
+    "id": "AN393",
+    "title": "The Bayes Equation Denominator",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN393/AN393.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-01-20",
+    "id": "AN394",
+    "title": "Node Voltages by Superposition",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN394/AN394.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-03-30",
+    "id": "AN395",
+    "title": "Averaging- and Endpoint Garbage",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN395/AN395.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-06-05",
+    "id": "AN396",
+    "title": "Controlling a Low-Pass Peak Gain",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN396/AN396.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-06-15",
+    "id": "AN397",
+    "title": "Clipping: Friend or Foe?",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN397/AN397.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-07-20",
+    "id": "AN398",
+    "title": "A Short Presentation of FFT (DFT) Interpolation",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN398/AN398.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-09-13",
+    "id": "AN399",
+    "title": "The \"Jung Trick\" Applied to a Dual OTA",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN399/AN399.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-12-05",
+    "id": "AN400",
+    "title": "Square-Roots by Hand",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN400/AN400.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2013-12-22",
+    "id": "AN401",
+    "title": "Yearly Moving Averages as FIR Filters",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN401/AN401.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-01-10",
+    "id": "AN402",
+    "title": "Anomalies in Pseudo-Random Generators",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN402/AN402.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-01-27",
+    "id": "AN403",
+    "title": "Spurious Correlations Due to Filtering (of Noise)",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN403/AN403.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-02-13",
+    "id": "AN404",
+    "title": "Savitzky-Golay Smoothing",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN404/AN404.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-02-22",
+    "id": "AN405",
+    "title": "Removing \"Outliers\" from Averaging",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN405/AN405.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-03-15",
+    "id": "AN406",
+    "title": "Wiener Alternative to LMS Algorithm",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN406/AN406.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-03-30",
+    "id": "AN407",
+    "title": "Inverting a Moving Average Operation",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN407/AN407.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-04-05",
+    "id": "AN408",
+    "title": "Examples of Inverting of Smoothers",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN408/AN408.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-04-06",
+    "id": "AN409",
+    "title": "Changing the Moving Average Length- A Recipe",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN409/AN409.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-05-06",
+    "id": "AN410",
+    "title": "Fourier Map",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN410/AN410.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-05-20",
+    "id": "AN411",
+    "title": "DTFT and Fourier Series: N Equations in N Unknowns",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN411/AN411.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-05-25",
+    "id": "AN412",
+    "title": "More Fun with Red Noise",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN412/AN412.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-07-30",
+    "id": "AN413",
+    "title": "Notch Filtering- Some Notes",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN413/AN413.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-08-15",
+    "id": "AN414",
+    "title": "Step Response from Laplace Transform",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN414/AN414.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-11-01",
+    "id": "AN415",
+    "title": "Do Random Sequences Need \"Improving\"?",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN415/AN415.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-11-07",
+    "id": "AN416",
+    "title": "More Concerning Non-Flat Random FFT",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN416/AN416.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-11-22",
+    "id": "AN417",
+    "title": "Time Domain Weighted Least Squares",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN417/AN417.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-12-10",
+    "id": "AN418",
+    "title": "Fitting a Line to a Fixed Error Criteria",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN418/AN418.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-12-25",
+    "id": "AN419",
+    "title": "Finding Chebyshev Polynomials",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN419/AN419.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2014-12-31",
+    "id": "AN420",
+    "title": "Chebyshev as a Filter Characteristic",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN420/AN420.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-01-07",
+    "id": "AN421",
+    "title": "MATLAB Programs for Chebyshev",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN421/AN421.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-03-06",
+    "id": "AN422",
+    "title": "Notch Filter as a \"Washed-Out\" Comb",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN422/AN422.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-04-27",
+    "id": "AN423",
+    "title": "Exponential Decay- Continuous and Discrete",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN423/AN423.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-08-30",
+    "id": "AN424",
+    "title": "\"Cycle-11\": In Time, Frequency, and Period",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN424/AN424.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-10-10",
+    "id": "AN425",
+    "title": "Inverting a DTFT?",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN425/AN425.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2015-11-15",
+    "id": "AN426",
+    "title": "A DFT Curiosity - Investigating Bottom Up",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN426/AN426.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2016-03-01",
+    "id": "AN427",
+    "title": "Tweaking a VCO with Minmal Equipment",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN427/AN427.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2016-07-10",
+    "id": "AN428",
+    "title": "Why No Range-Switch with Hearing?",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN428/AN428.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2016-08-01",
+    "id": "AN429",
+    "title": "Cascading Voltage Dividers- and Friends",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN429/AN429.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2016-09-27",
+    "id": "AN430",
+    "title": "Feedback and Sensitivity",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN430/AN430.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2017-03-06",
+    "id": "AN431",
+    "title": "Audio Volume Controls",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN431/AN431.pdf"
+  },
+  {
+    "authors": [],
+    "comment": "",
+    "date": "2017-08-03",
+    "id": "AN432",
+    "title": "Simplified Digital Notch Filter Design",
+    "pdf": "/mnt/backup/electronotes/files/appnotes/AN432/AN432.pdf"
+  }
+]

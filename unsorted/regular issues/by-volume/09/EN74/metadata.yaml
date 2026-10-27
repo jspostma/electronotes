@@ -1,0 +1,27 @@
+type: Issue
+name: EN74
+volume: 9
+number: 74
+date: February 1977
+contents:
+    - page: 3
+      title: News Items
+
+    - page: 3
+      title: Reader's Questions
+      
+    - page: 6
+      title: Digital Filter Note 1
+      authors: 
+        - R.B. Tipton
+        - V. M. Tipton
+      
+    - page: 14
+      title: Theory and Design of a "Responding" Filter Bank
+      author: Bernie Hutchins
+      
+    - page: 21
+      title: Book Reviews
+
+
+

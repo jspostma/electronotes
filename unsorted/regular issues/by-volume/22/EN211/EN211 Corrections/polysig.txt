@@ -1,0 +1,24 @@
+% polysig.m
+% Program 2 for EN#211, makes Fig. 1 (without elephant)
+
+
+t=0:.01:20;
+f=.2;
+x=sin(2*pi*f*t) + 0.5*sin(2*pi*2.7*f*t);
+figure(1)
+plot(t,x,'k')
+hold on 
+plot([-5 25],[0 0],'b')
+axis([-1 21 -10 10])
+
+
+xs=x(925:25:1125)
+%plot([9.25:.25:11.25],xs,'or')
+P=polyfit([9.25:.25:11.25],xs,7)
+tp=[8:.1:13]
+xp=polyval(P,tp)
+plot(tp,xp,'r')
+
+
+hold off
+figure(1)

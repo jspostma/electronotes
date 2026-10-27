@@ -1,0 +1,113 @@
+AN14	How To Actually Build Something Part 1: Parts and Supplies	1976-11-11
+AN15	How To Actually Build Something Part 2: Circuit Boards	1976-11-18
+AN16	How To Actually Build Something Part 3: Soldering In Parts	1976-11-25
+AN17	How To Actually Build Something Part 4: Packaging	1976-12-04
+AN18	How To Actually Build Something Part 5: Miscellaneous Hints	1976-12-11
+AN30	More Clocking Oscillators for Digital IC's	1977-03-11
+AN67	Simple Triangle-Square Oscillator	1977-12-18
+AN71	Multi-Mode Filter Based on First-Order Low-Pass	1978-01-18
+AN103	Second-Order Step Response	1978-09-18
+AN121	A State-Variable Configuration with Constant Peak Response	1979-02-05
+AN160	Efficient Calculation of the Fourier Series of Rectangular Functions	1980-01-11
+AN167	90° Phase-Difference Networks: Second-Order All-Pass Networks part 1	1980-03-11
+AN168	90° Phase-Difference Networks: Second-Order All-Pass Networks part 2	1980-03-18
+AN169	90° Phase-Difference Networks: Second-Order All-Pass Networks part 3	1980-03-25
+AN170	90° Phase-Difference Networks: Second-Order All-Pass Networks part 4	1980-04-05
+AN194	Simple Shelving Equalizer	1980-11-04
+AN200	Some Simple Good Design Ideas	1980-12-25
+AN256	TI-59 Program for |T(s)| Without Factoring	1982-07-20
+AN271	Frequency Response of Bandpass Filter	1983-02-15
+AN312	An Intuitive Approach to FFT Algorithms	1990-12-01
+AN317	Polynomial Fitting for Sample-Rate Changing at Rational and Irrational Frequency Ratios	1992-01-01
+AN318	Time Domain Least Squared Low-Pass Filters	1992-02-01
+AN333	Design and Applications of Inverse Chebyshev Filters	1995-10-01
+AN334	Design and Applications of Elliptic Filters	1995-11-01
+AN335	Low-Pass to High-Pass Transformations: Analog and Digital Approaches	1995-12-01
+AN336	Low-Pass to Band-Pass Transformations: Analog and Digital Approaches	1996-01-01
+AN337	A General Review of Frequency-Sampling Design	1996-03-01
+AN345	Improved Signal to Noise Ratio with First-Order Noise Shaping: An Example	1997-10-01
+AN348	Contrasting Sinewave Generation in the Analog and Digital Cases	1998-07-01
+AN349	Two-Pole vs. Four-Pole Filters: The Issues	1998-08-01
+AN350	Linear Phase - The Term Taken Outside	1998-11-01
+AN351	Cascading Discrete and Continuous Holds	2000-09-01
+AN352	Phase Errors, Amplitude Errors, and Unwanted Sidebands in Frequency Shifters	2002-05-01
+AN353	A Note on the Gain and Time Constant of Integrators	2003-03-01
+AN354	A Simple (Simplest?) Side-Tracking Filter	2003-05-01
+AN355	Envelope Extraction with the Hilbert Transform	2003-10-01
+AN356	Spectral Recovery for a Class of Non-Uniform ("Bunched") Sampling	2003-10-01
+AN357	Considerations for a Noise Ordinance	2003-11-01
+AN358	Example Perfect Reconstruction Filters	2004-06-01
+AN359	DFT Length Conversion	2004-07-01
+AN360	Flat and Not-So-Flat Spectra	2004-08-01
+AN361	Passive Sensitivities and Tuning Equations	2005-05-15
+AN362	Customized Hamming Window with Filter Design Applications	2005-12-01
+AN363	Calculating the Bit-Saving Achieved with Noise-Shaping	2006-03-01
+AN364	Fourier Series and DFT	2006-04-05
+AN365	Frequency Analysis/Resolution with Few Samples	2006-04-15
+AN366	Unfiltering - Equalization	2006-05-01
+AN367	Some Comments on Fixed-Point Digital Oscillator Design	2006-06-01
+AN368	Interpolation with a Minimum Norm Polynomial	2006-12-01
+AN369	Two Dimensional Uniform Sampling	2007-02-01
+AN370	Lifting- A Third Approach to Wavelets	2007-03-01
+AN371	A 2D Wavelet Lifting Example	2007-04-01
+AN372	Interpolation Error in Sinewave Tables	2008-01-01
+AN373	Interpretation of DFT as One Frequency Sinusoidal Waveforms	2009-02-01
+AN374	A View of Linear Frequency Invariant Systems	2010-08-01
+AN375	Moving Averages and Single Sinewave Cycles	2011-11-01
+AN376	Interpolation of Samples on a Square Lattice	2011-12-01
+AN377	False Ideas About Random Sequences	2012-02-01
+AN378	A Program for a Flat White Noise	2012-03-01
+AN379	Fun Plotting Your Own Global Warming Curves	2012-07-01
+AN380	Fun with Lighting Switches- Simple but Sometimes Frustrating	2012-08-05
+AN381	A Fun Analysis- Instrumentation Amplifier	2012-08-10
+AN382	Fun with Ohm's Law Maximum Power Transfer	2012-08-20
+AN383	A Fun Problem Don Lancaster Dropped on Us Years Ago	2012-08-25
+AN384	Fun with Red Noise	2012-09-01
+AN385	Looking at Principal Component Analysis	2012-09-05
+AN386	Fun with a Round Earth	2012-10-01
+AN387	Fun with FFT Timing	2012-10-10
+AN388	Fun with Survey Maps	2012-11-01
+AN389	Fun with Probability Puzzles 1- The Monty Hall Problem	2012-11-15
+AN390	Fun with Probability Puzzles 2- False Positives	2012-11-20
+AN391	Fun with Probability Puzzles 3- The Girl Named Florida	2012-11-25
+AN392	Fun with Reverend Bayes- An Overview	2012-12-05
+AN393	The Bayes Equation Denominator	2012-12-10
+AN394	Node Voltages by Superposition	2013-01-20
+AN395	Averaging- and Endpoint Garbage	2013-03-30
+AN396	Controlling a Low-Pass Peak Gain	2013-06-05
+AN397	Clipping: Friend or Foe?	2013-06-15
+AN398	A Short Presentation of FFT (DFT) Interpolation	2013-07-20
+AN399	The "Jung Trick" Applied to a Dual OTA	2013-09-13
+AN400	Square-Roots by Hand	2013-12-05
+AN401	Yearly Moving Averages as FIR Filters	2013-12-22
+AN402	Anomalies in Pseudo-Random Generators	2014-01-10
+AN403	Spurious Correlations Due to Filtering (of Noise)	2014-01-27
+AN404	Savitzky-Golay Smoothing	2014-02-13
+AN405	Removing "Outliers" from Averaging	2014-02-22
+AN406	Wiener Alternative to LMS Algorithm	2014-03-15
+AN407	Inverting a Moving Average Operation	2014-03-30
+AN408	Examples of Inverting of Smoothers	2014-04-05
+AN409	Changing the Moving Average Length- A Recipe	2014-04-06
+AN410	Fourier Map	2014-05-06
+AN411	DTFT and Fourier Series: N Equations in N Unknowns	2014-05-20
+AN412	More Fun with Red Noise	2014-05-25
+AN413	Notch Filtering- Some Notes	2014-07-30
+AN414	Step Response from Laplace Transform	2014-08-15
+AN415	Do Random Sequences Need "Improving"?	2014-11-01
+AN416	More Concerning Non-Flat Random FFT	2014-11-07
+AN417	Time Domain Weighted Least Squares	2014-11-22
+AN418	Fitting a Line to a Fixed Error Criteria	2014-12-10
+AN419	Finding Chebyshev Polynomials	2014-12-25
+AN420	Chebyshev as a Filter Characteristic	2014-12-31
+AN421	MATLAB Programs for Chebyshev	2015-01-07
+AN422	Notch Filter as a "Washed-Out" Comb	2015-03-06
+AN423	Exponential Decay- Continuous and Discrete	2015-04-27
+AN424	"Cycle-11": In Time, Frequency, and Period	2015-08-30
+AN425	Inverting a DTFT?	2015-10-10
+AN426	A DFT Curiosity - Investigating Bottom Up	2015-11-15
+AN427	Tweaking a VCO with Minmal Equipment	2016-03-01
+AN428	Why No Range-Switch with Hearing?	2016-07-10
+AN429	Cascading Voltage Dividers- and Friends	2016-08-01
+AN430	Feedback and Sensitivity	2016-09-27
+AN431	Audio Volume Controls	2017-03-06
+AN432	Simplified Digital Notch Filter Design	2017-08-03

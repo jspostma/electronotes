@@ -1,0 +1,10548 @@
+6?
+
+.ELECTRONOTES
+Newsletter of the Musical
+203
+
+Snyder
+
+Engineering Group
+
+Hill Road
+
+Ithaca, N. Y. 14850.
+
+VOLUME 8, NUMBER 61
+
+JANUARY 1976
+
+GROUP ANNOUNCEMENTS:
+93 EN#61
+
+CONTENTS
+2
+
+Page
+
+FORUM
+
+Addendum to The Relative Merits
+
+—
+
+of Linear
+
+and
+
+John Simonton,
+
+Jr.
+
+‘
+
+Exponential VCO's:
+
+4
+
+Page
+
+and
+
+Design
+
+Slew
+
+by
+
+g
+
+Applications of Sample~and~Hold
+Limiting and Cascading Features:
+
+Page 14
+
+Microprocessors in Electronic
+bleill Hemsath
+
+Page 16
+
+Two New
+
+Music
+
+Analog Delay Line Circuits
+by Terry Mikulic and
+
+19
+
+News
+
+Page 20
+
+_Back
+
+This
+use
+
+in
+
+issues
+
+is
+
+this year.
+as
+
+they
+
+to
+
+the first of
+that
+
+Note
+
+were
+
+and Notes
+
+prepared.
+
+we
+
+Basics
+the
+
+have
+
+for
+
+~
+
+January
+
+"free form" issues that
+
+We have also
+
+3
+
+_
+
+Resistor Tolerances:
+
+dropped
+
+Bernie Hutchins
+
+by
+
+Jan Hall
+
+circuits
+
+Page
+
+Part
+
+—
+
+Modules with
+
+by
+
+two
+
+new
+
+sections
+
+that
+
+said
+
+we
+
+the section numbers
+
+Bernie Hutchins
+
+and
+we
+
+we
+
+just
+
+were
+
+let
+
+going
+things
+
+have not used
+
+in
+
+to
+
+fall
+
+the
+
+"
+
+The first of these is the "News and Notes for
+which replaces the former
+past.
+"News Items” section.
+We will include in this new section items that might have
+.....
+
+appeared
+Watch."
+
+in
+
+the sections
+
+We will
+
+still
+
+such
+use
+
+as
+
+”Literature
+
+Review,” "Product Review,”
+
+these sections when
+
+we
+
+have
+
+enough
+
+items
+
+However, often in the past we found that we had only
+report for these sections, and they had to wait a couple of months.
+Notes section, we can get these to you right away.
+
+presentation.
+
+new section is
+the "Back
+"Basic Course" of the type
+
+The second
+a
+
+new
+
+sort
+
+of
+
+to
+one
+
+or
+
+”Surplus
+
+give
+or
+
+With
+
+a
+
+two
+
+full
+items
+
+to
+
+the News and
+
+to
+
+Basics" section.
+
+we
+
+the past.
+Instead, we will
+attempted
+but not necessarily what you would call
+
+be
+
+This
+
+is
+
+not
+
+going
+
+to
+
+be
+
+in
+
+talking about things that are more basic,
+Often persons who have a great deal of experience in the field of musical
+simple.
+engineering will find out something very important about something that is very basic.
+Almost everyone has a basic
+This month's offering will illustrate this point I hope.
+our work.
+to
+means
+and
+its
+about
+tolerance
+what
+it
+idea
+However, there
+significance
+are some things about tolerance that we are so familiar with that we accept them as
+unwritten laws, obey them, and give them less thought than any other part of our work.
+The point is that we can make "smarter” designs by giving this the relatively small
+We might look at the section as one giving
+amountof thought it requires and deserves.
+Whenever possible, the
+important points about basic things that are often overlooked.
+to this
+contributions
+We
+invite
+section will be technically light and easy reading.
+—
+
+section.
+
+EN#6l
+
+(l)
+
+FORUM:
+The
+
+following
+
+addendum to
+of
+
+the
+
+are
+
+Your
+
+by
+
+submitted
+
+John Simonton of PAIA
+
+EN#59.
+
+in
+
+The EN#59
+
+exponential VCO's.
+
+linear and
+
+12 bits
+
+comments
+
+Forum comments
+
+John's comments
+get 1% accuracy in a five
+
+to
+
+necessary
+
+that
+
+statement
+
+12 bits of code
+
+voltage
+"normal”
+
+summing type of D/A converter (an
+that engineers concerned with data
+
+problem
+years
+
+a
+
+linear oscillator
+
+maximum
+
+ago;
+
+dynamic
+
+is
+
+correct
+
+to
+
+Electronics
+
+concerned
+
+in reference
+
+generate 5
+
+serve
+
+as
+
+an
+
+the relative merits
+
+to
+
+keyboard.
+
+if you assume that you
+R—ZR ladder).
+But this
+
+that
+
+statement
+
+our
+
+——EDITOR
+
+of control
+
+octaves
+
+going
+really
+
+are
+
+is
+
+to
+
+use
+
+the
+
+acquisition began wrestling with 30
+
+for minimum
+
+range
+
+are
+
+octave
+
+needed
+
+are
+
+into
+
+comments
+
+or
+
+a
+
+same
+
+more
+
+coding.
+
+before R-ZR arrangements became so
+(NOTE
+multiplying D/A converter. [EDITOR'S Note:
+The reader unfamiliar with the R—ZR ladder type of D/A can find info. in any good book on
+for example, the Analog—Digital Conversion Handbook from Analog Devices,
+D/A conversion
+MA
+02062.
+We will also be considering this type of D/A in EN soon when
+Inc., Norwood,
+consider
+a
+Unlike the ”normal" D/A.which sums weightings correspond—
+we
+digital keyboard].
+ing to bit significance, the MD/A multiplies a reference voltage by the produce of
+weightings.
+The
+
+thing that they came up
+universally known) was and still
+
+with then
+
+-
+
+called
+
+is
+
+a
+
+-
+
+significance of this may be already clear, but let's run through a carefully
+Let's say that we want the weightings to be such that an equally
+example.
+of
+set
+control
+tempered
+voltages is generated.
+Assuming 6 bits of code we assign weight—
+MSB
+to
+of:
+LSB)
+ings (from
+The
+
+selected
+
+232/12
+When these numbers
+normal
+
+are
+
+binary counting
+
+multiplied
+sequence
+
+000001
+
+=
+
+000010
+
+=
+
+V
+
+v
+
+0
+
+0 o
+
+0 0 1 1
+
+=
+
+000100
+
+=
+
+v
+v
+
+ref
+ref
+
+ref
+ref
+
+216/12
+it
+
+is
+
+28/12
+
+24/12
+
+equivalent
+
+to
+
+22/12
+
+adding
+
+"
+
+21/12
+
+‘
+
+the exponents
+
+so
+
+for
+
+a
+
+have:
+
+we
+
+.2”-12
+
+-22/12
+.21/1222/12
+
+=
+
+v
+
+ref
+
+-23/12
+
+.24/12
+
+,etc.
+.
+
+The MD/A in effect chromaticaly transposes
+obviously equally tempered.
+so
+that
+somewhat
+like
+an
+oscillator with an exponential converter
+voltage
+we
+can
+of
+the
+In fact, if we
+the
+oscillator
+transpose
+pitch
+by varying the reference.
+sum two or more voltages to produce the reference we have a device that behaves exactly
+like an oscillator with an exponential whiz—bang hanging on the front of it.
+
+This
+
+series
+
+is
+
+the reference
+
+circuitry required for an MD/A is not, in my opinion, significantly more compli—
+a normal D/A and one
+stage (of three required for 6 bits) of the circuit is
+1.
+itself
+this
+By
+Fig.
+single stage forms a two bit (don't say it Bernie)
+
+The
+cated
+
+than
+
+shown in
+
+The switch A is
+
+converter.
+
+the LSB of
+
+our
+
+2 bit
+
+code and B
+
+is
+
+the M53.
+
+When A and B
+
+both open the stage is simply a unity gain buffer and the output voltage is equal to
+the reference.
+Turning on the LSB produces a voltage divider at the_input of the amplifier
+
+are
+
+”\
+
+Turning on the
+equation 2.
+(and LSB off) produces a second voltage divider in the feed—back loop and produces an
+incremental voltage change as described in equation 3.
+With the LSB and MSB both on the
+
+and
+
+the
+
+output is lower than the reference
+
+new
+
+as
+
+shown in
+
+MSB
+two
+
+resistance ratio
+
+terms
+
+multiply
+
+and
+
+their
+
+product
+
+is
+
+multiplied by
+
+the reference
+
+r—Ar
+
+as
+
+‘
+
+Shown in equation 4.
+
+EN#61 (2)
+-
+
+7,77
+
+1
+
+1
+
+r
+
+fi—ir"
+
+F
+
+7
+
+V1",
+
+i
+
+r
+if
+
+r
+
+r
+
+77,,
+
+~—4—.
+
+’[_4g
+
+ensue—Am
+
+1
+
+_
+
+R
+
+ref
+
+A and
+
+(2)
+
+A
+
+(00)
+
+open
+_
+
+B
+
+closed,
+
+open
+
+V0
+(01)
+
+H
+
+Vref
+V
+
+V0
+
+o
+
+(3)
+g
+
+FIG.
+
+B
+
+”";"”
+
+emwfiw
+v
+
+(l)
+
+R
+
+i:
+
+l_
+
+A open,
+
+closed
+
+B
+
+(10)
+
+V
+
+i
+ref
+
+A
+
+B
+
+closed,
+
+j:A
+
+V
+
+R
+
+V
+
+=
+
+ref
+
+{R3+R4’}
+R4 J
+
++
+
+R2
+
+2
+
+'
+
+R2
+ref
+
+V
+
+4
+
+(11)
+
+closed
+
+0
+
+?
+
+1
+
+R3+R4
+
+=
+
+o
+
+2
+
+(4)
+
+R +R
+
+Rl L
+
+Right away we have a problem because the terms are obviously not in ascending order
+for the "normal" counting sequence.
+But if you stare at the thing long enough (and
+believe in your heart that there is a way to do everything) you see that by taking the
+complement of
+shown in Fig.
+
+A and
+
+the
+
+re—arranging
+
+K
+
+ELIE- ;
+
+Now
+
+we
+
+consider
+
+the A term has
+now
+
+can
+
+you
+
+—
+
+The
+
+the
+
+0
+
+1
+
+V0
+
+=
+
+Vref
+
+1
+
+0
+
+v0
+
+=
+
+Vref[R2/(R2+Rl)]'[(R3+R4)/R4]
+
+1
+
+1
+
+VO
+
+=
+
+vfef[(R3+R4)/R4]
+
+it up.
+verify for
+
+easily
+
+thing
+
+about
+
+complemented
+
+232/12
+we
+
+In
+a...
+
+that
+
+will
+
+Fig.
+—-..
+
+come
+
+3
+
+m
+
+u...
+
+]
+
+R
+
+‘
+
+Then:
+
+i
+
+B
+
+E:
+
+0
+
+0
+
+0
+
+1
+
+I
+
+FIG._§
+
++ R
+
+2
+
+2—4/12
+
+weightings
+mu.
+
+is
+
+it
+
+22/12
+
+m
+
+L/lz
+
+are
+
+n.—
+
+sequence but
+
+we
+
+sequence
+
+order
+
+as
+
+complementing
+that
+
+we
+
+Applying this
+weighting
+
+logical.
+of
+
+the desired
+
+have
+
+rule of
+
+the
+
+on
+
+2—1/12
+that
+
+say
+
+reference is going
+
+the
+
+to
+
+applied:
+mun,—
+
+”mm-Ian.
+
++ R
+
+R
+
+_1
+
+2
+
+=
+
+‘
+
+and
+
+-éi——~¥£
+R
+
+1
+
+-————_.—.u
+
+22/12
+
+=
+
+and V'
+
+4
+
+om...
+
+_=
+
+ref
+
+21/12
+
+1
+
+,
+_
+
+Vo
+V
+-
+
+—
+
+=
+
+0
+
+I
+
+1
+
+0
+
+V6
+
+I
+
+1
+
+1
+
+v0
+
+u.‘
+
+that
+
+the
+
+with nicer numbers
+
+new
+
+desirable
+
+a
+
+reciprocal
+weightings become:
+use
+
+28/12
+
+——
+
+-~3£-—~
+
+to
+
+the
+
+R
+
+Let
+
+is
+
+engineering
+
+so
+
+out
+
+these
+
+defined
+
+Forgive my not going through the
+yourself that it is screwed up.
+
+want
+
+we
+
+2—16/12
+
+r——-l
+
+[
+
+.We have
+
+weightings.
+
+that
+
+that
+
+accending
+
+Vref[R2/(R2+R1)]
+
+terms
+
+so
+
+in
+
+.
+
+screwed
+
+lovliest
+
+21/12.
+
+up
+
+=
+
+seem
+
+and
+
+'
+
+V0
+
+it would
+
+be
+
+come
+
+0
+
+thumb
+
+are
+
+they
+
+equations,
+
+2.
+
+1
+—
+
+=
+
+Vref[R2/(R1+R2)]
+V
+21/l2
+ref
+
+_
+1
+
+2
+
+1/12 —1/12
+2
+
+Vref[R2/(R2+Rl)][(R3+R4)/R4]
+
+Vref[(R4+R3)/R4]
+EN#61
+
+(3)
+
+1
+_
+
+2
+
+1/12 2/12
+2
+
+1
+
+_
+_
+
+2
+
+_
+—
+
+=
+
+1/12 ~1/12 2/12
+2
+
+2
+
+3/12
+
+2
+
+_
+—
+
+2
+
+2/12
+
+With these
+
+weightings
+
+new
+
+0 o
+
++
+
+1
+
+0 1
+
++
+
+21/12
+
+1 1
+successive
+
+stages
+
+resistance
+
+exact
+
+equally tempered
+
+sequence:
+
+20/12)
+
+23/12
+
++
+
+added, the equally tempered nature of the series holds.
+obtained by solving the first two equations in Fig.
+
+are
+
+ratios
+
+(=
+
+the
+
+22/12
+
+0
+
+1
+
+As
+
+thus arrive at
+
+we
+
+are
+
+The
+3.
+
+There you have it, a way to generate 5 octaves of control
+voltage to a linear
+oscillator from six bits of code.
+Further, I think that you will agree that this system
+behaves in EXEEX,E§Z_33 if an exponential converter were in the
+somewhere.
+I didn't
+
+system
+
+pull this
+that
+
+of my
+
+out
+
+~~ear~—
+
+started
+
+bunch
+
+of
+
+(according
+“obvioulsy's”,
+
+to
+
+It's the
+sitting at the typewriter.
+So
+my lab notes) over two years ago.
+
+take
+
+that
+
+into
+
+result of
+if
+
+I
+
+a
+
+lot of
+
+thought
+
+have thrown in
+
+a
+
+account.
+
+'
+
+John Simonton
+PAIA Electronics
+Jan.
+
+35'
+
+Desxsm
+
+AND
+
+APPLICATIONS
+
+yr
+
+>1-
+
+By
+
+nowj
+
+the
+
+Their
+
+Bernie
+
+samplemandvhold (8&H)
+function
+
+is
+
+>5
+
+933 SAMPLE~AND—H0LD
+
+AMI) Cascmuiims [:EAlWJRES:
+
+systems.
+
+fi
+
+to
+
+module
+
+capture
+
+>1-
+
+MODULES ‘a‘liTH Stew-LIMITING
+
+Hutchins,
+
+is
+
+a
+
+ELECTRONGTES
+
+feature of many
+voltage level and
+
+common
+
+instantaneous
+
+an
+
+1976
+
+6,
+
+synthesizer
+then hold
+
+this
+
+voltage until another sample command arrives.
+.An
+elementary 8&H system is formed as shown at the
+The switch 5 is closed for a brief instant
+right.
+which
+the capacitor C charges toward the
+during
+instantaneous level of Vin.
+The rate of charge
+is determined by the output
+impedance (Rout) of
+the device supplying Vin'
+If the value of Rout
+is low enough and if the sampling time is
+long
+enOugh, then the output of the buffer will reach
+the
+
+instantaneous value of
+
+ful
+
+3&H
+
+is
+
+too
+
+If
+
+design.
+short, then lhe
+
+noticahle
+sort
+
+for
+
+of
+
+certain musical
+
+design
+
+is
+
+The
+
+will
+
+Vout
+
+tends
+
+and will
+
+not
+
+in
+
+In
+
+find
+
+fact,
+some
+
+input
+
+next
+
+ramp.
+
+We look there at
+page.
+We have assumed for the
+
+which
+
+Rout
+Simple terms, the
+A very
+
+common
+
+levels
+
+this report
+
+to
+
+is
+
+causing
+
+response
+use
+
+of
+
+by sampling
+
+is
+
+the
+a
+
+the
+
+slew
+
+”sluggish“
+
+examine how this
+
+process
+
+m
+
+we
+
+error, and we
+Rout is too high
+
+the instantaneous
+
+right direction,
+which is not
+
+to
+
+will
+
+the
+
+look at
+
+a
+
+8&H
+
+circuit
+
+where
+
+case
+
+purpose
+
+say
+
+the
+
+have
+
+a
+
+success~
+
+sampling time
+Vin without
+
+value of
+
+does not make
+
+case
+
+This
+
+it.
+
+that
+
+it may not
+where we make
+
+of
+
+shown
+
+by
+
+the
+
+the device
+
+is
+
+made
+
+limiting (hence
+lags behind
+8&H unit
+
+be
+
+useful
+the
+
+sure
+
+is
+
+changed
+(4)
+
+when
+
+this
+
+diagram
+
+diagram at the
+to respond to
+
+that
+
+it
+
+is
+
+the
+
+exponential response).
+
+the
+
+ideal
+
+to
+
+It will
+
+source.
+
+EN#61
+
+is
+
+making
+
+and
+
+is
+
+it
+
+we
+
+say
+or
+
+very useful musical results.
+
+the
+
+conventional
+
+white noise
+
+reach
+
+the
+
+failure
+
+engineering
+
+applications.
+
+the value of
+
+general effect of slew~limiting of
+
+Effect of
+
+Voltage
+
+of
+
+the output
+
+an
+
+slew~limited,
+
+top of the
+an
+
+is
+
+design
+
+input without noticeable
+
+other hand
+
+value
+
+While
+
+error.
+
+8&8
+
+the
+
+the
+
+on
+
+generate
+be
+
+slew
+
+one
+
+the
+
+In
+
+response.
+a
+
+of
+
+limiting
+
+"random" sequence of
+the main purposes
+is applied.
+
+of
+
+err
+
+OUT
+
+FriN0
+
+LIMITING
+
+SLEH
+
+W
+
+{N
+
+r—r~J-F“"Jm~F.MMu_
+WITH
+
+OUT
+
+We want
+
+also
+
+look here
+
+to
+
+the actual
+
+distribution of
+Then
+
+the
+
+the
+
+of
+
+First
+sequences.
+obtained from the usual
+
+samples
+
+look at
+
+will
+
+we
+
+probability distributions
+
+at
+
+structures
+
+contrived
+
+a
+
+and
+
+probability distribution,
+sequences
+then examine how slew
+
+limiting
+
+It will be found
+sequences.
+the most musical significance
+we
+
+long
+
+”bursts" of
+
+call
+
+can
+
+term
+
+how it
+
+called random
+
+so
+
+look at
+
+samples)
+probability
+
+the
+
+white noise
+
+type_of
+with
+
+and
+
+generatora
+
+equivalent of
+Moving
+by slewmlimiting.
+
+start
+
+we
+
+altered
+
+is
+
+the
+
+the
+
+a
+
+flat
+to
+
+on
+
+random and nonnrandom sequences, and
+meaning
+the
+note—to~note
+structure of sampled white noi se
+changes
+of
+
+the
+
+that
+
+that
+
+is
+
+where
+
+tones
+
+remains
+
+structure
+
+obtain will be
+
+we
+
+example
+
+see
+
+will first discuss
+
+we
+
+where
+
+of
+
+will
+
+we
+
+LIMITING
+
+SLEW
+
+major effect of sleleimiting, and
+the
+
+tones
+
+of
+
+the
+
+the notewto~note
+
+randomr
+
+tend
+
+with
+
+one
+
+into what
+
+sequence
+group
+is relatively small while
+
+change
+this
+
+Subjectively,
+
+the
+
+to
+
+that
+
+means
+
+uncontrolled, but have an overall texture
+(non slew~limited) manner,
+
+that
+
+is
+
+sequences
+
+that
+
+much smoother
+
+than
+
+the
+
+that obtained in the normal
+PROBABILITY
+
+DISTRIBUTIONS
+
+show at
+
+We
+
+the
+
+right
+
+setup using
+
+a
+
+typical
+
+a
+
+white noise generator of the type formed from a
+back biased semiconductor junction.
+The circuit
+described
+used
+
+for
+
+Rossum in EN#3O
+
+by
+the
+
+level
+
+rapidly
+
+relative
+
+there
+a
+
+are
+
+of
+
+captures
+
+slows
+
+it
+
+control
+
+a
+
+down
+
+follows.
+
+one
+
+Now,
+
+that
+
+repeat,
+
+describe
+
+we
+
+voltage level
+by holding itc
+
+input of
+
+a
+
+VCO,
+
+are
+
+to
+
+and
+
+we
+
+hear
+
+noise.
+
+as
+
+Typically
+thus
+
+is
+
+The
+this
+
+converted
+
+fall.
+
+You
+
+volt
+
+so
+
+don‘t expect any voltages
+
+you wise
+
+are
+
+likely
+this
+or
+
+as
+
+sort
+
+a
+
+for
+
+then
+
+that
+
+bution
+
+is
+
+interval
+
+the noise
+
+of
+
+that
+
+voltage
+to
+
+musical
+
+a
+
+voltage
+
+source
+
+and
+
+being
+pitchv
+
+in which
+8&H
+
+are
+
+than +15
+
+greater
+
+held
+
+is
+
+Now
+
+the
+
+to
+
+suppose you
+
+supplied by
+less
+
+bipolar 15
+
+a
+
+than ~15:
+
+But
+
+the range of say +12 to +13 volts is just
+suppose
+voltage
++2
+between
++1
+and
+volts
+if you have ever listened
+for example.
+voltage
+you
+
+probably
+
+The
+
+best
+
+pitch sequence,
+pitches are rare»
+
+this has
+
+a
+
+The
+
+do with
+
+to
+
+up
+
+the
+
+the
+
+noise
+
+histogram by adding
+results
+
+the result
+
+of
+
+of
+
+such
+
+over
+
+physics
+
+of
+
+source
+
+and
+
+all
+
+the
+
+up
+
+experiment
+500 samples.
+We
+an
+
+range of values or any individual
+shape, which some would say seems
+
+bet
+the
+
+know
+is
+
+intuitively
+
+the
+
+that
+
+interval around
+
+semiconductor
+
+(5)
+
+as
+
+to
+
+extremely high
+zero
+
+volts.
+
+We
+
+The
+
+do
+
+an
+junction.
+measuring voltages.
+
+can
+
+and
+
+samplevandwhold
+sample voltages that
+are
+are
+
+shown
+not
+
+on
+
+the
+
+concerned
+
+next
+
+fall
+
+in
+
+page.
+here with
+
+a
+
+certain
+
+The
+the
+
+distri~
+exact
+
+part of the histogram, but only with the general
+to be "Gaussian” or a normal ”bell curve.”
+
+EN#6l
+
+are
+
+individual white noise
+
+an
+
+or
+
+fed
+
+is
+
+in
+
+a
+
+low
+
+form
+
+interval.
+
+know that
+
+to
+
+experiment by setting
+We
+
+the
+
+on
+
+g
+
+~L~
+
+Triggers
+
+of random
+
+extremely
+
+reason
+
+you
+
+bEt
+
+I l §__L
+
+""'~*WMJ
+
+this noise and
+
+in
+
+You
+
+supply
+
+Noise
+
+the
+
+only
+
+gambler.
+sample will
+
+a
+
+White
+
+we
+
+changes very
+perception, and since
+
+human
+
+to
+
+patterns
+
+no
+
+the
+
+was
+
+the white noise
+
+"texture” which
+
+8&H
+
+that
+
+experiment
+
+voltage
+
+(4)
+
+%
+
+?
+
+NMTEHOKEIN
+
+Nt.mber
+
+4
+
+NOSLB L”MITRE
+
+in
+
+of
+
+Each
+
+Samples
+
+Interval
+
+«me m—w “.45
+
+“9
+
+we
+
+we. ——4
+-
+
+VGLTAGE
+
+It
+
+is
+
+cl.ear
+
+than
+
+center
+
+near
+
+sisttihution
+show
+
+the
+
+ions
+
+in
+
+:ult
+.ll
+
+be
+
+source
+
+of
+
+the
+
+shove
+
+the ends”
+from
+
+means
+
+an
+
+sa
+athih
+
+exact
+
+histogram why
+don
+
+We
+
+really
+engineerihe point
+
+an
+
+comlined action of
+the
+
+have
+
+'
+
+from the
+
+t
+
+the
+
+p:o<;ess
+
+of
+
+measure
+
+looks Guassian,
+
+it
+
+get
+
+we
+
+want
+
+.
+
+and
+
+the
+
+the
+
+results
+
+be
+
+first
+
+p'lace
+together
+
+working
+9
+
+and
+
+the pro (soility distribution of
+
+could
+
+we
+
+the
+
+the
+
+the
+
+not
+
+Imperfect—
+claim
+
+While
+
+noise.
+
+results
+that
+
+the
+
+1
+
+exactly Gaussish since we know for sure there
+voltages exceeding
+supply limits, and for a true Guassian noise
+we expect
+a finite probability
+heyond the sipply limits
+FinallyS the physics
+semiconductor junction tells us that there will be a G-uass ian componeni: to the
+not
+
+can
+
+he
+
+the po
+ower
+
+no
+
+usual
+
+typical
+
+croufed
+many
+
+S:1
+
+the
+
+near
+
+mucli a.hout what
+
+too
+
+say
+of View.
+In the
+
+noise, but there will also be other components“
+the
+
+voltage samples
+
+more
+
+to
+
+type of noise source,
+of
+
+and
+
+the usual
+
+What
+
+we
+
+do want
+
+typ- of 8&H,
+
+to
+
+the above
+
+is
+
+say
+
+that
+
+for
+
+di.stribution will
+
+in short, things are
+ampl1tudes one will get
+Mdle, a fact that we noted may be intuitively obvious
+
+the di_strib ution of
+
+together
+
+synthesizer
+
+toward
+
+the
+
+m
+
+to
+
+users.
+
+ect of slew limiting on the sampling proce 3
+One
+Now, we want to examine the etfe
+problem is that if we use a standa‘d white noise source3 the probability di.str 1.13ution
+is alteafiy ‘fuhny" and this wiLl complxca e tliings.
+We'would prefer to start with
+a
+
+sistriou :ioo
+
+change
+
+due
+
+Tfludom
+
+source
+
+flat.
+time
+
+to
+
+An
+
+that
+slew
+and
+
+is
+
+flat
+
+limiting.
+adjust
+
+easier
+
+the
+
+on
+
+tlu
+
+;op
+
+to
+
+begin
+
+One way around
+
+with
+
+so
+
+that
+
+this would he
+
+llnjoo weie
+Ohts so
+the following
+We
+
+way is
+all voltages
+
+that
+8
+
+tart
+
+we
+
+can
+
+better
+
+see
+
+the
+
+develops
+pseudo“
+ptobability distribution
+with some waveform that spends
+to
+
+a
+
+the
+
+(a triahrlt is good, or a sawtooth can be used, but
+equally
+not a Sine or a pulse},
+We then sample ti 8 at ”ransom
+times.
+This is accomplished
+by using a relatively high frequency for
+lOOO
+Hz) and use a manual
+triangle (e.g,fi
+Since a human being could not time his manual actions to l/lOOO
+*ricv:r to the 8&H.
+Oi a second (or eien a shorter time to capture a certain part of the waveform) the
+suit is the equivalent of a set of random voltage level w th a flat probability
+ixsttibution,
+An e1perimcniil histogram of this type is .ml 1WD at the top of the
+.
+
+at
+
+,
+
+the
+
+“
+
+EH-
+
+flcxt
+
+page,
+EN 7}hl
+
+(6)
+
+RANDOM TIME
+
+fl
+
+OF
+
+‘
+
+SAMPLING
+
+A
+
+”RI/mo, WAVE
+
+“”“IIITIKY”‘
+WITH
+
+SIJNJ LIIIFIING
+
+SEEN LIMIT: I
+
+(1 Meg
+
+to.)
+
+reel
+
+A
+
+’5
+
+may
+The
+
+diettibution shown
+
+the
+
+on
+
+left
+
+The txqo small
+getting a flat top
+triangle wave pelrtiaIIy CEt£-res an
+been mo re careiul we could have
+I
+
+We
+
+on
+
+are
+
+showe
+
+than
+
+output
+
+of
+
+ion,
+
+the
+
+the
+
+flat
+
+Slew
+
+one
+
+to
+
+1%
+
+t
+
+side
+
+slew
+
+several
+
+enough
+
+ftct
+
+that
+
+If
+
+it:
+
+we
+
+to
+
+the
+
+hed
+
+Vlthout he?
+
+mg to
+shown above
+
+ulSITIthIOn
+
+l meg regietencc in the circuit
+obtained a tfiihflt peeked di’strl'”~
+
+havw
+
+W?
+
+vith.
+
+reach
+
+to
+
+the
+
+linitifig (e
+
+theI
+
+te’ l
+
+cloee
+
+come
+
+to
+
+limiting
+
+The
+
+See
+
+ate
+
+due
+
+fullg sweep
+f,ei:u:cee
+
+t
+
+1.
+I
+
+have
+
+we
+
+are
+
+slew
+
+of
+
+8&H
+
+ve
+
+that
+side
+
+D
+
+We
+we
+
+l,i
+
+to
+
+efifect
+
+on).
+
+ehcwe
+
+n}
+
+'3
+
+the
+
+In
+
+limit.ed
+
+would have
+
+we
+
+position
+
+the
+
+later
+
+g5v:fng
+
+rather
+
+a
+
+effects
+
+J:unmy
+
+t.hebe 13ght
+
+will
+
+in
+
+new
+
+about
+
+worrv
+
+above
+
+lf/«n
+
+hm”
+
+m—4
+
+h
+
+This
+
+I
+
+'
+
+of
+
+one
+
+euc1oseive
+
+of
+
+called
+
+33
+
+Imp
+
+“I
+
+Inderetcoda
+
+'ly
+
+exttcme<
+
+the
+
+for
+
+at
+
+original
+the
+
+EXtT(m€
+
+Sjnce
+
+Rather than go into a
+samples are at random, this woe d be a rare event.
+explaletion beta, the reader will g3:in 1:hcp
+proper understanding by )ngdIfig the
+amount of time just thinking about this“
+that
+
+Note
+
+Although
+
+would heve
+the
+to
+
+If
+
+dynamic
+add
+
+the
+
+éifi
+
+we
+
+range of
+
+dynamic
+
+the Output
+
+is
+
+obverve any ean11>l_ze toweld
+had wa.It“d lo
+Gog ex (n 1gb;
+
+we
+
+range
+
+appears
+
+reduced
+
+of
+
+e*ttemee
+
+amplification to the outnut In
+out
+o
+triangle random duplln”
+What happens if we apfily Slew linmi izg to enlta ROISEI
+page 6 would be further Hetrowed aId even more Samples would
+some
+
+experiment
+
+center
+
+of
+
+much
+
+structure
+
+of
+
+SUBJECTIVELY
+is
+
+processes.
+
+So
+
+far
+
+really a matter of
+have relat‘aely more
+less
+
+than
+
+important
+
+sequences whic H4 1
+
+{ANDOM IND
+
+easy
+
+to
+
+asnal
+
+it
+
+,
+
+the
+
+shall
+
+aTOllnd
+
+effect
+exa
+
+the
+is
+
+tetm
+
+not
+
+out
+
+of
+
+mine
+
+w
+
+or
+
+zero
+
+slew
+
+EN#6I
+
+be
+
+do
+
+you
+
+not.,
+
+llhi'jfig
+
+QKOIIIDUIIOP
+
+conccn.)
+
+ated
+
+pIOIahIlI“y
+
+/\ \1 \/
+
+to
+
+to
+
+prefer your random
+Musically? this is
+on the
+notewbywnote
+
+mueica
+
+rogotouely
+
+(omoov‘iiogal
+
+define
+
+the
+
+the
+
+o,ItIII2w
+
+SEQUENCES
+
+here
+
+on
+
+to"zt
+
+below.
+
+”random” when applied
+purpose
+
+BOISE.
+
+the
+
+about
+
+talking
+
+preference
+
+SUBJECTIVIZLY ORDERN.
+
+misuse
+
+Yowevet,
+
+we
+
+have been
+
+we
+
+are
+
+to
+
+sequences
+
+probably
+
+on
+
+the distribution.
+
+lone which
+
+It
+
+~g.
+'
+
+C
+
+-
+
+pm
+
+slew
+
+the
+
+t”
+
+tae
+
+on
+
+changed by
+
+not
+
+the
+
+n.0t.
+
+term.
+
+irt,_1
+
+Rather
+
+to
+
+want
+
+we
+
+that
+
+sequence may be subjective]_y random
+true nat ure in'a rigorous mathemo
+itical sense.
+
+point
+
+out
+
+a
+
+regardless of its
+nsider the following sequences, and
+car
+so
+objectively ordered:
+
+ordered
+
+'
+
+(a)
+
+l
+
+(b)
+
+til
+
+l
+
+O
+
+(C)
+
+(d)
+It
+
+be of
+
+may
+
+example)
+
+for
+
+We
+
+to
+
+to
+
+better
+
+get
+to
+
+a
+
+look at
+
+It
+
+of
+
+sion
+
+is
+
+the
+
+l
+
+8
+
+2
+
+8
+
+5
+
+9
+
+4
+
+6 3
+
+l
+
+2
+
+7
+
+2
+
+l
+
+l
+
+6
+
+7
+
+7
+
+7
+
+7
+
+7
+
+for
+
+every
+
+will be
+
+sequences
+
+musical
+
+as
+
+pitches
+
+is
+
+digit
+
+random
+
+or
+
+(as whole
+
+tones
+
+nature.
+
+the different
+
+of
+
+origins
+
+”e”,
+
+selectively
+an
+example,
+
+As
+
+subjectively
+
+the base
+
+of
+
+the
+
+or edetermined
+
+by
+
+natural
+the
+
+[The perceptive
+rigged so that things
+just part of the
+
+sequences.
+
+examples have been selected
+The first example (a)
+appear.]
+
+first
+
+also
+
+their
+
+they
+
+1:-hese
+
+irrational numb er
+
+random since
+
+not
+
+8
+
+tr ue
+
+that
+
+probably guessed
+necessarily as they
+
+not
+
+ex p:
+
+feel
+the
+
+reader has
+are
+
+2
+
+actually play these
+
+interest
+
+want
+
+now
+
+7
+
+if
+
+consider
+
+or
+
+or
+
+is
+
+log
+
+2.7l828l828459045...
+
+or
+
+that
+
+fact
+
+we
+
+say
+
+it
+
+the
+
+is
+
+happens
+sequence {the 18283.828 part) is subjectively ordered
+due to the repeatin.g pattern.
+it would have been just as easy 1:0 select another part of
+the sequence (say 828 /5
+5904) from just about anywhere else in the exoansion for ”e” and we
+arrize at a sequenc— that is not random but which is snb1ective ly random since the mind
+does not recognize any repeating patterns.
+Thus the l828l8’28 sequence is just an accident.
+hot e however that the same sequence could have originated from a conscious effort to write
+an
+ordered sequence consisting or the pattern 1828
+In this case, the sequence would
+he not random a11d not subjectively random3 a combination that might be assumed the most
+nnr.13er
+
+rind
+
+second
+.
+
+,
+
+is
+
+but
+
+m
+
+this
+
+that
+
+expansion for the 12th root of
+'It is not
+equ
+uallywtempered scale;
+Lhis
+is
+the
+same
+random.
+case
+as
+subjectively
+you get by staying away
+3
+of the expansion of e in sequence (a).
+
+sequence (b); 10594M
+Jamiliar as the basis o:E the
+
+he
+Which
+
+It
+
+so
+
+is
+
+part of
+
+is
+
+the
+
+‘wo
+
+twelve tone
+
+from
+
+portion
+
+third
+
+The
+at
+
+random and
+
+-andom.
+The
+ra
+
+Th;is
+
+It
+
+is
+
+another of what
+
+(d),
+
+sequence
+is
+
+79272llé
+
+however
+
+a
+
+This
+
+is
+
+and
+i
+
+ElQm A M} ll 1011
+
+published
+
+in his
+
+excellent
+_
+
+tree
+
+person who
+Univei”s Lty s
+
+Games'
+
+call
+
+It
+
+expected
+
+in
+
+it
+
+case
+
+is
+
+with
+
+'8.
+
+column
+
+in
+
+is
+
+also
+
+some
+
+pages
+
+subjectively
+
+cases.
+
+obta;ined
+white noi
+
+(not subjectively
+
+ordered
+from
+
+so
+
+was
+
+a
+
+random number
+
+being sampled
+
+table
+
+*
+
+the
+
+and
+
+1[OWE
+
+1001000
+
+l955.
+
+by selecting
+
+random and
+
+is
+
+wh.e1:e
+
+111
+
+”
+
+7.7a
+
+prepared by the Rand
+is published by Martin
+for
+Tilly 1968 vThis is
+American
+
+Normal Dev.iates
+
+”he page
+Sci ntific
+
+mean:1ng of ra ndomne
+c:ircled tlw sequence of
+
+on
+
+the
+
+Pres s
+
+series.
+
+sirce
+
+times
+
+l:indom Digiis
+
+by the
+
+”Mathematical
+
+column
+
+the
+
+six
+
+random number obtained
+
+in
+
+obviously subjectively
+
+is
+
+numbe
+r
+to
+
+a
+
+might
+
+we
+
+777777
+
+r{3nzlom
+
+redsghly equivalent
+voltage happened to come up
+
+Corn;
+
+is
+
+their numbers
+
+wozld be
+
+some
+
+:9;
+
+final
+
+Mn)
+
+down
+
+writing
+
+This
+
+(c)9
+
+se
+eqnence
+
+of
+
+interest
+
+The
+“currenltflauthor
+in
+
+the
+
+copy of
+
+is
+
+Gardner’s
+
+indebted
+
+to
+
+the
+
+article at
+
+Library (The same graditude perhaps can not be assumed on
+of
+the
+One
+is tempted to new if this series of six sevens is to be
+lLbrarian).
+part
+l
+have
+done
+a
+few
+’1ected.
+calculations but am not sure the
+I would
+esults are right.
+to hear from readers W';h answe
+to the following one
+ions:
+What is the probability
+of six sevens in a table of random d j.ts?
+What is the probability that such a sequence
+is in the Rand Tables (1 02v 000 digits so almost 1,000,000 sequences of six digits )?
+I
+concluded that the seguencc is expected somewhere in the table.
+Howeverait is not e:{pected
+ell
+
+the”
+any
+
+Clark Hall
+
+the sequence should appear on any one page selected
+reference to the series of sevens in the toit of his
+
+{3)
+
+for
+
+reprint.
+
+column.
+
+Gardner
+
+does
+
+not
+
+make
+
+thus
+
+have
+
+We
+
+seen
+
+of
+
+examples
+
+all
+
+four
+
+possible
+
+cases
+
+shown
+
+as
+
+in
+
+tabla
+
+the
+
+below:
+
+8
+
+NO
+
+NO
+
+10594-631
+
+no
+
+YES
+
+70272116
+
+YES
+
+YEL
+
+YES
+
+NO
+
+2
+
+8
+
+J
+
+7
+
+It
+
+is
+
+a
+as
+
+8
+
+7
+
+7
+
+”subjective ordering”,
+
+and which
+
+in,
+
+white noise
+
+common
+
+we
+
+suggest
+
+sources
+
+do
+
+OF
+
+have
+
+not
+
+of
+
+SLEUleEITlNG
+
+ON
+
+THE
+
+or
+
+will be
+
+subjectiwe ordering
+limiting is applied.
+
+amount
+
+when slew
+
+THE EFFECT
+
+2
+
+7
+
+idea of
+
+the
+
+slight
+
+J
+
+7
+
+7
+
+interested
+that
+
+8
+
+RANDOW?
+
+SU‘J’JECTF'J'VliLY
+
+impugn
+
+snaggngg
+
+to
+
+lack of
+
+that
+
+subjective randomness,
+
+we
+
+are
+
+induced by slew limiting.
+Due to the
+a
+flat probability distribution, there
+
+start
+
+with,
+
+but
+
+this
+
+is
+
+nowhere
+
+near
+
+fact
+is
+
+strong
+
+as
+
+’
+
+STRUCTURE OF
+
+SAMPLED
+
+SEQUENCES
+
+major effect of sleleimiting on sampled sequence structure can be seen by
+The input is a square wave (around 1000 Hz) and the
+considering the example below.
+done
+was
+to
+obtain
+the equivalent of a random selection between two
+sampling
+manually
+levels.
+With
+no
+slew
+possible
+limiting, the sequence emerges as indicated by the top
+below
+one
+or
+the other.
+level
+[The lines between sample points have
+you get
+diagram
+been put in to aid the reader in following Changes.
+They do not represent voltage
+When slewAll voltage changes in the output sequence are discrete jumps.]
+levels.
+we
+levels
+and
+which in
+is
+obtain
+a
+that
+has
+imposed,
+limiting
+sequence
+many possible
+in
+sucee”
+from
+the
+extreme
+Note
+that
+ho
+two
+voltages
+general stays away
+voltages.
+01
+are
+the
+same
+ever remain the same in
+and
+in
+all
+jumps
+roughly
+general
+this case,
+/
+of magnitude \the jumps as seen are influenced by the exponential rate of change Oi
+slew limiting process and by a rounding process used to simplify data recording and
+The reader should bear in mind that this sort of sequence can only be
+plotting):
+obtained with manual (forced random) sampling.
+If a periodic trigger is useda the
+If the input square wave frequency is held up around
+sequence will be highly ordered.
+1000 Hz, and manual sampling is done by a simple pushbutton, manual sampling will in
+This is because even if the person pushing
+general give a subjectively random output.
+the button does his best to achieve an exact tempo, it will not be accurate enough to
+The
+
+u
+
+J:
+
+J_
+
+order
+
+the
+
+sequences
+
+SQUARE~WAVE INPUT
+
+are
+
+ease
+
+e
+
+e
+
+$4esr
+
+<~R
+
+'
+
+\
+
+NO
+SLEW-LIMITING
+
+'
+
+~£es
+
+?
+
+”<43
+.
+
+‘
+
+SLEWleifgth
+RESISTOR
+
+fi\g2g/%Exg/?\JiREKE/fi\s/fiwl (ykh\afi¥f
+EN#61
+
+(9)
+
+‘
+
+\21?
+
+§\§;\ k¢\gfg/ fiix/th
+
+‘
+
+application of the sen
+this case,
+trigger the 8&H from
+for sequence generation.
+practive
+For
+the
+input source.
+an oscillator which is periodic and use a white noise source as
+of
+manually sampling
+our
+experiment we will be using the ”pseudo flat distribution trick”
+The two examples below correspond
+on page
+7.
+for
+the
+done
+a
+was
+as
+figures
+triangle
+With no slew limiting, successive samples are
+exactly to the two examples on page 7.
+In the lower example
+that
+will
+note
+and
+at
+they are well scattered.
+you
+random,
+purely
+to a degree correlated and
+are
+that
+successive
+so
+been
+has
+samples
+applied
+slew~limiting
+This is easily seen in terms of long term
+a
+subjective feeling of ordering results.
+We
+
+move
+
+now
+
+to
+
+that
+
+case
+
+a
+
+is
+
+related
+
+easily
+
+more
+
+the
+
+to
+
+usual
+
+the usual
+
+is
+
+it
+
+In
+
+to
+
+For illustration we have added a dotted line which could be considered a threshold
+trends.
+It can be seen
+below which the output is blanked, and above which the output is allowed.
+in the case of the imposed threshold that with no slew limiting the samples tend to occur
+In the case of slew limiting, they tend to
+so
+that only one or two emerge at one time.
+
+is
+
+as
+
+the
+of
+
+”bursts" of many voltages,
+
+in
+
+occur
+
+usual
+
+a
+
+slew
+
+of
+
+case
+
+the
+
+tones
+
+are
+
+we
+
+think of
+
+tones
+
+to
+
+is
+
+the
+
+sequence
+
+essentially
+the
+
+difference between
+
+essential
+
+rapidly occuring groups
+bursts of something like
+
+driving a VCO
+single burst for
+as
+
+l0
+
+the
+
+in
+
+that
+
+one
+
+as
+
+occur
+
+a
+
+is
+
+two
+
+of
+
+in
+
+penetrate
+
+the
+
+limiting
+
+the burst
+
+in
+
+tones
+
+The
+
+limiting.
+
+slew~limiting
+
+no
+
+the
+
+slew
+
+of
+
+case
+
+if
+
+tones,
+
+or
+
+illustration below shows what
+
+The
+
+case.
+
+two,
+
+or
+
+in
+
+the
+
+and
+
+tones,
+
+case
+
+while
+
+degree correlated.
+
+a
+
+TRIANGLE HAVE INPUT
+
+s
+
+..
+
+9
+
+$9
+
+s
+
+“l5-
+
+r
+
+i
+
+Q,”
+
+.6
+
+/ yr
+
+r
+
+._
+
+\A
+
+“7%“.f
+
+‘
+
+8:1.
+
+a
+
+“““‘
+
+.
+
+s.
+
+\9/
+
+r
+
+’
+
+o
+
+~~~~~~~
+
+”o'“~»-—-
+
+“Na“ m/a\
+
+¢\am
+
+6
+
+\‘”$(q\e
+
+e
+
+e
+
+_\e_-
+
+7/ ix 1 /
+J
+f
+
+\f
+
+’
+
+SLEw—LIMITING
+
+.
+W
+
+m
+
+g,g/
+5/’\@’
+
+‘
+
+l MEGOHM
+
+x
+
+.
+
+G/
+
+RESISTOR
+
+The
+to
+
+the
+
+situation
+
+threshold
+no
+
+and
+
+tone
+
+with
+what
+
+rapid
+
+a
+
+was
+
+bursts
+
+sampling
+
+might
+
+be
+
+tones
+
+it
+
+used,
+of
+
+the
+
+rate
+
+the
+
+case
+
+of
+
+that
+
+there
+
+was
+
+silent
+
+and
+
+no
+
+a
+
+more
+
+time
+
+a
+
+periods
+
+of
+
+The
+
+S&H
+
+slew—limited
+
+a
+
+slew limiting
+
+never
+
+relative duration occured.
+
+3-4 Hz.
+as
+
+source
+
+found that when
+
+slew~limiting,
+
+same
+
+slew
+
+no
+
+We
+
+the
+
+described
+
+with
+
+actual white noise
+
+an
+
+above.
+was
+
+With
+
+emerged.
+
+tone
+
+using
+
+illustrated
+
+case
+
+as
+
+as
+
+long
+
+many
+
+as
+
+as
+
+tones
+to
+
+the
+
+in
+
+a
+
+very
+and a
+
+similar
+
+second when
+
+8 seconds
+
+above results
+
+Also, with slew—limiting the
+purposful manner as compared
+
+is
+
+used,
+
+was
+
+were
+
+occured
+
+obtained
+
+the burst moved
+
+scatter
+
+of
+
+the
+
+in
+
+more
+
+limiting.
+
+'mE3hmmemmamm)mamnT
+
+experiments is shown at the top of the next
+in several applications and works well.
+page.
+Note that the control part of the circuitry in connected between ground and ~15, and will
+Inputs should be in the range
+provide internal, external, or single pushbutton sampling.
+For ~10 to +10 volt operation the gain of the input amplifier should
+of —5 to +5 volts.
+Note
+be changed to —l/2 rather than —l, and the output should be scaled to a gain of two.
+that the actual sampled voltage is stored as the negative of the actual voltage that
+The
+
+circuit
+
+This
+
+for
+
+basic
+
+the
+
+S&H used
+
+for
+
+S&H mechanism has
+
+these
+
+been used
+
+EN#61
+
+(10)
+
+100k
+
+DC OFFSET TRIM
+
+“WW—wt»;
+
+2"
+
+”I":
+t
+
+SLEW
+100k
+
+100k
+
+1“
+
+2N3819
+
+[1
+
+”WW
+
+J
+
+IN
+
+LIMIT
+
+1M
+
+2N3819
+
+TR"?
+
+lR~l
+
+w“
+
+1001‘
+
+IC—l
+
+22k
+
+-
+
+560k§§
+
+I
+
+i
+470k?
+
+L
+
+100k
+
+0002
+
+l
+
+a.
+'
+
+g
+
+‘
+
+‘39k
+
+-
+
+.
+
+.
+
+a;
+
+3*.
+
+100k
+
+1/2 76COO
+
+0.01
+
+.
+
+SINGLE
+SAMPLE
+
+k
+
+310
+
+To
+
+l
+
+g220k
+
+.
+
+g
+
+lOk
+
+8
+
+6
+
+2
+
+«Lu»
+
+104
+
+~
+
+“No.01
+5
+
+.
+
+IC~3
+
+w
+
+i
+
+1
+
+.
+
+L
+
+EXTERNAL
+.
+
+IN
+
+1
+
+'
+
+2
+
+8k
+,
+
+,
+
+I
+
+,,
+
+'
+
+0-01
+
+2M
+
+‘1:
+
+,,
+
+,
+
+LP
+
+7.
+
+3;
+
+\L
+
+4.
+
+1’}:
+
+A
+
+the
+
+stages
+
+:um
+
+j?sit-“gal
+
+the
+
+at
+
+.
+
+'
+
+Slew limition has
+set
+
+It
+
+to
+
+IC—l
+
+serves
+
+TR—Z forms
+
+IC~2
+555
+
+a
+
+to
+
+HOLD
+
+difference and
+
+convenient
+
+555 and
+turn
+
+10—3 which
+
+the circuit
+we
+
+as
+
+later
+
+to
+
+the
+
+handle
+
+d7;.
+
+inversion
+
+the
+
+input
+
+is
+
+corrected
+
+and output
+
+have
+
+serves
+
+it
+
+that
+the
+off
+
+forms
+
+invert
+
+to
+
+of
+
+of
+
+means
+
+Sdh
+
+the pot,
+
+the l Meg ”SLEW LIMIT" pot.
+Slew limiting can
+
+action.
+
+The
+
+cascade
+
+feature of
+
+the
+
+report.
+
+serve
+
+to
+
+attached
+
+(pin
+
+TRul serves as the sampling switch while
+voltage held on the 0.002 mfd sampling
+held voltage and adjust the DC level of the output.
+
+for
+
+the
+
+the
+
+operates in either
+
+3
+
+at
+
+a
+
+bounceless
+
+clocked
+
+externally
+
+from IC—S.
+
+is very
+In this
+
+useful
+
+for
+
+this
+
+in
+
+on
+
+by
+
+normal
+
+a
+
+input inverter/buffer.
+
+an
+
+provides pulses
+
+100 microseconds
+TRul
+
+no
+
+more
+
+been added to
+
+timer which
+
+it
+
+case
+
+the
+
+just
+
+sourceufollower buffer
+
+a
+
+capacitor.
+
+of
+
+is
+
+zero
+
+circuit will he discussed
+
+3
+
+makes
+
+This really
+
+resistance,
+by increasing the resistance
+
+pot
+
+then he added
+
+either
+
+AND
+
+inverters.
+
+as
+
+is
+
+“No.47
+
+'
+
+SAMPLE
+
+input.
+
+I
+
+SAMPLE
+RATE
+
+i
+
+'
+
+output amplifier.
+
+With this
+
+IC—A
+
+INTERNAL
+
+5M
+
+-
+
+éi‘m
+
+appeared
+
+I
+
+$8.2k
+
+.
+
+#683
+
+by
+
+:2:
+
+0.01
+
+A
+
+THRESHOLD
+
+.
+
+7
+
+555
+
+“
+
+CLOCK
+
+'
+
+.
+
+;x.
+
+W
+
+,
+
+«WA»;
+
+.
+
+T
+
+P
+
+!
+
+4
+
+3
+
+*
+
+Cascade
+
+”4‘
+
+(from
+
+a
+
+—15
+
+astable mode
+
+an
+
+level
+
+the PET
+
+to
+
+or
+
+switch Tle.
+
+a
+
+monostahle mode.
+
+back
+
+and
+
+ground
+
+to
+
+”15)
+
+of
+
+In
+
+about
+
+This
+
+pulse appears at pin
+at the gate of
+voltage
+gives
+lC—4 can be triggered by
+«15) or on (pin 3 at ground).
+ICwé can also he
+pushhutton for single manual samples.
+trigger
+
+resistor network
+
+that
+
+Note
+
+from
+
+a
+
+be
+
+set
+
+a
+
+noise
+
+the proper
+
+variable
+
+threshold
+that
+
+the
+
+can
+
+be
+
+set
+
+for
+
+times
+
+lC-S.
+
+This
+
+random.
+
+sample
+high enough so that it does not sample too fast
+be followed, as would be the case if the zero crossings of the white noise were used.
+With the threshold raised, triggering can occur only on the peaks in the white noise,
+case
+
+the
+
+triggering
+
+threshold
+
+can
+
+source
+
+ENifi6l
+
+so
+
+(ll)
+
+are
+
+to
+
+and
+
+iiiaiaaai_wv__Ff___w_____+____________________________________wW________*______________*#fi
+
+these
+
+this
+
+less
+
+designs already
+
+the
+
+of
+
+inclusion
+
+desired effect,
+
+It
+
+rate
+
+avoid
+
+something
+At
+
+the
+
+control
+
+slew~limiting
+
+is
+
+existence.
+
+in
+
+To
+
+frequently.
+
+an internal
+
+needed,
+
+not
+
+The
+the
+
+much
+
+occur
+
+is
+
+use
+
+of
+
+an
+
+circuit
+
+is
+
+also
+
+resistor
+
+that
+
+least
+
+can
+
+two
+
+is
+
+oscillator when
+
+available.
+
+just the simplest way of achieving
+be added
+
+probably
+other
+
+external
+
+means
+
+of
+
+slew
+
+simply to
+limiting
+
+other
+are
+
+S&H
+
+possible:
+
+First
+
+one
+could simply adjust the sampling time so that it reached values too short for
+Secondly, certain types of S&H designs (such as the one in the CA308O
+sampling.
+application notes) function by charging a capacitor with a constant current until it
+reaches the input level.
+This would give linear slew, and the slew could be adjusted
+Note however that it is not possible
+{and thus limited) by changing the charging current.
+
+full
+
+slew
+
+to rig a
+input of
+
+limit with
+S&H
+
+the
+
+the
+
+or
+
+an
+
+external
+
+slew
+
+limiting
+
+module.
+
+Adding
+
+output will give different effects.
+
+To
+
+be
+
+a
+
+slew limiter
+
+the
+
+to
+
+the
+
+properly done,
+
+slew
+
+One other thing that was not done (for lack of a
+appear at the switch.
+dual pot with different valued sections) is to adjust the gain of the output to higher
+values as the slew limiting is increased,
+As we mentioned, the slew limiting decreases
+
+limiting
+
+the
+
+must
+
+short
+
+expected
+
+might
+experimenting might
+
+purposes,
+some
+
+the output
+
+dynamic range of
+
+term
+
+be useful
+
+it
+
+have
+
+to
+
+show that
+
+this
+
+this
+
+relative
+
+relatively
+
+to
+
+constant.
+
+control would be
+
+the
+
+input.
+
+For musical
+
+The proper
+
+dual pot and
+
+useful.
+
+”FUNNY” FILTER
+
+A
+
+The slew~limited samplemand—hold as described could also be called a
+single stage
+The fact that it is a sort of filter can be understood as follows:
+commutating filter.
+At low frequencies, the change between any two input samples is small since the
+input
+waveform varies slowly.
+The slew limiting does not restrict the response.
+As frequency
+rises, it becomes more difficult for it to catch up, and amplitude drops off.
+Then you
+run
+into the fact that you are working with a
+sample—data (discrete time) system, and
+When you start to approach any integer multiple
+frequency aliasing becomes a problem.
+of the sampling frequency another peak in output amplitude occurs.
+The output frequency
+however is aliased dowi.
+None the less, we can take a frequency response curve for a
+sinewave input, and the result as seen below shows thst
+slew—limiting induces a sort of
+comb
+
+filter
+
+response
+NO
+
+SLEW
+
+LIMITING
+
+SLEW LIMITING
+
+7
+
+a.
+
+2
+
+curve:
+
+2
+
+k
+
+7
+
+'
+
+‘
+
+7»—
+t;
+2
+
+-
+
+h
+
+-—-
+
+2
+
+~_
+
+.__.
+
+1
+
+»
+
+-,,,_~
+
+’5
+
+_~
+
+“u'
+
+“T?“al
+
+I.
+
+m
+
+,
+
+—-
+
+.—
+
+~—
+
+m
+
+‘N an.»
+
+1
+
+FREQUENCY
+RESPONSE
+
+__
+
+-
+
+__
+
+“J
+
+7"
+
+-—
+
+_«
+
+i.
+
+-
+
+0.1
+
+0.1
+
+0.01
+
+0.01
+
+i.
+
+\NNN‘
+
+_u
+
+__
+
+.i
+
+(
+
+this
+
+Now,
+go
+
+is
+
+follower
+
+extracted
+
+if
+
+Now,
+not
+
+put
+a
+
+answer
+
+a
+
+put
+
+a
+
+linear
+
+the
+
+patch
+
+extract
+to
+
+sine
+
+a
+
+by
+of
+
+the
+
+10 Hz
+
+but
+
+any means,
+type shown
+
+the
+
+envelope
+
+of
+
+VGA which controls
+
+the
+the
+
+the
+at
+
+response
+top of
+
+the
+
+looks
+
+100 Hz
+
+the
+
+the next
+
+1 KHz
+
+same.
+
+10 KHz
+
+We
+
+can
+
+We use
+page.
+curve, and apply
+
+an
+
+the
+frequency response
+amplitude of the signal being sampled.
+
+through this, we have a comb filter for sine waves.
+Now, if
+Of course not.
+signal in, does it act as a comb filter?
+It‘s
+But what do you get out?
+superposition does not apply.
+The
+
+wave
+
+of
+
+system and
+
+quite simply
+
+filter
+
+a
+
+general type
+
+live music
+on
+
+to
+
+amplitude
+
+we
+
+generate.
+
+hit
+
+comb
+
+a
+
+ahead and consider
+
+envelope
+
+we
+
+not
+
+10 KHZ
+
+1 Ydiz
+
+100 Hz
+
+10 Hz
+
+‘
+
+is
+
+White noise
+
+that
+
+you get some of the most annoying sounds you could hope to
+in suprisingly gives one of the most pleaseut outputs.
+When
+
+human voice go in, you get an output whenever the waveform
+just happens to
+sampling commands for a long enough time to raise the signal to the VGA.
+This
+or
+
+a
+
+s
+
+EN#61
+
+(12)
+
+F————_——_—__—___—\—
+
+’
+
+CL 0C K
+
+”FUNNY” FILTER
+
+SLEH
+
+LIMITED
+
+ENVELOPE
+
+r
+
+TN
+
+r
+
+SAHPLE—AHD—HOLD
+
+FOLLOWER
+
+\
+
+OUT'
+V CA
+
+,
+
+*-*~——-*4
+
+This in general gives
+gives short and seemingly random bursts of the program material.
+an unpleasent
+and
+an
+few
+to
+a
+minutes
+of this sort of
+feeling
+properly done,
+exposure
+
+sound
+
+unwanted
+
+it
+
+for
+
+should empty any home of
+might be used in some cases
+
+this
+
+Is
+
+guest.
+
+certain types
+
+musical?
+
+of musical
+
+It would
+
+seem
+
+that
+
+expression.
+
+CASCADING SAMPLE~AND~HOLD DESIGNS
+If before
+
+taking
+
+sample,
+
+S&H unit
+
+its
+
+voltage on to another, the
+principle of the analog
+We are concerned here with an elementary analog
+delay line consisting
+of S&H modules.
+We form this by cascading S&H units so that voltages are passed from
+left to right while clocking commands pass from right to left.
+Thus, a given S&H
+steals the voltage to its left and then tells the 8&H on the left to steal the
+voltage
+of the S&H further left, and so on.
+This is illustrated for three units below:
+
+voltage level
+delay line.
+
+is
+
+a
+
+new
+
+retained
+
+for
+
+use
+
+one
+
+later.
+
+This
+
+passes
+
+is
+
+the basic
+
+1%
+m” l
+
+CASCADE
+
+COQEEFRS
+"é“
+
+OUTg
+'
+
+u__
+
+“4"
+
+_$&fl
+
+#1
+
+$3! #2
+
+\
+
+-----
+
+SaH #3
+
+.———-—..-—
+
+m
+
+p
+
+_____
+
+‘
+
+E
+
+OUT 3
+
+g
+
+g
+
+,-____n
+
+'
+
+555
+
+J“
+
+.
+
+220k?
+
+”NH—”Ma
+
+.
+
+élOOk
+g
+fl
+
+0.01
+
+.
+
+1
+
+,
+
+next
+
+8&h
+
+eW——r
+
+em...
+
+.
+'
+
+Trigger
+
+CASCADING
+There
+
+SAMPLE-AND*HOLDS
+
+several useful
+
+'
+
+0.005
+
+CLOC‘K
+
+Out
+
+applications for this type
+be sampled white noise,
+
+of device, and we shall mention
+and the outputs drive three
+input
+This gives a ”Canon" structure of
+separate VCO'S, the outputs of which are mixed.
+random sequences.
+The output can be looped back to give an ”infinite" sequence.
+(2)
+are
+
+(1)
+
+three:
+
+The
+
+term
+
+The
+
+can
+
+infinite
+make
+
+is
+
+the
+
+in quotes
+
+because
+
+the
+
+to
+
+of
+
+If controlled
+(3)
+sequence material.
+This loads the notes of the
+
+the
+
+as
+
+"rolled” rapidly.
+versatile chord
+
+Cascading
+This
+out
+
+can
+
+is
+
+can
+
+be
+
+the
+
+fOImEd
+
+to the external
+shown above.
+L!
+
+the
+
+chord
+
+into
+
+the
+
+S&H units
+
+and makes
+
+a
+
+device.
+
+achieved using
+
+be done with
+
+terminal
+
+patched
+
+playing
+
+line will
+
+degrade, a fact which
+degrading process is an evolution
+by a keyboard, musical chords can be
+
+looped
+
+system musically useful,
+
+serves
+
+the
+
+simple 555
+from
+
+one
+
+"to cascade‘l point in the circuit
+cascade
+of the
+
+input of another
+
+if
+
+the units
+
+remaining
+
+S&H
+
+as
+
+EN#6l (13)
+
+CMOS
+
+needed.
+
+are
+
+hard
+
+gates.
+
+on
+
+page
+
+ll.
+
+wired,
+trigger“
+trigger is then
+or
+
+a
+
+This
+
+The necessary
+
+circuits
+
+are
+
+should
+
+have
+
+now
+
+unless
+
+We
+
+fair
+
+a
+
+item left
+
+major
+
+installment
+
+the last
+
+In
+
+look at;
+
+to
+
+starting
+
+addresses
+
+the
+
+or
+
+goes
+
+input/output
+
+the
+
+of
+
+the
+
+microprocessor chip.
+There
+
+a
+
+That
+
+there
+
+First,
+
+is
+
+a
+
+16
+
+line
+
+We
+one
+
+processor and the
+unidirectional address
+the
+
+communication between
+
+of
+
+is
+
+processor.
+A processor is no good to us
+is the job of the I/O device.
+
+device.
+
+it.
+
+means
+
+of
+
+inside
+
+on
+
+Bill Hemsath
+
+~by
+
+innards
+
+the
+
+of what
+
+memory).
+
+and
+
+PART 3:
+
+—-
+
+looked at
+
+it and out
+
+look at
+
+a
+
+(I/O
+
+the machine
+
+of
+
+rest
+
+we
+
+understanding
+
+can get data into
+
+Let's first take
+bus
+
+ELECTRONIC MUSIC
+
+Lg
+
+MICROPROCESSORS
+
+The processor puts memory
+the processor and running to memory and I/O.
+1/0 device codes on the bus to indicate where it wants to get or put data.
+
+at
+
+.
+
+line bidirectional data bus running between the processor,
+an eight
+is shared between the various devices in the following way:
+This
+bus
+1/0.
+memory,
+The bus is normally floating and all devices are looking at it for input.
+Say, for
+It will grab
+the
+word
+to
+a
+data
+is
+to
+transmit
+that
+processor.
+memory
+supposed
+example,
+the data bus and force the Ln s high or low depending on the data.
+Every device which is
+looking at the bus will see the data but only the processor, which is interested in the
+After the data transfer
+All the other devices will ignore it.
+data, will accept it.
+is complete the bus will be allowed to float and another device can take a turn using it
+to transmit data.
+Third, there are several control lines running between the processor,
+Most
+of these lines are controlled by the processor and tell the other
+memory, and I/O.
+output devices when to put data on the bus (MEMORY READ, INPUT) or when to accept data
+from the bus (MEMORY WRITE, OUTPUT).
+there is
+
+Second,
+
+and
+
+Now
+
+let's look
+
+pUShbuttons)
+it takes the
+
+will
+
+how
+
+at
+
+provide
+
+Most data source devices (keyboards,
+input device works.
+quite a long time with respect to the time
+
+EH1
+
+data which lasts
+
+a
+few tens of microseconds).
+dump the data on the data bus with
+a set of
+tristate gates at a time when the proper input device code number is present
+So the entire input device
+on the address bus
+and (logical AND) the INPUT line is true.
+Sometimes the input data
+consists of a decoder, an AND gate, and eight tristate buffers.
+In that case it is necessary_to
+does not hang around long enough to be read reliably.
+
+add
+
+to read and
+
+processor
+
+latches before
+
+store
+
+that
+
+stable, all
+
+the data is
+
+Since
+
+the tristate
+
+is
+
+the
+
+gates
+
+to
+
+(usually
+
+data
+
+is
+
+necessary
+
+to
+
+the data until
+
+hold
+
+it
+
+can
+
+be
+
+read.
+
+The output device is a set of latches hung on the data bus which are strobed when
+the proper output device code number is present on the address bus and (logical AND) the
+OUTPUT line is true.
+The entire output device consists of a decoder, an AND gate, and
+
+latches.
+
+eight~Dwtype
+
+8080 series processors have specific input and output instructions which place
+The 6800 series
+device‘code on the address bus and pulse the INPUT or OUTPUT lines.
+the I/O devices
+Instead
+processors do not have specific input and output instructions.
+The
+
+treated
+
+are
+
+The
+
+as
+
+memory.
+the MEMORY WRITE pulse.
+
+is
+
+INPUT
+
+It
+
+pulse
+possible
+
+is
+
+the
+
+to
+
+MEMORY READ
+
+treat
+
+I/O
+
+as
+
+memory
+the two
+
+What are the differences between
+wiring scheme.
+8080, the input (or output) instruction is two words long.
+
+same
+
+instruction
+
+(input
+
+output)
+
+or
+
+the second word is
+
+and
+
+three words.
+
+memory
+
+like
+
+address
+
+the
+
+However,
+since
+
+two
+
+The
+
+first word
+
+(there
+
+there
+
+two
+
+are
+
+I/O
+
+good
+
+the
+
+to
+
+use
+
+in
+
+the most
+
+is
+
+instruction
+reasons
+
+the
+
+instruction and
+
+64k different devices
+
+be
+
+can
+
+word direct
+
+is
+
+the
+
+first word
+
+The
+
+input devices and 256 different output devices).
+reference can be made in a variety of ways, but the average
+
+On
+
+the OUTPUT
+
+the 8080
+
+the device code
+
+different
+is
+
+and
+
+pulse
+with
+by using
+In
+I/O arrangements?
+
+pulse
+
+(there
+
+is
+
+is
+
+the
+
+the
+
+the actual
+
+can
+
+the other hand
+
+a
+
+be
+
+256
+
+memory
+
+memory reference instruction
+other two words are the
+
+memory).
+economical.
+
+second method
+
+At
+
+first glance it looks
+Generally, that's true.
+
+(memory mapping).
+
+First,
+
+like memory, all the memory—arithmetic instructions (increment,
+Second, if the I/O device
+etc.) can be used on the I/O device.
+
+the device looks
+
+decrement, AND, OR,
+contains
+
+more
+
+than
+
+eight
+
+bits
+
+the 16 bits
+
+memory locations,
+instruction (which is
+
+more
+
+(10, 12,
+of
+
+data
+
+economical
+
+or
+can
+
+than
+
+16)
+be
+
+and
+
+read
+
+two
+
+EN#61
+
+the
+
+two
+
+in with
+
+two~word
+
+(14)
+
+data words
+a
+
+a
+
+occupy
+
+consecutive
+
+three word memory reference
+
+I/O Instructions).
+
+Let's look
+
+thing
+
+from
+
+transmits
+
+actual hardware
+
+on
+
+to
+
+the
+
+Probably
+
+the
+
+output device is a
+connected to the input of
+
+word
+
+a
+
+I/O devices.
+digital~to~analog
+
+hung
+
+an
+
+is
+
+latches
+
+the
+
+output of
+
+some
+
+drive
+
+can
+
+we
+
+at
+
+simplest
+
+(D/A).
+
+converter
+
+The
+
+When the
+the D/A converter.
+the output device it is held in the latches forever (or
+As soon as a word appears in the latches,
+another word).
+to
+the new voltage. After about five or ten
+
+processor
+until the processor transmits
+generate
+the D/A converter starts trying
+on the D/A output.
+microseconds (for amplifier settling) the correct voltage will appear
+will
+the
+D/A
+voltage
+word
+time)
+the
+(plus settling
+As soaxas the processor changes
+
+change.
+It
+
+is a little more complicated.
+Driving a printer (line printer, TV typewriter)
+to
+print a character or enter it in a
+usually takes a printer several milliseconds
+
+the processor
+by the printer,
+
+If
+
+refresh buffer.
+
+accepted
+
+has been
+
+tries
+
+output
+
+to
+
+new
+
+a
+
+character will
+
+the old
+
+the old
+
+character before
+lost
+
+either be
+
+one
+
+garbled.
+
+or
+
+char~
+
+when a
+handshaking circuitry so that the computer will know
+has
+a busy line
+The
+printer
+acter has been accepted before transmitting the next one.
+is
+ready to accept
+(or its compliment, a ready line) which indicates when the printer
+bit
+one
+input port.
+The busy (or ready) signal is read in through a
+new data.
+So
+
+add
+
+must
+
+we
+
+some
+
+In either
+cassette).
+stream
+serial
+(110 to 1200 bits per second)
+case the device must see a relatively slow
+start
+bit, eight
+Ten or eleven bits are transmitted for each data word (a
+of data.
+and
+the
+method
+first
+In
+the
+searializing
+or
+two
+and
+one
+bits).
+of
+bits
+stop
+data,
+it is a pulse generator, you know)
+timing are controlled by the processor (after all,
+takes the least hardware and the
+This
+latch.
+bit
+a
+one
+and sent out through
+output
+
+There
+
+two
+
+using
+
+ways
+
+audio
+
+(teletype,
+
+devices
+
+drive serial
+
+to
+
+parallel to serial
+This
+(HART);
+receiver/transmitter
+universal asynchronous
+
+a
+
+alternate way
+
+The
+
+software.
+
+most
+
+own
+
+are
+
+output latches
+
+is
+
+to
+
+the
+
+do
+
+store the data and its
+
+to
+
+device
+
+input buffer
+
+tristate
+
+own
+
+conversion in hardware
+to
+
+its
+
+contains
+
+transmit
+
+the
+
+The UART needs a decoder and two AND gates to
+the processor.
+and an oscillator to generate the timing
+generate the proper INPUT and OUTPUT pulses
+the same as programming
+Programming a serial printer using a HART is exactly
+pulses.
+
+busy condition back
+
+a
+
+to
+
+parallel printer.
+let‘s look at some things to hang
+(A/D) converts an analog voltage to
+
+Now
+verter
+
+input devices.
+
+on
+
+word.
+
+digital
+a
+ready line
+start pulse to tell
+a
+
+An
+This
+
+analogmt0~digital con»
+conversion takes time»
+
+tell the processor when
+converter when to start
+the
+There must also be a
+to read the word.
+start
+the
+pulse is an INPUT
+It does not make any difference whether
+a conversion.
+to
+have
+We do not
+worry about gates or
+a
+It‘s
+
+(about 10
+
+pulse
+
+or
+
+to
+
+The
+
+determine when
+
+there must be
+
+so
+
+just
+
+OUTPUT
+
+an
+
+latches.
+
+30 microseconds)
+
+pulse.
+ready line
+
+is
+
+the data is
+
+read
+
+in
+
+ready.
+
+pulse.
+through
+
+Then
+
+a
+
+one
+
+the data
+
+to
+
+input device and tested to
+read in through an eight bit input
+
+bit
+
+is
+
+‘
+
+device.
+line
+
+(read
+
+ready
+keyboard (typing, not synthesizer) must also have
+that valid data is ready.
+the
+to
+tell
+bit
+processor
+device)
+input
+throughzaofle
+The printer and keyboard
+data is then ready through an eight bit input device.
+one bit
+both
+that
+input devices to test
+Notice
+require
+used
+together.
+usually
+a
+
+A
+
+data
+
+The
+are
+
+their
+
+devices with
+
+the
+
+practice to strobe both of these one bit
+bit and the
+make
+one
+and
+same INPUT pulse
+ready line show up on the most significant
+This saves I/O codes and makes the buffers
+other one on the least significant bit.
+are
+two
+The
+easily separated in software by masking.
+more compact.
+ready signals
+It
+
+ready lines.
+
+is
+
+common
+
+simplest serial input
+parallel convergion done by
+The
+
+to
+
+takes
+
+same chip.
+decoder) we
+
+add is
+
+software.
+
+the most
+
+one
+
+Once
+
+we
+
+more
+
+input buffers
+
+AND
+
+(which
+
+gate
+are
+
+a
+
+input device with timing and serial
+it
+However, like the one bit output device,
+one
+
+bit
+
+contains beth
+
+a
+
+transmitter
+
+and
+
+and
+
+a
+
+receiver
+device
+
+on
+
+code
+
+the
+
+transmitter circuitry (clock
+All we have to
+need to make the receiver work.
+tristate
+the
+drive
+to
+INPUT
+pulse
+generate the proper
+the receive
+of
+care
+taken
+We have already
+of the chip).
+the
+
+everything
+to
+
+is
+
+software.
+
+The UART
+
+have built
+
+have almost
+
+device
+
+we
+
+part
+
+EN#6l
+
+(15)
+
+It
+
+ready line.
+
+read in
+
+is
+
+the
+
+at
+
+same
+
+time
+
+the
+
+as
+
+transmit
+
+ready
+
+(but
+
+line
+
+on
+
+a
+
+bit).
+
+different
+
+It handles two functions on
+multipurpose I/O device.
+Interface Adapter
+Communications
+The
+the same time.
+one chip both at
+Asynchronous
+This
+the same chip.
+clock
+on
+baud
+rate
+(ACIA) contains both a UART and a programmable
+several
+need
+software
+(you
+device uses simpler hardware and slightly morecomplicated
+instructions to set the baud rate).
+
+The UART
+
+is
+
+one
+
+example
+
+of
+
+a
+
+-
+
+which contains
+Peripheral Interface Adapter (PTA) is a multipurpose I/O device
+bit of each
+Each
+two programmable eight bit parallel input/output devices on one chip.
+Thus
+you can
+device can be individually programmed to be either an input or an output.
+The
+
+make the
+
+chip look like
+
+combination of
+or
+
+so
+
+words
+
+of
+
+input and
+
+the
+
+The
+
+The HART may be used with
+processors.
+an eight bit
+contains
+input
+(TMS 5501)
+
+output device,
+
+twelve bit
+
+a
+
+program to set up
+The PTA and the ACIA are
+
+16 bits.
+code.
+
+four bit
+
+a
+
+or
+
+chip typically requires
+
+intended
+
+any processor.
+
+to
+
+A
+
+be used with
+
+new
+
+device
+
+other
+
+any
+
+about
+
+a
+
+dozen
+
+6800 series
+
+from Texas
+
+instruments
+
+device, an eight bit output device, a UART, five
+This
+it will work only with the 8080.
+control
+and
+circuitry.
+interval timers,
+interrupt
+two or
+a PTA
+with
+than
+much
+is
+(only
+the
+but
+simpler
+setup
+chip is also programmable
+three words of code).
+
+getting control voltages into and out of
+getting data into and out of the processor.
+the processor, and keyboards
+printers
+be
+connected to input devices and reed
+can
+switches
+It should be obvious that toggle
+to
+output devices to control signal routing.
+relays or transmission gates can be connected
+contours.
+Also, output devices can be connected to envelope generators to generate
+talked about A/D and D/A converters
+
+We
+
+Well,
+of how to
+
+so
+
+use
+
+for
+
+for
+
+and
+
+In
+
+much for hardware.
+
+installment
+
+the next
+
+we
+
+will look at
+
+some
+
+examples
+
+hardware with software.
+
+this
+
+3":-
+
+7':
+
+3‘:
+
+:‘v
+
+k
+
+7":
+
+Two NEW ANALOG DELAY LINE CIRCUITS
+analog delay lines and the necessary
+We did not give any actual circuits in that issue.
+mathematical tools to apply them.
+It is good to see that prices on the necessary IC delay line chips continue to fall and
+We give here two new
+that our readers continue to experiment with these devices.
+Issues
+
+EN#56
+
+was
+
+devoted to
+
+that have been Submitted.
+
+circuits
+
+of
+
+applications
+
+The
+
+first
+
+circuit
+
+is
+
+from
+
+Terry Mikulic and
+
+uses
+
+the
+
+Of particular interest in this circuit
+an 185
+stage delay line.
+is driven by the clocking waveform.
+FET
+which
+of
+3N142
+is
+the
+use
+the
+17)
+page
+This aids greatly in removing the clocking waveform from the audio signal so that less
+Also note the use of the CA3080 as
+low pass filtering is needed in the output stage.
+In this case, the buffering of the capacitor in the oscillator
+a voltage-controlled clock.
+is achieved through the use of the CD4049 CMOS chip, which also phases the clocking
+ITT
+
+type TCA 350 which is
+
+(shown
+
+on
+
+waveforms.
+second
+
+The
+line
+
+circuit
+
+more
+
+recent
+
+the
+
+new
+
+circuit
+
+is
+
+ratio.
+
+provided
+
+us
+
+with
+
+our
+
+only
+
+other
+
+Jan‘s older circuit used the TCA 350, but this
+
+analog delay
+uses
+
+one
+
+the
+
+Jan indicates that
+512 stage chip from Panasonic.
+in many ways similar to the TCA 350 circuit, but has several advantages
+
+MNBOOl which is
+
+circuit
+
+including
+
+from Jan Hall who
+
+is
+
+back in EN#48.
+a
+
+dual
+
+clock rejection adjustment, longer delay times, and an improved signal/noise
+The newer circuit offers about an order of magnitude improvement in all these
+a
+
+areas.
+
+With
+
+the
+
+five MNBOOl
+
+reasonable noise and
+
+stages
+
+distortion
+
+shown, up to one second delay can
+If one does
+(about 40 db S/N ratio).
+as
+
+EN#6l
+W
+
+(16)
+
+be achieved with
+not
+
+mind
+
+a
+
+10 KHZ
+
+Out
+
+ii
+
+Dal yed Audio
+
+TERRY
+
+MIKULIC'S
+
+DELAY
+
+LINE
+
+CIRCUIT
+
+322k
+
+‘5:me margin9%5w?“
+c
+
+.
+
+I3
+
+I
+
+A
+
+22k
+
+oh
+
+a;
+
+,1,
+22k «w.»
+
+‘w
+
+1?
+M
+'\.
+
+.3
+
+gin—11'’05:”?
+
+fl
+
+Vmwwfis
+
+‘
+
+"3‘
+PE“ £ng
+
+Jflo.0 1
+
+I! I
+
+\0
+L0
+
+\“1‘
+
+470p
+
+3N142
+
+3
+
+I
+
+2
+
+A
+
+.
+
+M
+H
+7
+
+0
+
+350
+
+a
+
+{3-
+
+I
+
+,
+
+M
+
+”mm
+
+L~”_
+
+_.~
+
+2
+
+_.
+
+CD40 9
+
+TCA
+8
+
+«kmmwd
+
+gm”
+
+3
+
+l
+
+fi-«M‘fifl’im—
+
+I
+
+‘
+
+8
+
+?
+,
+
+&
+
+g
+
+_
+
+h
+
+.34
+
+2%.
+
+4‘1;5 i9:
+
+a"
+
+<1
+I
+
+figafhm mfnwr-
+
+6,!-
+
+gas
+
+m
+
+W
+
+(“7
+
++
+
++
+
+56k
+
+r\
+
+I
+
+.
+
+.
+
+,,
+
+AVQ‘ VW
+
+C)
+
+§ a
+
+L.)
+
+L
+
+12
+
+I.
+
+.M
+g;
+
+r-I
+7
+
+6
+
+350
+
+TCA
+
+I 4'
+
+II
+
+Aha)”:
+
+2
+
+8
+
+3
+
+M
+
+1.8k JVWfl
+
+rid
+
+c:
+
+u—I
+
+m
+
+Ln
+
+«auxmwmw—pdewrm «é:LH
+
++
+
+E
+
+""“m
+H
+
+I
+1
+
+Ln
+H
+
+10 k
+
+4")?"
+
+9~
+
+A)"
+
+3 0k
+AL
+
+V: F
+
+"‘fijV-E‘flv'
+,owu 560k
+
+2
+H
+
+.+
+
+a}
+I
+
+“I
+a‘
+
+3
+
+EN#61
+
+(17)
+
+Contr l
+
+13:43.“l\w&-.C fltWI
+,
+
+_‘
+
+10 k.
+
+sound, which somehow can't quite be notched out despite adjustments, a 3—4 second
+can be reached;
+quite noisy, but useful for special effects. The main part of
+the circuit is shown below, and the clock generator is shown on the next page.
+The
+transistor amplifier between each stage makes up for the 10 db loss each chip has.
+clock
+
+delay
+
+CIRCULATE
+
+'
+
+N;
+
+iPHASE
+
+50k:;%
+%
+
+INPUT
+
+0'001
+
+‘*
+
+100k
+
+Sig.
+
+L
+L :I
+
+W"
+
+1 0k.“
+
+100k
+
+1“
+
+3
+
+W‘”
+
+50k
+100k
+
+A3
+
+”100k
+33
+
+“it
+
+.
+
+Sig.
+
+f
+
+”r
+MAM“
+
+741
+
+"
+
+3
+
+’
+
+0k
+
+1
+
+I
+
+STAGE
+
+471
+
+p
+
+_
+
+AM.
+
+In
+
+-
+
+OUTPUT
+
+4? g
+
+MIX
+
+«wed
+
+STAGE
+
+mku‘wafifiw\!\R‘f'?‘®ma
+
+100k
+
+t
+
+Out
+100k
+
+\\\T\\ €820
+W
+
+’Amsmd
+
+“L.
+
+:41
+
+1005]:
+
+A.
+
+741
+
+100k
+
+g
+
+*
+
+$27k
+
+s3
+
+s 3 3k
+“
+
+A4
+
+“A“
+
+10 mfd
+
+f1_
+
+3
+
+"’
+
+*r
+
+10
+
+53
+
+V
+
+1;
+
+4 Identical Stages
+
+One of
+
+a
+
+r“*”*-
+
+27k
+
+\
+
+f
+
+\
+
+I
+
++5
+
+5
+
+—15
+
+—14
+
++15
+”‘2‘.”
+
+3
+
+‘
+
+4
+
+11
+
+3
+
+9
+
+5
+
+l
+
+7
+
+8*
+
+4;:
+s
+
+9%
+
+.
+
+'
+
+fiiOOk
+
+I
+‘
+._._...
+
+~15
+
+n.
+
+~r—
+
+I?
+
+1 11115
+
+100k1§25v
+
+:§lOOk
+
+fig
+_.
+
+..
+
+_._
+
+m
+
+'.,.
+
+'—
+
+./
+
+J;
+
+I
+
+I
+
+I
+
+.
+
+JAN
+
+HALL'S
+
+DELAY
+
+g;
+
+'13:!
+
+1.1
+
+mf
+
+_L
+
+100k
+
+w
+
+*
+
+__._.___E.O"l4
+
+__
+
+g
+
+?
+
+1k
+
+—151
+
+2:::
+
+10 mf
+
+._,
+
+CIRCUIT
+
+USING
+
+THE
+
+is‘a
+
+102 4 bit
+
+shift
+
+Max
+
+1 sec
+Delay
+1 ms
+Delay
+12 KHZ i2
+Freq. Response 40
+Noise
+~43 db (lv) (350 ms)
+Max Input Signal 1.5V RMS
+Gain
+Unity
+
+MNBOOl
+
+PANASONIC
+
+MN300l
+
+SPECIFICATIONS
+
+Min
+
+—
+
+‘
+
+=3
+
+25v. 100k
+
+100k~10me
+
+V
+
+LINE
+
+8E
+
+J:
+
+w4f~e
++
+
+a
+
+a?
+
+asell)mf
+
+.4. 20
+
+M
+
+I
+
+13
+
+:3 7V
+«a
+
+adj
+
+5
+
+I
+
+Awhei‘éif
+
+§se~¢wwm__ma.
+
+’23;
+
+MN3001
+
+l
+
+DELAY LINE
+
+Ami-EL
+
+%
+
+m
+
+'
+
+ski:
+w
+
+r"
+
+,"
+
+"W“
+
+l
+
+L»
+
+a:
+
+m
+
+-a}
+
+‘3
+
+]
+
+3;;
+
+$3
+
+31
+47k§tfi70§
+
+5::
+
+Wirtn'
+
+I
+
+33'
+
+1L 100k;
+
+‘1"
+
++
+
+3
+
+gs3_33
+
+i
+
+13
+
+—14
+
+—15
+
+web;
+H3:
+m?”
+is? JlSOk‘
+g25‘7‘73
+glwf125k*
+‘
+Rké
+
+MN3001
+
+I
+
+-+5
+
+:;
+
+‘
+
+1
+
+l
+
+7k
+
+L
+
+1 mf
+
+10014153
+
+l
+
+[,4
+
+3\
+
+V
+
+l mfd
+
++
+
+*Carrier Notch
+db
+
+—
+
+EN#6l
+
+(18)
+
+analog
+register
+Adjustments
+
+All PNP
+
+=
+
+2N3906
+
+All NPN
+
+=
+
+2N3904
+
+l mfd
+25V
+
+‘
+
+Delay
+
+5
+
+I
+
+50k
+
+Time
+
+s
+
+E
+
+i
+
+3
+
+1'
+
+100k
+
+é
+
+@_mmimwvm«WmeAaunaaa_~_wmg.
+100k
+
+VC
+
+100k
+
+270p
+
+limw~
+?
+
+Delay
+
+.~4}__
+
+14
+
+--
+
+1k
+
+3.6km
+
+1.5k s
+a
+
+10k
+
+4013
+
+27k
+
+3
+
+§lfl5
+2a:
+10k
+
+2*
+
+5
+
+a
+
+g
+
+‘
+
+4 6
+
+1
+
+72
+
+¢l<2,6)
+
+‘4
+
+1
+
+-“%r~"
+
+T
+
+AnA;
+
+Out
+
+p?
+
+Ev
+
+270p
+i
+
+(
+
+d“
+a
+
+!
+
+$330 kwatt
+
+}
+
+ClOCk
+
+m
+
+‘:
+
+%
+
+of
+
+Phase
+.
+
+Drive
+
+V
+
+18 KHZ
+
+‘
+
+~
+
+—
+
+10k
+
+d
+
+700 KHZ
+
+.
+
+¢2(10,12)
+
+.-
+
+“
+
+V
+
+‘
+
+fi
+
+Clock VCO
+
+Wiring
+
+to
+
+CLOCK DRIVE
+
+[EDITOR'S
+
+Should be #16 and
+
+Clock Generator
+
+Notes:
+
+CIRCUIT.OF JAN
+
+We
+
+have
+
+47mfrr
+
+3.
+
+.7
+
+looked into
+
+20v
+
+k 330
+
+$1,gwa
+
+15
+
+IL
+
+3"
+
+Bypassed
+
+HALLIS
+
+DELAY
+
+LINE
+
+the
+
+possibility of obtaining the MNBOOl chips for
+chip is about $16 in small quantities.
+The distributer that we tracked down is Solid State Inc., 46 Farrand St., Bloomfield, NJ
+07003.
+We are looking for a price break that would allow us to supply these at a
+substantial saving.
+If you are interested, drop us a line and tell us how many you
+would want.
+Assume that we could supply them for under $14 to start with.
+More on
+this later if enough interest developes.]
+resale
+
+to
+
+our
+
+subscribers.
+
+The
+
+*
+
+cost
+
+a
+
+k
+
+of
+
+each
+
+e
+
+a
+
+*
+
+>5
+
+>5-
+
+NEWS AND NOTES'FOR JANUARY:
+We still need more help with the list of
+computer periodicals, but here are a
+couple that we haven't seen before.
+The first is a magazine
+SECS Interface which is
+a publication of
+the Southern California
+Computer Society.
+Membership is $lO/year and
+is open to everyone (their
+membership form has a place for ”state” so that tells you
+
+don't have
+
+you
+
+Area
+
+to
+
+Cal.
+
+to
+
+move
+
+Computer Society
+
+at
+
+In the Denver area look for the
+join!).
+6338, Denver Colorado, 80206. They publish
+
+to
+
+PO Box
+
+Newsletter.
+In
+
+the Boston
+
+North
+
+Reading,
+Comter Terminal,
+
+MA
+
+Bleeden, 661
+study
+receiving a degree in
+
+special
+from
+was
+
+program of
+
+look for
+
+01864.
+
+ASR 33
+
+Donald
+
+is
+
+area
+
+the Alcove
+
+Their equipment
+
+Teletype,
+
+TV
+
+the DACS
+_._‘m
+
+Computer Club, 230 Main Street
+Rte. 28,
+includes Altar, ACR, SlOA, SlOC, PTO, VLCT
+-
+
+Typewriter,
+
+Mark
+
+8,
+
+and others.
+
+S. Cloverdale #3, Los
+Angeles, CA 90036 sends word on a
+available at Antioch College West in Los
+Donald
+Angeles.
+electronic music from the college.
+This degree results
+
+a program Donald
+put together himself with the
+done to receive a BA degree, and in a
+way which
+
+experiences and previous knowledge.
+others who may be
+universities.
+
+Denver
+
+interested
+
+Donald will be
+
+in this
+
+sort
+
+EN#6l
+
+(l9)
+
+of
+
+aid of
+
+a
+
+This
+faculty committee.
+advantage of past
+
+took maximum
+
+glad
+
+program which
+
+to
+
+is
+
+answer
+
+also
+
+questions from
+available at
+
+other
+
+2
+
+A recording of the music of Robert
+Ceely is available from BEEP Records, 33 Elm
+02146.
+The cost of-the record is $6.00 (+5% for Mass
+St., Brookline, MA
+residents).
+Three works for magnetic tape are included
+along with two pieces for low strings.
+A reader who
+
+the
+
+where
+
+read Bill Hartmann's
+
+”Seque"
+term "F1anging"
+and
+
+terms
+
+the
+
+of
+
+Most
+
+“Pan" which
+came
+
+are
+
+from.
+
+article
+
+commonly
+Who
+
+can
+
+last
+
+issue writes
+
+used.
+
+We
+
+answer
+
+this
+
+had
+
+to ask the origin of
+good luck finding out
+
+one?
+
+the
+
+computer people probably already know about this, but if you have not
+Microcomputer System from MOS Technology, 950 Rittenhouse Rd.,
+Norristown, PA, 19401,.you might want to write and ask about it.
+It uses the 6502
+microprocessor, has a calculator style keyboard and display, and an audio cassette
+interface.
+It also has enough memory to
+get started (1k plus the memory in two 6530
+and
+full documentation.
+arrays),
+The price is $245.
+seen
+
+the KIM-l
+
+A
+
+interface system for the Altair 8800
+system is
+Drive #106, Miraleste, CA
+90732.
+
+cassette
+
+available
+
+from Donald
+
+Tarbell, 144 Miraleste
+A basic
+
+article
+
+on microprocessors
+appeared in Wireless World for Dec. 1975.
+Waddington.
+Egfi Magazine has made available two new series of
+The first
+reprints.
+Reprints,
+is_pg
+Yolng available at $7.95 to US buyers, $8.95
+non—US buyers.
+The second is a reprint Semiconductor Memories available at
+$5.95
+the US and $7.95 for non-US.
+The latter series is a ten part
+To order,
+reprint.
+write to EDN Magazine, 221 Columbus
+02116.
+Ave., Boston, MA
+was
+
+written
+
+Tom
+
+by
+
+it
+
+D.
+
+Rossing
+
+has
+
+prepared
+
+an
+
+extensive
+
+listing
+
+of papers
+
+musical
+
+on
+
+for
+
+for
+
+acoustics.
+
+This
+
+”Resource Letter MAnl: Musical Acoustics” in American Journal of
+Physics,
+No. 11, Nov. 1975.
+Reprint copies of the listing are available at-a cost of
+75¢ plus a BASE from: Executive Office, American Association of
+Physics Teachers,
+
+appears
+Vol. 43,
+
+as
+
+Graduate
+
+Physics Building,
+
+SUNY at
+
+excellent
+
+(as
+
+Stony Brook, Stony Brook,
+
+sourcelist which should provide an excellent
+published in Vol. 7 or as reprint B—004).
+
+NY
+
+11794.
+
+companion
+
+to
+
+our
+
+This
+own
+
+is
+
+an
+
+sourcelist
+
+A
+
+Programmable divide—by-N scheme is offered by M. V. Subba Rao in
+”?rogrammable
+Divide—by—N Counter Provides Symmetrical Outputs for all Divisors,” in
+Electronic
+gesigg
+Vol 24, No. 2, Jan 19,
+The circuit consists of
+1976, pg. 82.
+7476’s, 7486's, and a
+few gates
+An
+
+and
+
+is
+
+programmable by four digital lines.
+
+‘
+
+interesting article, "Psychoacoustics" by Daniel Queen appears in db magazine,
+No. 2, Feb. 1976, pg. 25.
+Persons interested in neural aspects of
+hearing
+
+Vol.
+
+10,
+
+will
+
+find
+
+this
+
+useful.
+
+A number of
+interesting experiments on musical perception are described by James
+Miller and Edward Carterette in
+”Perceptual Space for Musical Structures," in JASA
+Vol. 58, No. 3, Sept
+The perceptual space is spanned
+1975, pg. 711.
+by a number of
+musical dimensions such as pitch, envelope, and timbre.
+The similarity of notes with
+different structures was judged to see which of the dimensions
+were used by different
+subjects, and the relative importance of the different dimensions.
+‘k
+
+BACK
+
+[9
+I
+
+hard
+
+BASICS
+
+-
+
+remember.the
+
+:‘c
+
+7':
+
+:‘c
+
+RESISTOR TOLERANCES:
+third radio
+
+I
+
+built.
+
+:‘r
+
+7':
+
+Bernie Hutchins
+
+The
+
+first
+
+was
+
+a
+
+crystal
+
+The second used the old razor blade and pencil
+go wrong.
+too worked for some reason.
+The third used a transistor and came
+
+EBXLE
+
+to
+
+Life
+
+magazine.
+
+It
+
+called
+
+for
+
+a
+
+25k resistor and
+
+mum
+
+(20)
+
+I
+
+radio kit
+
+lead
+
+and
+
+it
+
+and
+
+was
+
+that
+
+trick,
+design from
+couldn't find one anywhere.
+from
+
+a
+
+I
+
+thought
+
+of
+
+making it up as a series of
+expensive back in those days so
+learned about resistor tolerance,
+
+a
+
+22k and
+
+three
+
+thought
+
+I
+
+somewhat
+
+T
+
+when I
+
+and
+
+tolerance.
+
+Circuit
+
+tolerance
+
+is
+
+started
+
+little hard
+
+lk's,
+
+but
+
+had better
+learn
+
+to
+
+teach.
+
+This
+
+resistors
+
+ask
+
+little bit
+
+a
+
+is
+
+seemed
+That's
+
+someone.
+
+about
+
+circuit
+
+of
+
+question
+looking
+deciding what substitutions you can make and in general what you can
+This is largly a matter of experience.
+get away with to make things easier on yourself.
+We want to look here at resistor tolerance, and the same general remarks apply also to
+at
+
+circuit
+
+a
+
+a
+
+to
+
+a
+
+and
+
+.
+
+the
+
+tolerance of
+
+and
+
+we
+
+Take
+can
+
+other components.
+
+the search for
+
+then
+
+ask two
+
+the
+
+25k resistor
+Is
+
+questions:
+
+for
+
+it
+
+an
+
+example.
+
+possible
+
+to
+
+get
+
+Well,
+a
+
+25k
+
+means
+
+resistor
+
+that
+
+25,000 ohms
+exactly
+
+is
+
+In answer to the
+25,000 ohms, and is it necesary to get one for the particular circuit.
+first question, it should be clear that from what we know of the way things are made (in
+this seemingly continuous world), that we can't expect exactly 25,000 ohms.
+The person
+who made the resistor we are using in fact tells us how hard he tried by giving a tolerw
+ance rating.
+Typical ratings are 10% (silver band), 5% (gold band), and 1% (marked as
+He also gives us an assortment of target values that often seem odd.
+Take the
+Such).
+10% series for example.
+Start with a 10 ohm resistor.
+If we will allow for a 10%
+
+variation, this means that
+Likewise
+high as 11 ohms.
+13.2.
+
+The next
+
+if
+
+it
+
+one
+
+says
+marked
+
+is
+
+15, so we see
+as high as 16.5.
+
+it's
+12
+
+10
+
+ohms
+
+that
+
+it
+
+ohms,
+
+could be
+
+there
+
+is
+
+may be
+
+as
+
+low
+
+low
+
+as
+
+10.8
+
+as
+
+as
+or
+
+little gap here as
+of little importance
+
+9 ohms
+it
+
+or
+
+high
+
+as
+
+as
+as
+
+could
+
+only
+(we could use
+14.7 instead of 15 if we wanted to, but 15
+number).
+Keeping roughly a 10%
+on
+either
+10%series
+gap
+side,the
+goes 10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, and
+82.
+The 10% series gives us-practically all the resistors we need to make circuits
+agjpally_wgrk, At times we actually use 5% resistors or 1% resistors to make the
+be
+
+low
+
+as
+
+as
+
+circuits work
+For most
+
+one
+
+13.5
+
+more
+
+or
+
+like
+
+the way
+
+we
+
+you will
+
+This
+
+want
+
+a
+
+gap is
+is a nicer
+
+them to.
+
+The 5%
+mostly 10% values, and some 5% values.
+10, ll, 12, 13, 15, 16, 18, 20, 22, 24, 27, 30, 33, 36, 39, 43, 47, 51, 56,
+If you see a 5% value, it means that a 5% resistor is used.
+62, 68, 75, 82, and 91.
+If you see a 10% series value, it could be either 5% or 10%.
+Now, after saying that
+you usually do not need 5% resistors, we will turn around and say that you should
+generally use only 5% resistors.
+Why? They're really not much more expensive as long
+as you buy more
+than a handful.
+[See for example the ads in the back of Baéigjglggtf
+ronics or Popular Electronics where they sell only 5% resistors for about $1.70/100].
+Another reason for prefering 5% values is that you never have to wonder whether the
+10% series values given are 5% or 10%.
+Finally, it is claimed that 10% resistors are
+Thus their tolerance should read 5—10%, or you
+actually 5% resistors that failed.
+series
+
+could
+
+purposes,
+
+see
+
+is
+
+expect
+What
+
+an
+
+error
+
+of
+
+at
+
+least
+
+5%.
+
+1% resistors?
+First, there are more values that the average experi~
+When you see a precision value called for, you
+easily stock or afford.
+have to ask why it is called for.
+It may be it is to set or maintain a standard.
+For example, the standard 1 volt/octave into 100k input structure of
+many synthesizer
+modules.
+Or it may be that the resistor was selected for stability, and its actual
+value is of lesser importance.
+You will find it convenient to keep a few 1% values
+around.
+In particular, you should keep the 100k value, and perhaps a few 1k and 10k
+values also.
+Additionally, values such as 20k and 30k are useful for setting exact
+2:1 or 3:1 ratios.
+Now suppose someone pulls a dirty trick and asks for a 103l<l%
+resistor?
+Well, you might try a series 100k and 3k combination, with both being 1%
+but
+this is not necessary.
+This is a point that is often misunderstood.
+values,
+While
+menter
+
+most
+
+about
+
+can
+
+experimenters know that
+
+it makes
+
+to add a 27k 10% with a 100 ohm 10%, and
+that things are changed when mixed tolerances
+27.1k, they
+are used.
+But
+True, no combination of 5% resistors will be more accurate than 5%.
+consider the example suggested above.
+Suppose you put a 100k 1% in series with a
+3.0k 5% resistor.
+What is the resulting tolerance?
+Well, the 100k resistor could
+
+expect
+
+to
+
+get
+
+be
+
+or
+
+it
+
+99k
+
+do
+
+could be
+
+101k.
+
+no
+
+sense
+
+not
+
+realize
+
+The
+
+3.0k resistor
+
+EN#61
+
+(21)
+
+could he
+
+2.85k
+
+or
+
+it
+
+could be
+
+3.15k.
+
+Thus
+
+the series
+
+only
+
+about
+
+is
+
+combination could be
+
+1.1% error,
+
+much
+
+less
+
+as
+
+low
+
+than the
+
+obvious when you think absut it
+
+a
+
+101.85
+
+as
+
+5%
+
+or
+
+high
+
+as
+
+tolerance of
+
+of
+
+one
+
+as
+
+the
+
+104.15.
+
+This
+
+is
+
+This
+
+components.
+
+while.
+
+Thus when you need about a 1%
+value, you can first use a fairly close ”ballpark”
+1% value, and then see if you can come close
+enough with a 5% value that is at least
+a
+decade smaller than the ballpark value.
+If not, it may be
+necessary to add another
+series 1% resistor to get a little closer before
+”trimming” things out with a 5% value.
+
+The main point we want to make is that
+you can
+a.1% resistor that is within 10% of the needed
+Standard
+of
+
+a
+
+1% and
+
+a
+
+1
+
+5% value.
+
+Bear
+
+in mind
+
+5% in exactly
+
+a
+
+the
+
+also
+
+same
+
+that
+
+come
+
+close
+
+value,
+can
+
+you
+
+and
+
+often
+
+to
+
+use
+
+the
+
+1%
+
+tolerance of
+
+the
+
+1
+
+tolerance
+
+trimming
+a
+
+it
+
+by using
+with
+
+a
+
+parallel combination
+
+way.
+
+Now, there are limits to this general process.
+Would
+Meg 1% resistor and a 1000 ohm 5% resistor in series?
+
+is within
+
+1%
+
+a
+
+then
+
+Meg (which
+
+it make
+
+Well,
+
+any sense to use
+the 1000 ohm value
+
+is
+
+Thus it does not make sense
+10k).
+Meg resistor is improved.
+However,
+if you are trimming something out, and
+you have a way of measuring or otherwise knowing
+the results of the
+trimming, then it does make sense (since you are using trial and
+Take a 1 Meg resistor of any tolerance
+error).
+(say 10%) and add a 100 ohm resistor
+of any tolerance (say 10%
+again), and you have changed the value of the combination
+This is the same case as a man who is so rich he
+by about 0.01%.
+only carries hundred
+dollar bills.
+If he finds a penny, he is a
+penny richer, even though this has very
+to
+
+that
+
+suppose
+
+little effect
+
+the accuracy of
+
+on
+
+his
+
+the
+
+target
+
+1.001
+
+overall worth.
+2':
+
+9':
+
+‘7‘:
+
+'
+
+:‘v
+
+7':
+
+7‘:
+
+essences
+WANTED:
+
+US
+
+contact
+
+to
+
+obtain electronic music
+
+records such as Tragoedia, The Moog
+Power,
+Moon, Nonesuch Guide to EM The Sound 2000, The Wild Bull, etc.
+Juan Bermudez, c/ Navas
+e Tolosa 368,
+4Ql§ BzRCELONA 13, Spain
+FOR §ALEt Nasatch Music Systems
+”Interphaser 1080—A" phase shifter. Full 1080 degrees
+EEIpHEée shift with switchable peaked harmonic emphasis. Built~ln dual TC reg. power
+supply. Available'in assembled, kit, or CB form.
+Write for details.
+Wasatch Music
+Systems, P0 B A 9175, Salt Lake City, UT
+84109
+EQB_§§£E: Guitar Synthesizer. Build the SYNTHAX—lOO. First synthesizer for the standard
+electric guitar.
+Contains input processor, bass generator, ”Leslie”
+simulator, pitchw
+follower, harmonic generator (3 upper octaves), note storage, control oscillator, VCF,
+AR env. gen., VCA, foot switch control
+Send $5 (Cal. add 6%),
+output mixer, power supply.
+foreign $6, for plans to: ELECTRAX, PO Box 149, Tarzana, CA
+91356
+EégTEQ: Artisan Organ Kits would like to have individual, or existing synthesizer
+
+31195? Apples
+
+on
+
+the
+
+company contact the undersigned
+H. W. Carlson, A O K
+
+for
+
+details
+
+on
+
+a
+
+specialized synthesizer project.
+
+Manufacturing, Inc.,
+98028
+445, Kenmore, WA
+EQ§1§AL§} Switchcraft 512 jack covers, spring return lid keeps dirt out of jack, fit
+standard 1/4 inch jack, 3/8~3Z
+thread, new, distributer price $1.32 each, sell 10 for
+$6.50 post paid in 0.8.
+Donald J. Campbell, 3356 MSB General
+Hospital, Cincinnati,
+PO Box
+
+45267
+
+OH.
+
+WANTEQ:
+
+Circuits
+
+Walnut, Akron,
+GROUP
+
+Egfigfiégflg
+
+(2102~l
+
+low power
+
+and
+
+19¢
+
+NY
+
+14850.
+
+date and
+
+on
+
+for electronic percussion.
+
+Will
+
+pay.
+
+Jim
+
+44305
+
+OH
+
+The Ithaca
+
+Computing Group
+
+and
+
+Specify
+pricing.
+
+final
+
+21 South
+
+is making a group purchase of 91L$2 RAMS
+16 pin sockets.
+Expect a price of about $1.65 on RAMS
+For info. send SASE to Steven
+Edelman, 204 Dryden Rd., Ithaca,
+how many you need of each.
+We will send ordering info.,
+
+equiv.)
+
+sockets.
+
+Mothersbough,
+
+delivery
+
+ELECTRONOTES, Vol. 8, No. 61 [January 1976]
+Published by B. A. Hutchins, 203 Snyder Hill
+Rd., Ithaca, NY
+Send routine orders to: Electronotes, 213
+Dryden Rd., Ithaca,
+EN#61
+
+(22)
+
+14850
+NY
+
+14850
+
+

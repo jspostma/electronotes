@@ -1,0 +1,28 @@
+type: Issue
+name: EN85
+volume: 10
+number: 85
+date: January 1978
+contents:
+    - page: 2
+      title: News and Notes
+      
+    - page: 3
+      title: Reader's Questions
+      
+    - page: 5
+      title: Additional Design Ideas for Voltage-Controlled Filters
+      author: Bernie Hutchins
+      contents:
+          - page: 5
+            title: 1. Corner Peaking of a Four-Pole Filter
+          - page: 12
+            title: 2. Obtaining Bandpass and High-Pass Functions from a Four-Pole Lowpass
+          - page: 16
+            title: 3. Present-Day VCF Design Options
+      
+    - page: 18
+      title: Hints on Obtaining Parts for Projects
+
+
+

@@ -1,0 +1,29 @@
+type: Issue
+name: EN62
+volume: 8
+number: 62
+date: February 1970
+contents:
+  - page: 1
+    title: "Group Announcements"
+
+  - page: 2
+    title: "Design Ideas for Digital Keyboards"
+    authors:
+      - "B. Hutchins"
+      - "D. G. Williams"
+      - "V. R. Huebner"
+      - "G. Embler"
+
+  - page: 11
+    title: "New Design Ideas for Voltage-Controlled Oscillators"
+    authors:
+      - "B. Hutchins"
+      - "C. Thompson"
+      - "T. Mikulic"
+      - "D. Kraul"
+      - "T. Helfrich"
+
+  - page: 18
+    title: "Microprocessors in Electronic Music"
+    author: "Bill Hemsath"

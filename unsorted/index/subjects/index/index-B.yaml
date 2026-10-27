@@ -1,0 +1,130 @@
+Balanced Modulation:
+    items:
+      - MEH: 2c
+      - MEH: 5f
+
+Balanced Modulator:
+    items:
+      - EN63: 6
+      - EN64: 18 [from VCA]
+      - MEH: 5f
+
+Bandpass Filter:
+    items:
+      - EN71: 3
+      - EN73: 14
+      - EN91: 16
+      - EN72-A: 1
+      - AN-25
+      - AN-26
+      - AN-37
+      - AN-38
+      - AN-104
+      - S-016: Ch. 3
+      - S-016: Ch. 6
+
+Base Diagrams:
+    items:
+      - MEH: 9c
+
+Basic Course in Early Issues:
+    items:
+      - EN10: 2
+      - EN11: 6
+      - EN12: 7
+      - EN13: 13
+      - EN14: 8
+      - EN17: 7
+      - EN18: 6
+      - EN21: 6
+      - EN23: 8
+      - EN24: 6
+      - EN26: 7
+      - EN30: 7
+      - EN31: 8
+      - EN34: 21
+      - EN35: 9
+      - EN36: 8
+      - EN37: 7
+      - EN40: 18
+      - EN44: 8
+
+Bass Technique (Nonlinear):
+    items:
+      - EN73: 7
+
+Beating:
+    items:
+      - EN93: 5
+
+Bells:
+    items:
+      - EN78-A: 1
+
+Bessel Filter:
+    items:
+      - S-016: Ch. 4
+      - S-016: Ch. 5
+
+Bessel Functions:
+    items:
+      - AN-111
+      - MEH: 9a
+
+Bilinear Z-Transform:
+    items:
+      - EN77: 8
+      - AN-105
+
+Bi-N-Tic Filter:
+    items:
+      - EN92: 14
+
+Binary Dividers:
+    items:
+      - MEH: 3h
+
+Bipolar Summing:
+    items:
+      - AN-102
+
+Biquad:
+    items:
+      - EN71: 6
+      - AN-12
+
+Biquadratic Equation:
+    items:
+      - AN-113
+
+Birds:
+    items:
+      - EN78-A: 2
+
+Brown Noise:
+    items:
+      - EN88-A: 1
+
+Bucket Brigade:
+    see: Delay Lines
+
+Budget and Equipment Selection:
+    items:
+      - EN91: 11
+
+Bulk Resistance Correction:
+    items:
+      - MEH: 5b
+    see also: high end compensation
+
+Butterworth Filters:
+    items:
+      - AN-75
+      - S-016: Ch. 4
+      - S-016: Ch. 5
+      - MEH: 9b
+
+Bypass Capacitors:
+    items:
+      - EN74: 5
+      - AN-18

@@ -1,0 +1,32 @@
+type: issue
+name: EN63
+volume: 8
+number: 63
+date: March 1976
+contents:
+    - page: 1
+      title: "Group Announcements"
+
+    - page: 2
+      title: "The ENS-76 Home-Built Synthesizer System -- Part 1 [Introduction, VCA, Balanced Modulator]"
+      author: "Bernie Hutchins"
+
+    - page: 8
+      title: "Precise Matching of Resistors Using Synthesizer Oscillators"
+      author: "Carl Fravel"
+
+    - page: 11
+      title: "Analog Interfaces for Microprocessor Systems"
+      author: "Douglas Kraul"
+    
+    - page: 14
+      title: "Reviews of Recorded Music"
+      author: "Craig Anderton"
+    
+    - page: 17
+      title: "Back to Basics 2, Triggering the 555 as a Monostable"
+      author: "Bernie Hutchins"
+    
+    - page: 19
+      title: "News and Notes for March"
+

@@ -1,0 +1,41 @@
+type: Issue
+name: EN88
+volume: 10
+number: 88
+date: April 1978
+contents:
+    - page: 1
+      title: News and Notes
+      
+    - page: 2
+      title: Reader's Questions
+      
+    - page: 3
+      title: Woodwind-Type Controller for Synthesizer II - Keyswitch Fingering System
+      author: Ian Fritz
+    
+    - page: 10
+      title: "Literature Review: Comments on Ernst's \"The Evolution of Electronic Music\""
+      author: R. Bruce Elder
+      
+    - page: 15
+      title: Pitch Extractor for Guitar and Microphone
+      author: Dale Wills
+    
+    - page: 23
+      title: Reader's Equipment and Ideas
+      contents:
+          - title: Envelope Follower with Improved Ripple and Response Characteristics
+            author: D. Genovese
+          - title: LFO With Ramp, Inverted Ramp, Triangle, Pulse-Width from 10% to 90%
+            author: P. Lutz
+          - title: Mixing Plate Based on Capacitive Coupling
+            author: D. Weiss
+          - title: Patch for Controlled Beating with Two VCOs
+            author: D. Weiss
+          - title: Variable Positive and Negative Waveform Clippers
+            auther: A. Halstead
+      
+    - page: 27
+      title: Basic Applications of Components Available Through Electronotes
+

@@ -1,0 +1,80 @@
+Volume 13 (January 1981 - December 1981)
+
+EN#	121	03	Lab Notebook - Effects Of PW Drivers On Short PWM Tones
+EN#	121	04	Newcomer's Page - Fourier Series
+EN#	121	05	Fourier Series Results For Some Simple New Waveshapers
+EN#	121	13	Two Hints For Using The CEM3340 IC [Thomas Henry]
+EN#	121	16	Stability In Linear Systems - Routh's Criterion
+EN#	121	22	A Brief Note On Variable Slope Spectra And Self Modulation
+
+EN#	122	02	More On The CEM3340 IC [Thomas Henry & Doug Curtis]
+EN#	122	03	Lab Notebook - Distortion Of  Triangle-To-Sine Converters
+EN#	122	04	Newcomer's Page - Strange Numbers
+EN#	122	05	Making Rack Panels [Thomas Henry]
+EN#	122	09	Square Law Attenuator [Normand Provencher]
+EN#	122	10	Determining The Probability Of Saturation Of Gausian Noise [Normand Provencher]
+EN#	122	13	A Function Generator With "Quadrature" Triangle Wave Outputs [Thomas Henry]
+
+EN#	123	01	Reader's Questions: Instrument Waveshapes, Band-Pass Filter Orders, IC Sockets
+EN#	123	03	Lab Notebook - More Tests Of  Triangle-To-Sine Converters
+EN#	123	04	Newcomer's Page - Pitch
+EN#	123	05	Pitch, Filtered Noise, Suggested Experiments
+EN#	123	09	A Few More Variable-Slope Ideas [Normand Provencher]
+EN#	123	14	Browser's Report [Normand Provencher]
+EN#	123	15	Review Of Recorded Music [Craig Anderton]
+EN#	123	17	Book Reviews
+EN#	123	19	An Add-On Sub-Octave Circuit For VCOs
+
+EN#	124	02	Book Review: "A Biography Of Computer Music" By Sandra L. Tjepkema
+EN#	124	03	Lab Notebook - Modulations With The Voice
+EN#	124	04	Newcomer's Page - What Is Digital?
+EN#	124	10	Design Of Simple Quantizers [Bernie Hutchins & Mike Conrad]
+EN#	124	19	The ARP Surplus Three-Octave Keyboard [Dev Gualtieri]
+
+EN#	125	01	Source List Of Electronic Music And Musical Engineering (1978, 1979, 1980)
+
+EN#	126	02	Reader's Questions: Sinewave LFO
+EN#	126	03	Lab Notebook - Tests Of An Extension Of Standard Frequency Modulation Patches
+EN#	126	04	Newcomer's Page - Digital Synthesis Of Music
+EN#	126	05	The Reciprocal Square-Law Attenuator [Normand Provencher]
+EN#	126	07	A New Self-Varying Gate And Trigger Delay Unit [Lester Ludwig]
+EN#	126	10	Redundancy In Music As A Reason For Parametric Music Synthesis
+
+EN#	127	02	Reader's Questions: Quadratic Formula
+EN#	127	03	Lab Notebook - A Couple Of Circuits For Through-Zero VCOs
+EN#	127	04	Newcomer's Page - Looking For The Parts You Need
+EN#	127	05	GLAP Revisited: Smaller Parts Count Using CEM3330, Constant Power Correction 
+And Image Angle Curves [Lester Ludwig]
+EN#	127	09	Brief Notes On Integrator Phase Compensation
+
+EN#	128	02	Reader's Questions: Animation Vs Modulation, Fast Or Finite Transfer Functions
+EN#	128	03	Lab Notebook - Comb Filter Tests Of Animators
+EN#	128	04	Newcomer's Page - Getting Publications
+EN#	128	05	Theory And Design Of Electronic Percussion Instruments Based On The Band-Pass Resonator
+
+EN#	129	02	Newcomer's Page - Getting Publications
+EN#	129	03	A VCO With Through-Zero FM Capabilities
+
+EN#	130	01	News And Notes: Passport Designs, SSM2012, SSM2022, SSM2033, SSM2056 & SSM2100
+EN#	130	02	Newcomer's Page - Getting Publications
+EN#	130	03	A VOSIM Processor (including PCB Layout)[Devlin M. Gualtieri]
+
+EN#	131	03	Lab Notebook - Coupled VCOs
+EN#	131	04	Newcomer's Page - Interpreting Schematic Diagrams
+EN#	131	05	The Drumhead Problem - The Vibrating Membrane
+EN#	131	14	Le Gendre Filters  [Normand Provencher]
+EN#	131	18	Those Marvelous Whale Songs
+
+EN#	132	03	Animation Of Live Sounds
+EN#	132	04	Newcomer's Page - Interpreting Schematic Diagrams
+EN#	132	05	Simple Equipment For An Electronic Music "Utility" Panel
+EN#	132	05	1.  Microphone Amplifier
+EN#	132	05	2.  Mix/Gain/Monitor Unit
+EN#	132	06	3.  Flip-Flop Unit
+EN#	132	06	4.  Output Filters For Tape Recording
+EN#	132	07	5.  Headphone-Speaker Amplifier/Attenuator
+EN#	132	08	6.  Comparator/Differencer/Rectifier Unit
+EN#	132	09	7.  Ramp Generator/Oscillator
+EN#	132	10	8.  DC Source/Ultra-Fine Tuner
+EN#	132	11	Possible New Electronic Musical Instrument Based On Self-Sustained Oscillator Principles 
+EN#	132	19	A Proposed Design Of A "Mallet" Controller

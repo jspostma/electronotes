@@ -1,0 +1,32 @@
+type: issue
+name: EN64
+volume: 8
+number: 64
+date: April 1976
+contents:
+  - page: 1
+    title: "Group Announcements"
+
+  - page: 3
+    title: "Theory and Application of Noise Generators in Electronic Music"
+    author: "Bernie Hutchins"
+
+  - page: 18
+    title: "Voltage-Controlled Amplifier as a Balanced Modulator"
+    author: "W.M. Hartmann"
+  
+  - page: 19
+    title: "Music of Penderecki: Record Review"
+    author: "Al Halstead"
+
+  - page: 19
+    title: "The Lyricon: Equipment Review"
+    author: "Allen Cody"
+
+  - page: 20
+    title: "Back to Basics 3, Resistor Power Ratings"
+    author: "Bernie Hutchins"
+
+  - page: 21
+    title: "Back to Basics 4, The Difference Between Positive and Negative"
+    author: "Bernie Hutchins"

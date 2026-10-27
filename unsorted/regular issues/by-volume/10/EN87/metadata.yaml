@@ -1,0 +1,28 @@
+type: Issue
+name: EN87
+volume: 10
+number: 87
+date: March 1978
+contents:
+    - page: 2
+      title: News and Notes
+      
+    - page: 2
+      title: Reader's Questions
+    
+    - page: 3
+      title: "A Sawtooth-Driven Multi-Phase Waveform Animator: The Synthesis of \"Animated\" Sounds"
+      author: Bernie Hutchins
+      
+    - page: 11
+      title: Minimum Parts Count Synthesizer
+      author: Dave Rossum
+      
+    - page: 17
+      title: Using the Panasonic MN3005 4096 Stage Delay Chip
+      author: Jan Hall
+    
+    - page: 19
+      title: "Reader's Equipment: Guitar Pickup"
+      author: Dale Wills
+

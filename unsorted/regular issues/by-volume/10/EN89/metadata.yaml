@@ -1,0 +1,14 @@
+type: Issue
+name: EN89
+volume: 10
+number: 89
+date: May 1978
+contents:
+    - page: 2
+      title: Reader's Questions
+      
+    - page: 3
+      title: Some Comments on Amplitude Envelopes and Their Extraction
+      author: Bernie Hutchins
+
+

@@ -1,0 +1,432 @@
+AN1	Five-Volt One-Amp Power Supplies for TTL	1976-08-04	“Bernie Hutchins”
+AN2	Bipolar 15 Volt Supplies for Op-Amps	1976-08-11	“Bernie Hutchins”
+AN3	Use of IC Voltage Regulators for Powering Equipment from Car Batteries	1976-08-18	“Bernie Hutchins”
+AN4	Testing and Using LED’s and LED Readouts	1976-08-25	“Bernie Hutchins”
+AN5	Notch Filters for Hum Rejection	1976-09-04	“Bernie Hutchins”
+AN6	Using the 555 Timer as a Monostable	1976-09-11	“Bernie Hutchins”
+AN7	Design of Second-Order Low-Pass Filters	1976-09-18	“Bernie Hutchins”
+AN8	Design of Fourth-Order Low-Pass Filters	1976-09-25	“Bernie Hutchins”
+AN9	Circuits for Detecting Slowly Changing Signals	1976-10-04	“Bernie Hutchins”
+AN10	IC Amplifier Selection Guide	1976-10-11	“Bernie Hutchins”
+AN11	Determining the “Q” of a State-Variable Filter	1976-10-18	“Bernie Hutchins”
+AN12	The Biquad Active Filter Circuit	1976-10-25	“Bernie Hutchins”
+AN13	Equalizers and Tone Controls	1976-11-04	“Bernie Hutchins”
+AN14	How To Actually Build Something Part 1: Parts and Supplies	1976-11-11	“Bernie Hutchins”
+AN15	How To Actually Build Something Part 2: Circuit Boards	1976-11-18	“Bernie Hutchins”
+AN16	How To Actually Build Something Part 3: Soldering In Parts	1976-11-25	“Bernie Hutchins”
+AN17	How To Actually Build Something Part 4: Packaging	1976-12-04	“Bernie Hutchins”
+AN18	How To Actually Build Something Part 5: Miscellaneous Hints	1976-12-11	“Bernie Hutchins”
+AN19	Simple Linear Voltage-Controlled Oscillator	1976-12-18	“Bernie Hutchins”
+AN20	Improving the Linear VCO	1976-12-25	“Bernie Hutchins”
+AN21	Applying the CA3080 OTA	1977-01-04	“Bernie Hutchins”
+AN22	Gain Control Applications of the CA3080	1977-01-11	“Bernie Hutchins”
+AN23	The CA3080 as a Voltage-Controlled Resistor	1977-01-18	“Bernie Hutchins”
+AN24	Overdriven, Saturating, and Switching applications of the CA3080	1977-01-25	“Bernie Hutchins”
+AN25	Low-Q Bandpass Filter	1977-02-04	“Bernie Hutchins”
+AN26	Bandpass Filter Examples	1977-02-11	“Bernie Hutchins”
+AN27	Simple Clocking Oscillators for Digital IC’s	1977-02-18	“Bernie Hutchins”
+AN28	Simple Op-Amp Multivibrator Oscillator	1977-02-25	“Bernie Hutchins”
+AN29	Simple Sine Wave Oscillators	1977-03-05	“Bernie Hutchins”
+AN30	More Clocking Oscillators for Digital IC's	1977-03-11	“Bernie Hutchins”
+AN31	Schmitt Trigger Circuits with IC’s	1977-03-18	“Bernie Hutchins”
+AN32	The 555 as a Collection of Devices	1977-03-25	“Bernie Hutchins”
+AN33	Simple Interface Circuits with CMOS	1977-04-04	“Bernie Hutchins”
+AN34	Delay Line Setup Using the MN3001	1977-04-11	“Bernie Hutchins”
+AN35	Delay Line Setup Using the SAD-1024	1977-04-18	“Bernie Hutchins”
+AN36	Applying Delay Line Evaluation Setups	1977-04-25	“Bernie Hutchins”
+AN37	High-Q Bandpass Filter	1977-05-04	“Bernie Hutchins”
+AN38	High-Q Bandpass Filter Example	1977-05-11	“Bernie Hutchins”
+AN39	Design of Second-Order High-Pass Filters	1977-05-18	“Bernie Hutchins”
+AN40	Design of Fourth-Order High-Pass Filters	1977-05-25	“Bernie Hutchins”
+AN41	Summing Amplifiers	1977-06-04	“Bernie Hutchins”
+AN42	RMS to DC Converters	1977-06-11	“Bernie Hutchins”
+AN43	Selecting Resistors for Given Applications	1977-06-18	“Bernie Hutchins”
+AN44	Selecting Capacitors for Given Applications	1977-06-25	“Bernie Hutchins”
+AN45	Graphical Determination of Frequency Response S-Plane Case	1977-07-04	“Bernie Hutchins”
+AN46	Graphical Determination of Phase Response	1977-07-11	“Bernie Hutchins”
+AN47	Graphical Relationships in the Z-Plane	1977-07-18	“Bernie Hutchins”
+AN48	Z-Plane Graphical Relationships for First-Order Systems	1977-07-25	“Bernie Hutchins”
+AN49	Z-Plane Graphical Relationships: A Second-Order Example	1977-08-04	“Bernie Hutchins”
+AN50	Discrete Time All-Pass Networks	1977-08-11	“Bernie Hutchins”
+AN51	Discrete Time Notch Filters	1977-08-18	“Bernie Hutchins”
+AN52	Relationships for Higher-Order Discrete Time Filters	1977-08-25	“Bernie Hutchins”
+AN53	Graphs for Decibels	1977-09-04	“Bernie Hutchins”
+AN54	A Staircase Wave Generation Technique	1977-09-11	“Bernie Hutchins”
+AN55	R-Filters	1977-09-18	“Bernie Hutchins”
+AN56	R-Filter Method of Op-Amp Frequency Response Testing	1977-09-25	“Bernie Hutchins”
+AN57	Algebra Tricks We Have All Forgotten	1977-10-04	“Bernie Hutchins”
+AN58	Some Hard to Remember Things About Trigonometry	1977-10-11	“Bernie Hutchins”
+AN59	Some Easily Forgotten Things About Complex Numbers	1977-10-18	“Bernie Hutchins”
+AN60	Hyperbolic Functions	1977-10-25	“Bernie Hutchins”
+AN61	Fourier Series Square Wave Example	1977-11-04	“Bernie Hutchins”
+AN62	Low-Passed Square Wave – Time Analysis	1977-11-11	“Bernie Hutchins”
+AN63	Low-Passed Square Wave – Frequency Analysis	1977-11-18	“Bernie Hutchins”
+AN64	Reference Table – Fourier Series	1977-11-25	“Bernie Hutchins”
+AN65	Single Stage Phase Shifters	1977-12-04	“Bernie Hutchins”
+AN66	Lissajous Figures	1977-12-11	“Bernie Hutchins”
+AN67	Simple Triangle-Square Oscillator	1977-12-18	“Bernie Hutchins”
+AN68	Analog Multipliers	1977-12-25	“Bernie Hutchins”
+AN69	Additional Analog Multipliers	1978-01-04	“Chuck Rogers, CFR Associates, Newton NH”
+AN70	Signal Splitting Networks	1978-01-11	“Seamour Solutions”
+AN71	Multi-Mode Filter Based on First-Order Low-Pass	1978-01-18	“Bernie Hutchins”
+AN72	The Twin-T Filter	1978-01-25	“Bernie Hutchins”
+AN73	Multi-Phase Scanning with Sawtooth Waveforms	1978-02-04	“Lester Ludwig”, “Bernie Hutchins”
+AN74	Mathematical Factoring	1978-02-11	“Bernie Hutchins”
+AN75	Designing Butterworth Filters without Data	1978-02-18	“Bernie Hutchins”
+AN76	Graphical Methods for Chebyshev Pole Placement	1978-02-25	“Bernie Hutchins”
+AN77	TI-58/59 Program for |T(s)|	1978-03-04	“Bernie Hutchins”
+AN78	TI-58/59 Program for |H(Z)|	1978-03-11	“Bernie Hutchins”
+AN79	Some Simple Sawtooth Wave Generators	1978-03-18	“Bernie Hutchins”
+AN80	Handling and Application Precautions for FET Input Op-Amps	1978-03-25	“Bernie Hutchins”
+AN81	TI-59 Program for High-Ripple Chebyshev Poles	1978-04-04	“Bernie Hutchins”
+AN82	Data for High-Ripple Chebyshev Filters	1978-04-11	“Bernie Hutchins”
+AN83	Alarm Circuit	1978-04-18	“Bernie Hutchins”
+AN84	Reference Levels For Decibels	1978-04-25	“Seamour Solutions”
+AN85	Measuring Op-Amp Parameters: Open-Loop Gain	1978-05-04	“Bernie Hutchins”
+AN86	Measuring Op-Amp Parameters: Input Error Values	1978-05-11	“Bernie Hutchins”
+AN87	Measuring Op-Amp Parameters: Output Drive Limitations	1978-05-18	“Bernie Hutchins”
+AN88	Measuring Op-Amp Parameters: Input Resistance, CMRR	1978-05-25	“Bernie Hutchins”
+AN89	Measuring Op-Amp Parameters: Bandwidth Limitations	1978-06-04	“Bernie Hutchins”
+AN90	Resonant Peaking in Second-Order Filters	1978-06-11	“Bernie Hutchins”
+AN91	DC Gain of State-Variable Filters	1978-06-18	“Bernie Hutchins”
+AN92	Three Ways to Partial Fractions	1978-06-25	“Bernie Hutchins”
+AN93	Logic Decisions with Op-Amps	1978-07-04	“Bernie Hutchins”
+AN94	N or More of M – Op-Amp Logic	1978-07-11	“Bernie Hutchins”
+AN95	AC Amplifiers with Op-Amps	1978-07-18	“Bernie Hutchins”
+AN96	TI-59 Program for 90° Phase-Difference Networks	1978-07-25	“Mark Swartwout”
+AN97	The Transferable Power Supply	1978-08-04	“Bernie Hutchins”
+AN98	IC Regulators for Small Bench Supplies	1978-08-11	“Bernie Hutchins”
+AN99	TI-59 Program for the “Deliyannis” Bandpass Filter	1978-08-18	“Bernie Hutchins”
+AN100	Op-Amp Selection Guide – 1978	1978-08-25	“Bernie Hutchins”
+AN101	Delay Line Setup with MN3003	1978-09-04	“Bernie Hutchins”
+AN102	Bipolar Summing Control with One Pot	1978-09-11	“Bernie Hutchins”
+AN103	Second-Order Step Response	1978-09-18	“Bernie Hutchins”
+AN104	A Hidden Bandpass Decoupling Stage	1978-09-25	“Bernie Hutchins”
+AN105	Considerations for Bilinear Z-Transformed Delay Line Networks	1978-10-04	“Bernie Hutchins”
+AN106	Current Mirrors	1978-10-11	“Bernie Hutchins”
+AN107	Matched Filters for Sequence Detection	1978-10-18	“Bernie Hutchins”
+AN108	Series Expansions (Where Calculators Fear to Tread)	1978-10-25	“Bernie Hutchins”
+AN109	Taylor Series Expansion	1978-11-05	“Bernie Hutchins”
+AN110	Some Useful Series Expansions	1978-11-11	“Bernie Hutchins”
+AN111	TI-59 Program for Bessel Functions	1978-11-18	“Bernie Hutchins”
+AN112	Differential and Buffered-Differential Amplifiers	1978-11-25	“Bernie Hutchins”
+AN113	Biquadratic Functions with State-Variable Filters	1978-12-05	“Bernie Hutchins”
+AN114	A Frequency-to-Voltage Converter	1978-12-11	“Bernie Hutchins”
+AN115	Triangle-to-Sine Converters Using Nonlinear Shapers	1978-12-18	“Bernie Hutchins”
+AN116	Triangle-to-Sine Conversion Based on Power Series	1978-12-25	“Bernie Hutchins”
+AN117			
+AN118			
+AN119			
+AN120			
+AN121	A State-Variable Configuration with Constant Peak Response	1979-02-05	“Bernie Hutchins”
+AN122			
+AN123			
+AN124			
+AN125			
+AN126			
+AN127			
+AN128			
+AN129			
+AN130			
+AN131			
+AN132			
+AN133			
+AN134			
+AN135			
+AN136			
+AN137			
+AN138			
+AN139			
+AN140			
+AN141			
+AN142			
+AN143			
+AN144			
+AN145			
+AN146			
+AN147			
+AN148			
+AN149			
+AN150			
+AN151			
+AN152			
+AN153			
+AN154			
+AN155			
+AN156			
+AN157			
+AN158			
+AN159			
+AN160	Efficient Calculation of the Fourier Series of Rectangular Functions	1980-01-11	“Bernie Hutchins”
+AN161			
+AN162			
+AN163			
+AN164			
+AN165			
+AN166			
+AN167	90° Phase-Difference Networks: Second-Order All-Pass Networks part 1	1980-03-11	“Bernie Hutchins”
+AN168	90° Phase-Difference Networks: Second-Order All-Pass Networks part 2	1980-03-18	“Bernie Hutchins”
+AN169	90° Phase-Difference Networks: Second-Order All-Pass Networks part 3	1980-03-25	“Bernie Hutchins”
+AN170	90° Phase-Difference Networks: Second-Order All-Pass Networks part 4	1980-04-05	“Bernie Hutchins”
+AN171			
+AN172			
+AN173			
+AN174			
+AN175			
+AN176			
+AN177			
+AN178			
+AN179			
+AN180			
+AN181			
+AN182			
+AN183			
+AN184			
+AN185			
+AN186			
+AN187			
+AN188			
+AN189			
+AN190			
+AN191			
+AN192			
+AN193			
+AN194	Simple Shelving Equalizer	1980-11-04	“Bernie Hutchins”
+AN195			
+AN196			
+AN197			
+AN198			
+AN199			
+AN200	Some Simple Good Design Ideas	1980-12-25	“Bernie Hutchins”
+AN201			
+AN202			
+AN203			
+AN204			
+AN205			
+AN206			
+AN207			
+AN208			
+AN209			
+AN210			
+AN211			
+AN212			
+AN213			
+AN214			
+AN215			
+AN216			
+AN217			
+AN218			
+AN219			
+AN220			
+AN221			
+AN222			
+AN223			
+AN224			
+AN225			
+AN226			
+AN227			
+AN228			
+AN229			
+AN230			
+AN231			
+AN232			
+AN233			
+AN234			
+AN235			
+AN236			
+AN237			
+AN238			
+AN239			
+AN240			
+AN241			
+AN242			
+AN243			
+AN244			
+AN245			
+AN246			
+AN247			
+AN248			
+AN249			
+AN250			
+AN251			
+AN252			
+AN253			
+AN254			
+AN255			
+AN256	TI-59 Program for |T(s)| Without Factoring	1982-07-20	“Bernie Hutchins”
+AN257			
+AN258			
+AN259			
+AN260			
+AN261			
+AN262			
+AN263			
+AN264			
+AN265			
+AN266			
+AN267			
+AN268			
+AN269			
+AN270			
+AN271	Frequency Response of Bandpass Filter	1983-02-15	“Bernie Hutchins”
+AN272			
+AN273			
+AN274			
+AN275			
+AN276			
+AN277			
+AN278			
+AN279			
+AN280			
+AN281			
+AN282			
+AN283			
+AN284			
+AN285			
+AN286			
+AN287			
+AN288			
+AN289			
+AN290			
+AN291			
+AN292			
+AN293			
+AN294			
+AN295			
+AN296			
+AN297			
+AN298			
+AN299			
+AN300			
+AN301			
+AN302			
+AN303			
+AN304			
+AN305			
+AN306			
+AN307			
+AN308			
+AN309			
+AN310			
+AN311			
+AN312	An Intuitive Approach to FFT Algorithms	1990-12-01	“Bernie Hutchins”
+AN313			
+AN314			
+AN315			
+AN316			
+AN317	Polynomial Fitting for Sample-Rate Changing at Rational and Irrational Frequency Ratios	1992-01-01	“Bernie Hutchins”
+AN318	Time Domain Least Squared Low-Pass Filters	1992-02-01	“Bernie Hutchins”
+AN319			
+AN320			
+AN321			
+AN322			
+AN323			
+AN324			
+AN325			
+AN326			
+AN327			
+AN328			
+AN329			
+AN330			
+AN331			
+AN332			
+AN333	Design and Applications of Inverse Chebyshev Filters	1995-10-01	“Bernie Hutchins”
+AN334	Design and Applications of Elliptic Filters	1995-11-01	“Bernie Hutchins”
+AN335	Low-Pass to High-Pass Transformations: Analog and Digital Approaches	1995-12-01	“Bernie Hutchins”
+AN336	Low-Pass to Band-Pass Transformations: Analog and Digital Approaches	1996-01-01	“Bernie Hutchins”
+AN337	A General Review of Frequency-Sampling Design	1996-03-01	“Bernie Hutchins”
+AN338			
+AN339			
+AN340			
+AN341			
+AN342			
+AN343			
+AN344			
+AN345	Improved Signal to Noise Ratio with First-Order Noise Shaping: An Example	1997-10-01	“Bernie Hutchins”
+AN346			
+AN347			
+AN348	Contrasting Sinewave Generation in the Analog and Digital Cases	1998-07-01	“Bernie Hutchins”
+AN349	Two-Pole vs. Four-Pole Filters: The Issues	1998-08-01	“Bernie Hutchins”
+AN350	Linear Phase - The Term Taken Outside	1998-11-01	“Bernie Hutchins”
+AN351	Cascading Discrete and Continuous Holds	2000-09-01	“Bernie Hutchins”
+AN352	Phase Errors, Amplitude Errors, and Unwanted Sidebands in Frequency Shifters	2002-05-01	“Bernie Hutchins”
+AN353	A Note on the Gain and Time Constant of Integrators	2003-03-01	“Bernie Hutchins”
+AN354	A Simple (Simplest?) Side-Tracking Filter	2003-05-01	“Bernie Hutchins”
+AN355	Envelope Extraction with the Hilbert Transform	2003-10-01	“Bernie Hutchins”
+AN356	Spectral Recovery for a Class of Non-Uniform ("Bunched") Sampling	2003-10-01	“Bernie Hutchins”
+AN357	Considerations for a Noise Ordinance	2003-11-01	“Bernie Hutchins”
+AN358	Example Perfect Reconstruction Filters	2004-06-01	“Bernie Hutchins”
+AN359	DFT Length Conversion	2004-07-01	“Bernie Hutchins”
+AN360	Flat and Not-So-Flat Spectra	2004-08-01	“Bernie Hutchins”
+AN361	Passive Sensitivities and Tuning Equations	2005-05-15	“Bernie Hutchins”
+AN362	Customized Hamming Window with Filter Design Applications	2005-12-01	“Bernie Hutchins”
+AN363	Calculating the Bit-Saving Achieved with Noise-Shaping	2006-03-01	“Bernie Hutchins”
+AN364	Fourier Series and DFT	2006-04-05	“Bernie Hutchins”
+AN365	Frequency Analysis/Resolution with Few Samples	2006-04-15	“Bernie Hutchins”
+AN366	Unfiltering - Equalization	2006-05-01	“Bernie Hutchins”
+AN367	Some Comments on Fixed-Point Digital Oscillator Design	2006-06-01	“Bernie Hutchins”
+AN368	Interpolation with a Minimum Norm Polynomial	2006-12-01	“Bernie Hutchins”
+AN369	Two Dimensional Uniform Sampling	2007-02-01	“Bernie Hutchins”
+AN370	Lifting- A Third Approach to Wavelets	2007-03-01	“Bernie Hutchins”
+AN371	A 2D Wavelet Lifting Example	2007-04-01	“Bernie Hutchins”
+AN372	Interpolation Error in Sinewave Tables	2008-01-01	“Bernie Hutchins”
+AN373	Interpretation of DFT as One Frequency Sinusoidal Waveforms	2009-02-01	“Bernie Hutchins”
+AN374	A View of Linear Frequency Invariant Systems	2010-08-01	“Bernie Hutchins”
+AN375	Moving Averages and Single Sinewave Cycles	2011-11-01	“Bernie Hutchins”
+AN376	Interpolation of Samples on a Square Lattice	2011-12-01	“Bernie Hutchins”
+AN377	False Ideas About Random Sequences	2012-02-01	“Bernie Hutchins”
+AN378	A Program for a Flat White Noise	2012-03-01	“Bernie Hutchins”
+AN379	Fun Plotting Your Own Global Warming Curves	2012-07-01	“Bernie Hutchins”
+AN380	Fun with Lighting Switches- Simple but Sometimes Frustrating	2012-08-05	“Bernie Hutchins”
+AN381	A Fun Analysis- Instrumentation Amplifier	2012-08-10	“Bernie Hutchins”
+AN382	Fun with Ohm's Law Maximum Power Transfer	2012-08-20	“Bernie Hutchins”
+AN383	A Fun Problem Don Lancaster Dropped on Us Years Ago	2012-08-25	“Bernie Hutchins”
+AN384	Fun with Red Noise	2012-09-01	“Bernie Hutchins”
+AN385	Looking at Principal Component Analysis	2012-09-05	“Bernie Hutchins”
+AN386	Fun with a Round Earth	2012-10-01	“Bernie Hutchins”
+AN387	Fun with FFT Timing	2012-10-10	“Bernie Hutchins”
+AN388	Fun with Survey Maps	2012-11-01	“Bernie Hutchins”
+AN389	Fun with Probability Puzzles 1- The Monty Hall Problem	2012-11-15	“Bernie Hutchins”
+AN390	Fun with Probability Puzzles 2- False Positives	2012-11-20	“Bernie Hutchins”
+AN391	Fun with Probability Puzzles 3- The Girl Named Florida	2012-11-25	“Bernie Hutchins”
+AN392	Fun with Reverend Bayes- An Overview	2012-12-05	“Bernie Hutchins”
+AN393	The Bayes Equation Denominator	2012-12-10	“Bernie Hutchins”
+AN394	Node Voltages by Superposition	2013-01-20	“Bernie Hutchins”
+AN395	Averaging- and Endpoint Garbage	2013-03-30	“Bernie Hutchins”
+AN396	Controlling a Low-Pass Peak Gain	2013-06-05	“Bernie Hutchins”
+AN397	Clipping: Friend or Foe?	2013-06-15	“Bernie Hutchins”
+AN398	A Short Presentation of FFT (DFT) Interpolation	2013-07-20	“Bernie Hutchins”
+AN399	The "Jung Trick" Applied to a Dual OTA	2013-09-13	“Bernie Hutchins”
+AN400	Square-Roots by Hand	2013-12-05	“Bernie Hutchins”
+AN401	Yearly Moving Averages as FIR Filters	2013-12-22	“Bernie Hutchins”
+AN402	Anomalies in Pseudo-Random Generators	2014-01-10	“Bernie Hutchins”
+AN403	Spurious Correlations Due to Filtering (of Noise)	2014-01-27	“Bernie Hutchins”
+AN404	Savitzky-Golay Smoothing	2014-02-13	“Bernie Hutchins”
+AN405	Removing "Outliers" from Averaging	2014-02-22	“Bernie Hutchins”
+AN406	Wiener Alternative to LMS Algorithm	2014-03-15	“Bernie Hutchins”
+AN407	Inverting a Moving Average Operation	2014-03-30	“Bernie Hutchins”
+AN408	Examples of Inverting of Smoothers	2014-04-05	“Bernie Hutchins”
+AN409	Changing the Moving Average Length- A Recipe	2014-04-06	“Bernie Hutchins”
+AN410	Fourier Map	2014-05-06	“Bernie Hutchins”
+AN411	DTFT and Fourier Series: N Equations in N Unknowns	2014-05-20	“Bernie Hutchins”
+AN412	More Fun with Red Noise	2014-05-25	“Bernie Hutchins”
+AN413	Notch Filtering- Some Notes	2014-07-30	“Bernie Hutchins”
+AN414	Step Response from Laplace Transform	2014-08-15	“Bernie Hutchins”
+AN415	Do Random Sequences Need "Improving"?	2014-11-01	“Bernie Hutchins”
+AN416	More Concerning Non-Flat Random FFT	2014-11-07	“Bernie Hutchins”
+AN417	Time Domain Weighted Least Squares	2014-11-22	“Bernie Hutchins”
+AN418	Fitting a Line to a Fixed Error Criteria	2014-12-10	“Bernie Hutchins”
+AN419	Finding Chebyshev Polynomials	2014-12-25	“Bernie Hutchins”
+AN420	Chebyshev as a Filter Characteristic	2014-12-31	“Bernie Hutchins”
+AN421	MATLAB Programs for Chebyshev	2015-01-07	“Bernie Hutchins”
+AN422	Notch Filter as a "Washed-Out" Comb	2015-03-06	“Bernie Hutchins”
+AN423	Exponential Decay- Continuous and Discrete	2015-04-27	“Bernie Hutchins”
+AN424	"Cycle-11": In Time, Frequency, and Period	2015-08-30	“Bernie Hutchins”
+AN425	Inverting a DTFT?	2015-10-10	“Bernie Hutchins”
+AN426	A DFT Curiosity - Investigating Bottom Up	2015-11-15	“Bernie Hutchins”
+AN427	Tweaking a VCO with Minmal Equipment	2016-03-01	“Bernie Hutchins”
+AN428	Why No Range-Switch with Hearing?	2016-07-10	“Bernie Hutchins”
+AN429	Cascading Voltage Dividers- and Friends	2016-08-01	“Bernie Hutchins”
+AN430	Feedback and Sensitivity	2016-09-27	“Bernie Hutchins”
+AN431	Audio Volume Controls	2017-03-06	“Bernie Hutchins”
+AN432	Simplified Digital Notch Filter Design	2017-08-03	“Bernie Hutchins”

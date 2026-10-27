@@ -1,0 +1,27 @@
+type: Issue
+name: EN91
+volume: 10
+number: 91
+date: July 1978
+contents:
+    - page: 2
+      title: News and Notes
+
+    - page: 2
+      title: Reader's Questions
+
+    - page: 3
+      title: Review of Home-Built Equipment Options - or, What's in the Preferred Circuits Collection
+      author: Bernie Hutchins
+
+    - page: 13
+      title: A Few Remarks on Current Tendencies in Synthesized Music
+      author: R. Bruce Elder
+
+    - page: 16
+      title: Additional Notes on Bandpass Filters
+      author: Bernie Hutchins
+
+    - page: 20
+      title: A Sourcelist on Pitch Extraction - 1978
+

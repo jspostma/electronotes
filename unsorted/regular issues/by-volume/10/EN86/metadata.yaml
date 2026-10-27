@@ -1,0 +1,25 @@
+type: Issue
+name: EN86
+volume: 10
+number: 86
+date: February 1978
+contents:
+    - page: 2
+      title: Forum
+    
+    - page: 5
+      title: "Reader's Questions"
+    
+    - page: 7
+      title: "A Gate-Driven, Second-Order, Envelope-Transient Generator"
+      author: Bernie Hutchins
+    
+    - page: 14
+      title: "Woodwind Type Controller for Synthesizer - Part I; Electronic Mouthpiece"
+      author: Ian Fritz
+      
+    - page: 20
+      title: "One Chip Envelope, Gate, and Trigger Extractor"
+      author: Robert Iodice
+
+      

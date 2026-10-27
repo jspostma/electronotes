@@ -1,0 +1,18 @@
+type: issue
+name: EN
+volume: 
+number: 
+date: 
+contents:
+  - page: 1
+    title: "Group Announcements"
+
+  - page: 0
+    title: "An Article"
+    author: "John Doe"
+
+  - page: 0
+    title: "Another Article"
+    authors:
+      - "Bob"
+      - "Mary"

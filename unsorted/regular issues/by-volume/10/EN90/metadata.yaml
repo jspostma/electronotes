@@ -1,0 +1,24 @@
+type: Issue
+name: EN90
+volume: 10
+number: 90
+date: June 1978
+contents:
+    - page: 2
+      title: News and Notes
+      
+    - page: 2
+      title: Reader's Questions
+      
+    - page: 3
+      title: How I Make My P.C. Boards in a Matter of a Few Hours
+      author: Bernie Hutchins
+      
+    - page: 6
+      title: "A High-Ripple VCF for Waveform Animation: The Synthesis of \"Animated\" Sounds - Part 2"
+      author: Bernie Hutchins
+      
+    - page: 18
+      title: Record Reviews
+      author: Craig Anderton
+

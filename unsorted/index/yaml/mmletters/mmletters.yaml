@@ -1,0 +1,105 @@
+70-A:
+    number: -1
+    date: 1976-11-20
+    title: ''
+72-A:
+    number: 0
+    date: 1976-12-20
+    title: 'More on the Ringing Bandpass'
+73-A:
+    number: 1
+    date: 1977-01-20
+    title: 'Generalized Resonators'
+74-A:
+    number: 2
+    date: 1977-02-20
+    title: 'Digital Applications'
+75-A:
+    number: 3
+    date: 1977-03-20
+    title: 'On Middle-Length Pseudo-Random Sequences'
+76-A:
+    number: 4
+    date: 1977-04-20
+    title: 'Does Analog Synthesis Have a Future?'
+77-A:
+    number: 5
+    date: 1977-05-20
+    title: 'Transconductance-Controlled Networks'
+78-A:
+    number: 6
+    date: 1977-06-20
+    title: ''
+79-A:
+    number: 7
+    date: 1977-07-20
+    title: 'Discrete Time All-Pass Networks'
+80-A:
+    number: 8
+    date: 1977-08-20
+    title: ''
+81-A:
+    number: 9
+    date: 1977-09-20
+    title: 'Some Random Comments About Small Electronic Music Businesses'
+82-A:
+    number: 10
+    date: 1976-10-20
+    title: ''
+83-A:
+    number: 11
+    date: 1976-11-20
+    title: 'The Fall 1977 Audio Engineering Convention - Electronic Music Session'
+84-A:
+    number: 12
+    date: 1977-12-20
+    title: '(Vision and Sound Relationships)'
+85-A:
+    number: 13
+    date: 1978-01-20
+    title: 'Self-Heating of Q81 Resistors'
+86-A:
+    number: 14
+    date: 1978-02-20
+    title: 'A Waveform Animating Device'
+87-A:
+    number: 15
+    date: 1978-03-20
+    title: 'High-End Compensation of Exponential Converters'
+88-A:
+    number: 16
+    date: 1978-04-20
+    title: 'The Spectrum of Fluctuating Musical Parameters'
+89-A:
+    number: 17
+    date: 1978-05-20
+    title: "Learning from Things the Don't Work as Well, and More on the MPWA"
+90-A:
+    number: 18
+    date: 1978-06-20
+    title: 'Concerning the Common Ground Between Music and Speech Synthesis'
+91-A:
+    number: 19
+    date: 1978-07-20
+    title: 'Two Types of Four-Phase Envelope Generator'
+92-A:
+    number: 20
+    date: 1978-08-20
+    title: 'The Vosim Synthesis System-- A Generalized Resonator'
+93-A:
+    number: 21
+    date: 1978-09-20
+    title: 'Formant Equalization as a Method of Preprocessing for Pitch Extraction'
+94-A:
+    number: 22
+    date: 1978-10-20
+    title: 'Matched Filtering of Pseudo-Random Sequences'
+95-A:
+    number: 23
+    date: 1978-11-20
+    title: 'Coupled Resonators for Music Synthesis and Sound Animation'
+96-A:
+    number: 24
+    date: 1978-12-20
+    title: 'Simple Controllers for Playing notes "in the Cracks"'
+

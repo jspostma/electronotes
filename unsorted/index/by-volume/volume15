@@ -1,0 +1,40 @@
+Volume 15 (July 1983 - December 1987)
+
+EN#	151	01	Reader's Questions: Digital All-Pass Filters, FIR Poles
+EN#	151	03	Guide To Digital Filter Network Design - Chapter 5: Design Of IIR Filters
+EN#	151	29	A Possible Mechanism For Electronic Tuning Of Hair Cells In The Ear
+ 
+EN#	155	01	Reader's Questions: Substitute Parts, Imperfect Harmonics
+EN#	155	03	Review Of Fourier Methods In Signal Processing And Musical Engineering:
+EN#	155	03	Definition And Notation
+EN#	155	04	Complex Numbers
+EN#	155	05	The Trigonometric Fourier Series
+EN#	155	06	The Complex Fourier Series
+EN#	155	07	Example Using TFS And CFS
+EN#	155	10	Side Trip To Fourier Transform
+EN#	155	13	Fourier Series As A Sampled Fourier Transform
+EN#	155	17	Complex Fourier Series Of A Piecewise Constant Waveform
+EN#	155	19	Discrete Fourier Transform And It's Inverse
+EN#	155	21	Interpretation Of The DFT Equation
+EN#	155	22	Evaluation Of The DFT And IDFT
+EN#	155	27	The Fast Fourier Transform
+EN#	155	35	Spectral Analysis With The DFT/FFT
+EN#	155	41	Refinement And Subtle Points Of The FFT Spectral Analysis
+EN#	155	46	The FFT Route To Convolution Of Sequences
+EN#	155	49	Signal Synthesis Using Inverse DFT/FFT
+
+EN#	161	02	Cautions On Waveforms And Spectra
+EN#	161	03	Harmonics Of harmonicas [David Staver]
+EN#	161	11	Build A Precision Clock Controller [Thomas Henry]
+EN#	161	18	On The Implementation Of Variable Digital Filters With Fixed Clock Rate
+
+EN#	164	01	Readers Questions - Microphone Amplifiers
+EN#	164	03	Interpolation, Decimation And Prediction Of Digital Signals
+EN#	164	47	Compensation Of Linear Circuit Blocks For the Effects Of Real Operational Amplifiers
+EN#	164	66	Another (Easier) Way Of Understanding The Hilbert Transform Based Pitch Extractor
+EN#	164	68	Book Reviews
+EN#	164	70	A Four-Pole Variable Digital Filter With Fixed Clock Rate [B. Hutchins & Eric Multanen]
+EN#	164	79	Some Comments On Digital Sampling Instruments
+
+EN#	168	03	Design of Wideband Analogue 90' Phase Differencing Networks WithoutLarge Spread Of Capacitor Values
+EN#	168	10	Corrections Of Interpolation, Decimation And Prediction Of Digital Signals

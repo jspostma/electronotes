@@ -1,0 +1,37 @@
+As originally posted, there were two errors in the description that accompanied Fig. 8.
+
+This is corrected as of July 13, 2012.
+
+The original description said that the condition was that w(20) OR w(19) was to be
+greater than the mean of w(1:20)-0.25, and the original Fig. 8 said the plot was for
+w(20) OR w(19) greater than the mean of w(1:16)-0.25.  The actual program used was
+for w(20) AND w(19) greater than mean(w)-0.25 (greater than about 0.25). So there were two 
+discrepencies: the AND condition and the sequence length for the computed mean. I had 
+about eight versions of the program as listed!  It was the cascade of the "if" statements
+(as in the published program in EN#211) that effectively caused the AND instead of an OR.    
+
+
+Below is new Matlab code written (fresh) in a SIMPLER way to serve as a retest.
+
+
+% retest.m
+numgood=0;
+av=zeros(1,20);
+for k=1:1000
+   w = rand(1,20);
+   t=0;
+   m=mean(w);
+   if w(20)>(m-0.25); t=t+1; end
+   if w(19)>(m-0.25); t=t+1; end
+   if t>1                         % i.e., if t=2       
+      numgood=numgood+1;
+      av=av+w;
+   end
+end
+
+numgood
+figure(1)
+av=av/numgood;
+plot(av)
+axis([-2 22 -.1 1.1])
+ 

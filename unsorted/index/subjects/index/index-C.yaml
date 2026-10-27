@@ -1,0 +1,278 @@
+CA3080 Applications:
+    items:
+      - EN63: 3
+      - EN75-A: 2
+      - AN-21
+      - AN-22
+      - AN-23
+      - AN-24
+      - MEH: 3b
+      - MEH: 5c
+
+CA3140 Applications:
+    items:
+      - EN69: 13
+
+Calculator Programs:
+    items:
+      - AN-77
+      - AN-78
+      - AN-81
+      - AN-96
+      - AN-99
+      - AN-103
+      - AN-111
+
+Calibration:
+    items:
+      - EN39: 10
+
+Capacitor Selection:
+    items:
+      - AN-44
+
+Capture Wheel Tone Generator:
+    items:
+      - EN76: 10
+      - S-014: 6
+
+Cascaded Monostable Generalized Resonator:
+    items:
+      - EN93: 18
+
+Cascaded Sample-and-Hold:
+    items:
+      - EN61: 13
+
+Cauer Filter:
+    items:
+      - EN78: 22
+
+CCD:
+    see: Charge-Coupled Devices
+
+Center Clipping:
+    items:
+      - EN53: 10
+
+Cepstrum:
+    items:
+      - EN53: 8
+
+Chalk Squeak:
+    items:
+      - EN72-A: 2
+
+Chance Elements:
+    items:
+      - S-011: CMEG-5
+    see also: items relating to noise and random
+
+Characteristic of a Filter:
+    items:
+      - S-016: Ch.4
+
+Charge-Coupled Devices:
+    items:
+      - EN56: 5
+      - S-014: 8
+
+Chebyshev Filters:
+    items:
+      - S-016: Ch. 4
+      - S-016: Ch. 5
+      - AN-76
+
+Chebyshev Filters (High Ripple):
+    items:
+      - AN-81
+      - AN-82
+      - EN-90: 7
+      - AN-76
+
+Chebyshev Polynomials for Non-Linear Methods:
+    items:
+      - EN68: 5
+
+Chirp-Z Transform:
+    items:
+      - S-015: 10
+      - S-014: 12
+
+Chord Playing:
+    items:
+      - EN57: 2
+
+Circuit Boards:
+    items:
+      - EN74: 6
+      - EN83: 3
+    see also: printed circuit boards, construction
+
+Clarinet Pitch Extractor:
+    items:
+      - EN81: 3
+
+Clipper (Variable):
+    items:
+      - EN88: 27
+
+Clipper (Voltage-Controlled):
+    items:
+      - EN69: 16
+
+CMGR:
+    items:
+      - EN93: 18
+
+CMOS:
+    items:
+      - MEH: 3g
+
+Color Code (Resistor):
+    items:
+      - MEH: 9b
+
+Color Vision Related to Pitch Perception:
+    items:
+      - EN84-A: 1
+
+Comb Filters:
+    items:
+      - EN56: 8
+      - EN77: 13
+      - EN86-A: 1
+      - AN-48
+      - S-016: Ch. 8
+      - MEH: 6c
+
+Combination Tones:
+    items:
+      - EN93: 6
+
+Communication Between Musicians and Engineers:
+    items:
+      - MEH: 1f
+
+Compensation of Exponential Converters:
+    see: High-End Compensation
+
+Complex Numbers:
+    items:
+      - AN-59
+
+Component Sources:
+    items:
+      - EN85: 18
+
+Computer Methods:
+    items:
+      - EN42: 1
+      - EN43: 9
+      - MEH: 1a
+
+Computer Music / Signal Processing Comments and Reviews:
+    items:
+      - EN82-A: 1
+      - S-017: LE-9
+
+Computers:
+    items:
+      - EN60: 14
+    see also: microprocessors
+
+Configuration of a Filter:
+    items:
+      - S-016: Ch. 4
+    
+Constant Bandwidth Filter:
+    items:
+      - AN-12
+
+Construction Techniques:
+    items:
+      - EN87: 20
+      - EN90: 3
+      - AN-14
+      - AN-15
+      - AN-16
+      - AN-17
+      - AN-18
+      - MEH: 8b
+
+Control:
+    items:
+      - MEH: 1b
+      - MEH: 2d
+
+Control Surface:
+    items:
+      - EN79: 7
+
+Control Voltage Scaling:
+    items:
+      - EN85: 22
+
+Controllers:
+    items:
+      - S-011: CMEG-6 (Electric Clothespin)
+      - S-011: CMEG-6 (joysticks)
+      - MEH: 7a
+      - EN96-A: 1 (just-tempered)
+      - EN86: 14 (woodwind)
+      - EN88: 3 (woodwind)
+      - EN84: 15 (oral joystick)
+    see also: keyboards, ribbon controllers, etc
+
+Conversion +/-5V to +/-10V:
+    items:
+      - EN67: 7
+
+Convolution:
+    items:
+      - EN74: 9
+      - MEH: 1d
+
+Convolution, Noise Distribution:
+    items:
+      - EN64: 16
+
+Cookbooks (Listing):
+    items:
+      - EN74: 9
+
+Corner Peaking:
+    items:
+      - EN85: 5
+      - AN-90
+
+Correlators:
+    items:
+      - EN56
+
+Coupled Resonators:
+    items:
+      - EN95-A: 1
+
+Crowbars (For Power Supply Protection):
+    items:
+      - EN47: 17
+      - MEH: 5j
+
+Current Differencing Amplifiers:
+    items:
+      - MEH: 3c
+
+Current Mirrors:
+    items:
+      - AN-106
+      - MEH: 5d
+
+Current Switch:
+    items:
+      - AN-24
+
+CZT:
+    items:
+      - S-015: 10
+      - S-014: 12

@@ -1,0 +1,24 @@
+type: issue
+name: EN8
+volume: 1
+number: 8
+contents:
+  - page: 2
+    title: "Fourier Analysis"
+
+  - page: 4
+    title: "Reader's Equipment: VCO, Melody Generator"
+
+  - page: 5
+    title: "Composition"
+
+  - page: 6
+    title: "Literature Review"
+
+  - page: 7
+    title: "Theory Of Hearing 1: An Experiment"
+
+  - page: 8
+    title: "Experimenting With The NE566"
+    author: "Craig Anderton"
+

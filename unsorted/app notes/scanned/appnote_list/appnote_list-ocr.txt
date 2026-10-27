@@ -1,0 +1,902 @@
+AN-59
+
+Some
+
+AN-63
+AN-64
+
+Low-Passed Square Wave - Frequency
+Reference Table - Fourier Series
+
+AN-60
+AN-61
+AN-62
+
+Easily
+
+Forgotten
+
+Things
+
+AN-65
+AN-66
+
+Single-Stage Phase
+Lissajous Figures
+
+AN-67
+AN-68
+
+Simple
+Analog
+
+*
+
+x
+
+FILTERS:
+low-Pas
+ow-Pass
+Low-Pass
+
+ond
+2nd
+4th
+
+*
+
+x
+
+High-Pass
+-
+
+Bandnass
+Bandpass
+
+- High-Q
+- High-Q
+
+- Low-Q
+
+Filters
+
+Equalizers,
+
+Tone
+
+State-Variable,
+
+Biquad
+~
+
+*
+
+AN-7
+AN-8
+
+AN -39
+
+Examples
+Examples
+Controls
+
+Q of
+
+rs
+
+Chase
+
+VCO
+
+VCO
+
+Wave
+
+Op-Amp
+
+Oscillators
+
+Multivibrator
+
+Tri-Square
+
+TIMER
+
+APPLICATIONS:
+555
+555
+
+POWER
+
+as
+as
+
+Osc.
+
+,
+
+CA3080
+
+Misc.
+IC
+
+CA3080
+
+DELAY
+
+CA3080
+
+Control.
+
+CA3080
+
+Res.
+
+Applications
+
+LINE
+
+AN-13
+AN-11
+
+APPLICATIONS
+
+Tricks
+
+Number
+
+Complex
+
+AN-53
+
+|
+
+AN-57
+
+Tricks
+
+AN-59
+
+Tricks
+
+AN-58
+
+Functions
+
+ourier Series, Sq. Wave
+LP Square Wave - Time
+Wave
+
+Square
+
+Series
+
+Fourier
+
+NETWORK THEORY
+
+AN-65
+
+Graphical
+
+AN-20
+
+AN-27
+AN-30
+
+AN-29
+
+AN-6
+AN-32
+
+2
+AN-3
+
+AN-2]
+
+AN-22
+
+AN-23
+
+AN-24
+
+AN-34
+
+Applying
+
+AN-36
+
+os
+
+Delay
+
+for Decibels
+
+MN e
+
+Delay Line With MN3001
+e
+
+xe
+
+Freq.
+
+Graphical
+
+Frequency
+
+-
+
+Tables
+
+Response
+
+Phase
+
+Response
+
+Z-Plane,
+
+2nd Order
+
+All-Pass,
+
+Discrete
+
+CONSTRUCTION,
+
+AN-63
+
+AN-65
+
+AN-45
+
+AN-46
+
+Nee
+
+AN-49
+
+Time
+
+Notch, Discrete Time
+Discrete Time, High Order
+DESIGN,
+
+AN-60
+
+AN-6]
+AN-62
+
+AN-50
+
+AN-51
+AN-52
+
+TESTING:
+
+IC Amplifier Selection
+Parts and Supplies
+
+AN-10
+AN-14
+
+Circuit Boards
+Soldering In Parts
+Packaging
+Misc. Construction
+
+Hints
+
+AN-15
+AN-16
+AN-17
+AN-18
+
+Selecting Capacitors
+Op-Amp Testing, R-Filter
+Lissajous Figures
+
+AN-44
+AN-56
+AN-66
+
+Selecting
+
+Resistors
+
+AN-43
+
+(CA3080)
+
+with
+
+Volt.
+
+Grapns
+
+Algebra
+
+LP
+
+SUPPLIES:
+
+Control
+
+*
+
+MATHEMATICS
+
+AN-5
+
+AN-67
+
+.° Supplies gor Ve
+TPO Tar
+[ov SUPPites
+Power from Car Batteries
+
+Basic
+
+*
+
+pyperpors
+
+AN-28
+
+a Monostable
+Col. of Devices
+
+APPLICATIONS
+
+x
+
+AN-26
+
+AN-37
+AN-38
+
+AN-19
+
+Improvements
+
+Simple
+
+*
+
+erence tee brane
+
+Digital Clocking Ckts.
+More Digital Clock Ckts.
+
+Sine
+
+*
+
+Trigonometry
+
+OSCILLATORS AND CLOCKS
+Linear
+
+fe
+
+AN-40
+
+AN-25
+
+-
+
+Shifter
+
+Linear
+
+Analysis
+
+BY SUBJECT
+
+Order
+
+Low-Q
+
+Bandpass
+
+Notch
+
+NOTES
+
+Ord
+Order
+Order
+
+4th
+
+Bandpass
+
+Gain
+
+Numbers
+
+Oscillator
+
+x
+
+2nd Order
+
+High-Pass
+
+OTA
+
+Complex
+
+Shifters
+
+Triangle-Square
+Multipliers
+
+APPLICATION
+
+The
+The
+
+About
+
+Hyperbolic Functions
+Fourier Series Square Wave Example
+Low-Passed Square Wave - Time Analysis
+
+Line
+
+Eval.
+
+MISC.
+
+Testing
+
+CIRCUITS
+
+Slowly
+
+and Using
+
+Varying
+
+IC Schmitt
+Interfaces
+
+Summing
+
+CMOS
+
+AN-.
+
+Triggers
+with
+
+Amplifiers
+
+-
+
+J
+
+P
+
+AN-4
+
+AN-9
+
+Sree converters
+\
+
+LED's
+
+Signals
+
+N33
+AN-4]
+
+Me
+N-
+
+ELECTRONOTES APPLICATION NOTES #1 TO 468
+AN-1
+AN-2
+AN-3
+AN -4
+AN-5
+AN-6
+AN-7
+AN-8
+AN-9
+AN-10
+AN-11
+AN-12
+AN-13
+AN-14
+AN-15
+AN-16
+AN-17
+AN-18
+AN-19
+AN-20
+AN-21
+AN-22
+AN-23
+AN-24
+AN-25
+AN-26
+AN-27
+AN-28
+AN-29
+AN-30
+AN-31
+AN-32
+AN-33
+AN-34
+AN-35
+AN-36
+AN-37
+AN-38
+AN-39
+AN-40
+AN-4]
+AN-42
+AN-43
+AN-44
+AN-45
+AN-46
+AN-47
+AN-48
+AN-49
+AN-50
+AN-51
+AN-52
+AN-53
+AN-54
+AN-55
+AN-56
+AN-57
+AN-58
+
+Five-Volt
+
+One
+
+Amp
+
+Power
+
+Supplies
+
+for
+
+TTL
+
+Bipolar 15 Volt Supplies for Op-Amps
+Use of IC Voltage Regulators for Powering
+Testing and Using LED's and LED Readouts
+Notch Filters for Hum Rejection
+
+Using
+
+the
+
+Design
+Design
+
+Circuits
+
+IC
+
+of
+of
+
+555
+
+for
+
+Determining
+
+How
+How
+How
+How
+
+Low-Pass
+Low-Pass
+
+Detecting
+
+the
+
+"Q"
+
+Slowly
+Guide
+
+Filters
+Filters
+
+Changing
+
+Buiid
+Build
+
+Something
+Something -
+
+Build
+Build
+
+from
+
+Something Something -
+
+Part
+
+1:
+
+Parts
+
+Part
+Part
+
+3:
+4:
+
+Soldering
+Packaging
+
+Part
+
+2:
+
+Circuit
+
+and
+
+Supplies
+
+Boards
+
+Improving the Linear VCO
+Applying the CA3080 OTA
+Gain Control Apolications of the CA3080
+The CA3080 as a Voltage-Controlled Resistor
+
+Saturating,
+
+and
+
+Low-Q Bandpass Filter
+Bandpass Filter Examples
+
+Simple
+
+Simple
+Simple
+
+More
+
+Clocking
+
+Clocking
+
+The
+
+Trigger
+
+555
+
+as
+
+Switching
+
+Oscillators
+
+Op-Amp Multivibrator
+Sine-Wave Oscillator
+
+Schmitt
+
+Oscillators
+Circuits
+
+a Collection
+
+Simple Interface
+Delay Line Setup
+Delay Line Setup
+
+for
+
+of
+
+for
+
+RMS
+
+DC
+
+Converters
+
+Selecting
+
+Capacitors
+
+Summing
+to
+
+Digital
+
+in
+
+Graphical
+
+Resistors
+
+for
+
+for
+
+Determination
+
+Hard
+
+To
+
+IC's
+
+Devices
+
+Setups
+
+Given
+of
+
+Filters
+Filters
+
+Applications
+
+Given
+
+Applications
+
+Frequency
+
+Notch Filters
+for Higher Order
+
+Remember
+
+CA303890
+
+IC's
+
+Response
+
+Discrete
+
+Time
+
+Graphs for Decibels
+A Staircase lave Generation Technique
+R-Filters
+R-Filter Method of Op-Amp Frequency Response
+Algebra Tricks We Have All Forgotten
+
+Some
+
+Hints
+
+of the
+
+- s-Plane
+
+Graphical Determination of Phase Response
+Graphical Relationships in the z-Plane
+Z-Plane Graphical Relationships for First-Order Systems
+Z-Plane Graphical Relationships - A Second-Order Example
+Discrete Time All-Pass Networks
+
+Discrete Time
+Relationships
+
+Parts
+
+with CMOQS
+MN300]
+SAD-1024
+
+Example
+High-Pass
+High-Pass
+
+Amolifiers
+
+Selecting
+
+Nigital
+
+IC's
+
+Avplying Delay Line Evaluation
+High-Q Bandpass Filter
+Bandoass Filter
+of Second-Order
+of Fourth-Order
+
+Applications
+
+Oscillator
+
+with
+
+Circuits
+with the
+with the
+
+High-Q
+Design
+Design
+
+Batteries
+
+Filter
+
+How to Actually Build Something - Part 5: Miscellaneous
+Simple Linear Voltage-Controlled Oscillator
+
+Overdriven,
+
+Car
+
+Signals
+
+of a State-Variable
+
+Active Filter Circuit
+and Tone Controls
+
+Actually
+Actually
+
+Equipment
+
+a Monostable
+
+Selection
+
+to Actually
+to Actually
+
+to
+to
+
+as
+
+Second-Order
+Fourth-Order
+
+Amplifier
+
+The BIQUAD
+Equalizers
+
+Timer
+
+(1976 - 1977)
+
+Things
+
+About
+
+Filters
+
+Testing
+
+Trigonometry
+
+Case
+
+

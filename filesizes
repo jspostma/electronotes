@@ -1,0 +1,641 @@
+0	./files/appnotes/metadata.json
+0	./index/subjects/index/index-E.yaml
+0	./index/subjects/index/index-F.yaml
+0	./index/subjects/index/index-G.yaml
+0	./index/subjects/index/index-H.yaml
+0	./index/subjects/index/index-I.yaml
+0	./index/subjects/index/index-J.yaml
+0	./index/subjects/index/index-K.yaml
+0	./index/subjects/index/index-L.yaml
+0	./index/subjects/index/index-M.yaml
+0	./index/subjects/index/index-N.yaml
+0	./index/subjects/index/index-O.yaml
+0	./index/subjects/index/index-P.yaml
+0	./index/subjects/index/index-Q.yaml
+0	./index/subjects/index/index-R.yaml
+0	./index/subjects/index/index-S.yaml
+0	./index/subjects/index/index-T.yaml
+0	./index/subjects/index/index-U.yaml
+0	./index/subjects/index/index-V.yaml
+0	./index/subjects/index/index-W.yaml
+0	./index/subjects/index/index-X.yaml
+0	./index/subjects/index/index-Y.yaml
+0	./index/subjects/index/index-Z.yaml
+4.0K	./code/FSAMPLMS.M
+4.0K	./code/FSAMPWLS.M
+4.0K	./files/appnotes/AN100/metadata.yaml
+4.0K	./files/appnotes/AN101/metadata.yaml
+4.0K	./files/appnotes/AN102/metadata.yaml
+4.0K	./files/appnotes/AN103/metadata.yaml
+4.0K	./files/appnotes/AN104/metadata.yaml
+4.0K	./files/appnotes/AN105/metadata.yaml
+4.0K	./files/appnotes/AN106/metadata.yaml
+4.0K	./files/appnotes/AN107/metadata.yaml
+4.0K	./files/appnotes/AN108/metadata.yaml
+4.0K	./files/appnotes/AN109/metadata.yaml
+4.0K	./files/appnotes/AN10/metadata.yaml
+4.0K	./files/appnotes/AN110/metadata.yaml
+4.0K	./files/appnotes/AN111/metadata.yaml
+4.0K	./files/appnotes/AN112/metadata.yaml
+4.0K	./files/appnotes/AN113/metadata.yaml
+4.0K	./files/appnotes/AN114/metadata.yaml
+4.0K	./files/appnotes/AN115/metadata.yaml
+4.0K	./files/appnotes/AN116/metadata.yaml
+4.0K	./files/appnotes/AN11/metadata.yaml
+4.0K	./files/appnotes/AN121/metadata.yaml
+4.0K	./files/appnotes/AN12/metadata.yaml
+4.0K	./files/appnotes/AN13/metadata.yaml
+4.0K	./files/appnotes/AN14/metadata.yaml
+4.0K	./files/appnotes/AN15/metadata.yaml
+4.0K	./files/appnotes/AN160/metadata.yaml
+4.0K	./files/appnotes/AN167/metadata.yaml
+4.0K	./files/appnotes/AN168/metadata.yaml
+4.0K	./files/appnotes/AN169/metadata.yaml
+4.0K	./files/appnotes/AN16/metadata.yaml
+4.0K	./files/appnotes/AN170/metadata.yaml
+4.0K	./files/appnotes/AN17/metadata.yaml
+4.0K	./files/appnotes/AN18/metadata.yaml
+4.0K	./files/appnotes/AN194/metadata.yaml
+4.0K	./files/appnotes/AN19/metadata.yaml
+4.0K	./files/appnotes/AN1/metadata.yaml
+4.0K	./files/appnotes/AN200/metadata.yaml
+4.0K	./files/appnotes/AN20/metadata.yaml
+4.0K	./files/appnotes/AN21/metadata.yaml
+4.0K	./files/appnotes/AN22/metadata.yaml
+4.0K	./files/appnotes/AN23/metadata.yaml
+4.0K	./files/appnotes/AN24/metadata.yaml
+4.0K	./files/appnotes/AN256/metadata.yaml
+4.0K	./files/appnotes/AN25/metadata.yaml
+4.0K	./files/appnotes/AN26/metadata.yaml
+4.0K	./files/appnotes/AN271/metadata.yaml
+4.0K	./files/appnotes/AN27/metadata.yaml
+4.0K	./files/appnotes/AN28/metadata.yaml
+4.0K	./files/appnotes/AN29/metadata.yaml
+4.0K	./files/appnotes/AN2/metadata.yaml
+4.0K	./files/appnotes/AN30/metadata.yaml
+4.0K	./files/appnotes/AN312/metadata.yaml
+4.0K	./files/appnotes/AN317/metadata.yaml
+4.0K	./files/appnotes/AN318/metadata.yaml
+4.0K	./files/appnotes/AN31/metadata.yaml
+4.0K	./files/appnotes/AN32/metadata.yaml
+4.0K	./files/appnotes/AN333/metadata.yaml
+4.0K	./files/appnotes/AN334/metadata.yaml
+4.0K	./files/appnotes/AN335/metadata.yaml
+4.0K	./files/appnotes/AN336/metadata.yaml
+4.0K	./files/appnotes/AN337/metadata.yaml
+4.0K	./files/appnotes/AN33/metadata.yaml
+4.0K	./files/appnotes/AN345/metadata.yaml
+4.0K	./files/appnotes/AN348/metadata.yaml
+4.0K	./files/appnotes/AN349/metadata.yaml
+4.0K	./files/appnotes/AN34/metadata.yaml
+4.0K	./files/appnotes/AN350/metadata.yaml
+4.0K	./files/appnotes/AN351/metadata.yaml
+4.0K	./files/appnotes/AN352/metadata.yaml
+4.0K	./files/appnotes/AN353/metadata.yaml
+4.0K	./files/appnotes/AN354/metadata.yaml
+4.0K	./files/appnotes/AN355/metadata.yaml
+4.0K	./files/appnotes/AN356/metadata.yaml
+4.0K	./files/appnotes/AN357/metadata.yaml
+4.0K	./files/appnotes/AN358/metadata.yaml
+4.0K	./files/appnotes/AN359/metadata.yaml
+4.0K	./files/appnotes/AN35/metadata.yaml
+4.0K	./files/appnotes/AN360/metadata.yaml
+4.0K	./files/appnotes/AN361/metadata.yaml
+4.0K	./files/appnotes/AN362/metadata.yaml
+4.0K	./files/appnotes/AN363/metadata.yaml
+4.0K	./files/appnotes/AN364/metadata.yaml
+4.0K	./files/appnotes/AN365/metadata.yaml
+4.0K	./files/appnotes/AN366/metadata.yaml
+4.0K	./files/appnotes/AN367/metadata.yaml
+4.0K	./files/appnotes/AN368/metadata.yaml
+4.0K	./files/appnotes/AN369/metadata.yaml
+4.0K	./files/appnotes/AN36/metadata.yaml
+4.0K	./files/appnotes/AN370/metadata.yaml
+4.0K	./files/appnotes/AN371/metadata.yaml
+4.0K	./files/appnotes/AN372/metadata.yaml
+4.0K	./files/appnotes/AN373/metadata.yaml
+4.0K	./files/appnotes/AN374/metadata.yaml
+4.0K	./files/appnotes/AN375/metadata.yaml
+4.0K	./files/appnotes/AN376/metadata.yaml
+4.0K	./files/appnotes/AN377/metadata.yaml
+4.0K	./files/appnotes/AN378/metadata.yaml
+4.0K	./files/appnotes/AN379/metadata.yaml
+4.0K	./files/appnotes/AN37/metadata.yaml
+4.0K	./files/appnotes/AN380/metadata.yaml
+4.0K	./files/appnotes/AN381/metadata.yaml
+4.0K	./files/appnotes/AN382/metadata.yaml
+4.0K	./files/appnotes/AN383/metadata.yaml
+4.0K	./files/appnotes/AN384/metadata.yaml
+4.0K	./files/appnotes/AN385/metadata.yaml
+4.0K	./files/appnotes/AN386/metadata.yaml
+4.0K	./files/appnotes/AN387/metadata.yaml
+4.0K	./files/appnotes/AN388/metadata.yaml
+4.0K	./files/appnotes/AN389/metadata.yaml
+4.0K	./files/appnotes/AN38/metadata.yaml
+4.0K	./files/appnotes/AN390/metadata.yaml
+4.0K	./files/appnotes/AN391/metadata.yaml
+4.0K	./files/appnotes/AN392/metadata.yaml
+4.0K	./files/appnotes/AN393/metadata.yaml
+4.0K	./files/appnotes/AN394/metadata.yaml
+4.0K	./files/appnotes/AN395/metadata.yaml
+4.0K	./files/appnotes/AN396/metadata.yaml
+4.0K	./files/appnotes/AN397/metadata.yaml
+4.0K	./files/appnotes/AN398/metadata.yaml
+4.0K	./files/appnotes/AN399/metadata.yaml
+4.0K	./files/appnotes/AN39/metadata.yaml
+4.0K	./files/appnotes/AN3/metadata.yaml
+4.0K	./files/appnotes/AN400/metadata.yaml
+4.0K	./files/appnotes/AN401/metadata.yaml
+4.0K	./files/appnotes/AN402/metadata.yaml
+4.0K	./files/appnotes/AN403/metadata.yaml
+4.0K	./files/appnotes/AN404/metadata.yaml
+4.0K	./files/appnotes/AN405/metadata.yaml
+4.0K	./files/appnotes/AN406/metadata.yaml
+4.0K	./files/appnotes/AN407/metadata.yaml
+4.0K	./files/appnotes/AN408/metadata.yaml
+4.0K	./files/appnotes/AN409/metadata.yaml
+4.0K	./files/appnotes/AN40/metadata.yaml
+4.0K	./files/appnotes/AN410/metadata.yaml
+4.0K	./files/appnotes/AN411/metadata.yaml
+4.0K	./files/appnotes/AN412/metadata.yaml
+4.0K	./files/appnotes/AN413/metadata.yaml
+4.0K	./files/appnotes/AN414/metadata.yaml
+4.0K	./files/appnotes/AN415/metadata.yaml
+4.0K	./files/appnotes/AN416/metadata.yaml
+4.0K	./files/appnotes/AN417/metadata.yaml
+4.0K	./files/appnotes/AN418/metadata.yaml
+4.0K	./files/appnotes/AN419/metadata.yaml
+4.0K	./files/appnotes/AN41/metadata.yaml
+4.0K	./files/appnotes/AN420/metadata.yaml
+4.0K	./files/appnotes/AN421/metadata.yaml
+4.0K	./files/appnotes/AN422/metadata.yaml
+4.0K	./files/appnotes/AN423/metadata.yaml
+4.0K	./files/appnotes/AN424/metadata.yaml
+4.0K	./files/appnotes/AN425/metadata.yaml
+4.0K	./files/appnotes/AN426/metadata.yaml
+4.0K	./files/appnotes/AN427/metadata.yaml
+4.0K	./files/appnotes/AN428/metadata.yaml
+4.0K	./files/appnotes/AN429/metadata.yaml
+4.0K	./files/appnotes/AN42/metadata.yaml
+4.0K	./files/appnotes/AN430/metadata.yaml
+4.0K	./files/appnotes/AN431/metadata.yaml
+4.0K	./files/appnotes/AN432/metadata.yaml
+4.0K	./files/appnotes/AN43/metadata.yaml
+4.0K	./files/appnotes/AN44/metadata.yaml
+4.0K	./files/appnotes/AN45/metadata.yaml
+4.0K	./files/appnotes/AN46/metadata.yaml
+4.0K	./files/appnotes/AN47/metadata.yaml
+4.0K	./files/appnotes/AN48/metadata.yaml
+4.0K	./files/appnotes/AN49/metadata.yaml
+4.0K	./files/appnotes/AN4/metadata.yaml
+4.0K	./files/appnotes/AN50/metadata.yaml
+4.0K	./files/appnotes/AN51/metadata.yaml
+4.0K	./files/appnotes/AN52/metadata.yaml
+4.0K	./files/appnotes/AN53/metadata.yaml
+4.0K	./files/appnotes/AN54/metadata.yaml
+4.0K	./files/appnotes/AN55/metadata.yaml
+4.0K	./files/appnotes/AN56/metadata.yaml
+4.0K	./files/appnotes/AN57/metadata.yaml
+4.0K	./files/appnotes/AN58/metadata.yaml
+4.0K	./files/appnotes/AN59/metadata.yaml
+4.0K	./files/appnotes/AN5/metadata.yaml
+4.0K	./files/appnotes/AN60/metadata.yaml
+4.0K	./files/appnotes/AN61/metadata.yaml
+4.0K	./files/appnotes/AN62/metadata.yaml
+4.0K	./files/appnotes/AN63/metadata.yaml
+4.0K	./files/appnotes/AN64/metadata.yaml
+4.0K	./files/appnotes/AN65/metadata.yaml
+4.0K	./files/appnotes/AN66/metadata.yaml
+4.0K	./files/appnotes/AN67/metadata.yaml
+4.0K	./files/appnotes/AN68/metadata.yaml
+4.0K	./files/appnotes/AN69/metadata.yaml
+4.0K	./files/appnotes/AN6/metadata.yaml
+4.0K	./files/appnotes/AN70/metadata.yaml
+4.0K	./files/appnotes/AN71/metadata.yaml
+4.0K	./files/appnotes/AN72/metadata.yaml
+4.0K	./files/appnotes/AN73/metadata.yaml
+4.0K	./files/appnotes/AN74/metadata.yaml
+4.0K	./files/appnotes/AN75/metadata.yaml
+4.0K	./files/appnotes/AN76/metadata.yaml
+4.0K	./files/appnotes/AN77/metadata.yaml
+4.0K	./files/appnotes/AN78/metadata.yaml
+4.0K	./files/appnotes/AN79/metadata.yaml
+4.0K	./files/appnotes/AN7/metadata.yaml
+4.0K	./files/appnotes/AN80/metadata.yaml
+4.0K	./files/appnotes/AN81/metadata.yaml
+4.0K	./files/appnotes/AN82/metadata.yaml
+4.0K	./files/appnotes/AN83/metadata.yaml
+4.0K	./files/appnotes/AN84/metadata.yaml
+4.0K	./files/appnotes/AN85/metadata.yaml
+4.0K	./files/appnotes/AN86/metadata.yaml
+4.0K	./files/appnotes/AN87/metadata.yaml
+4.0K	./files/appnotes/AN88/metadata.yaml
+4.0K	./files/appnotes/AN89/metadata.yaml
+4.0K	./files/appnotes/AN8/metadata.yaml
+4.0K	./files/appnotes/AN90/metadata.yaml
+4.0K	./files/appnotes/AN91/metadata.yaml
+4.0K	./files/appnotes/AN92/metadata.yaml
+4.0K	./files/appnotes/AN93/metadata.yaml
+4.0K	./files/appnotes/AN94/metadata.yaml
+4.0K	./files/appnotes/AN95/metadata.yaml
+4.0K	./files/appnotes/AN96/metadata.yaml
+4.0K	./files/appnotes/AN97/metadata.yaml
+4.0K	./files/appnotes/AN98/metadata.yaml
+4.0K	./files/appnotes/AN99/metadata.yaml
+4.0K	./files/appnotes/AN9/metadata.yaml
+4.0K	./index/appnotes/AN100.yaml
+4.0K	./index/appnotes/AN101.yaml
+4.0K	./index/appnotes/AN102.yaml
+4.0K	./index/appnotes/AN103.yaml
+4.0K	./index/appnotes/AN104.yaml
+4.0K	./index/appnotes/AN105.yaml
+4.0K	./index/appnotes/AN106.yaml
+4.0K	./index/appnotes/AN107.yaml
+4.0K	./index/appnotes/AN108.yaml
+4.0K	./index/appnotes/AN109.yaml
+4.0K	./index/appnotes/AN10.yaml
+4.0K	./index/appnotes/AN110.yaml
+4.0K	./index/appnotes/AN111.yaml
+4.0K	./index/appnotes/AN112.yaml
+4.0K	./index/appnotes/AN113.yaml
+4.0K	./index/appnotes/AN114.yaml
+4.0K	./index/appnotes/AN115.yaml
+4.0K	./index/appnotes/AN116.yaml
+4.0K	./index/appnotes/AN11.yaml
+4.0K	./index/appnotes/AN121.yaml
+4.0K	./index/appnotes/AN12.yaml
+4.0K	./index/appnotes/AN13.yaml
+4.0K	./index/appnotes/AN14.yaml
+4.0K	./index/appnotes/AN15.yaml
+4.0K	./index/appnotes/AN160.yaml
+4.0K	./index/appnotes/AN167.yaml
+4.0K	./index/appnotes/AN168.yaml
+4.0K	./index/appnotes/AN169.yaml
+4.0K	./index/appnotes/AN16.yaml
+4.0K	./index/appnotes/AN170.yaml
+4.0K	./index/appnotes/AN17.yaml
+4.0K	./index/appnotes/AN18.yaml
+4.0K	./index/appnotes/AN194.yaml
+4.0K	./index/appnotes/AN19.yaml
+4.0K	./index/appnotes/AN1.yaml
+4.0K	./index/appnotes/AN200.yaml
+4.0K	./index/appnotes/AN20.yaml
+4.0K	./index/appnotes/AN21.yaml
+4.0K	./index/appnotes/AN22.yaml
+4.0K	./index/appnotes/AN23.yaml
+4.0K	./index/appnotes/AN24.yaml
+4.0K	./index/appnotes/AN256.yaml
+4.0K	./index/appnotes/AN25.yaml
+4.0K	./index/appnotes/AN26.yaml
+4.0K	./index/appnotes/AN271.yaml
+4.0K	./index/appnotes/AN27.yaml
+4.0K	./index/appnotes/AN28.yaml
+4.0K	./index/appnotes/AN29.yaml
+4.0K	./index/appnotes/AN2.yaml
+4.0K	./index/appnotes/AN30.yaml
+4.0K	./index/appnotes/AN312.yaml
+4.0K	./index/appnotes/AN317.yaml
+4.0K	./index/appnotes/AN318.yaml
+4.0K	./index/appnotes/AN31.yaml
+4.0K	./index/appnotes/AN32.yaml
+4.0K	./index/appnotes/AN333.yaml
+4.0K	./index/appnotes/AN334.yaml
+4.0K	./index/appnotes/AN335.yaml
+4.0K	./index/appnotes/AN336.yaml
+4.0K	./index/appnotes/AN337.yaml
+4.0K	./index/appnotes/AN33.yaml
+4.0K	./index/appnotes/AN345.yaml
+4.0K	./index/appnotes/AN348.yaml
+4.0K	./index/appnotes/AN349.yaml
+4.0K	./index/appnotes/AN34.yaml
+4.0K	./index/appnotes/AN350.yaml
+4.0K	./index/appnotes/AN351.yaml
+4.0K	./index/appnotes/AN352.yaml
+4.0K	./index/appnotes/AN353.yaml
+4.0K	./index/appnotes/AN354.yaml
+4.0K	./index/appnotes/AN355.yaml
+4.0K	./index/appnotes/AN356.yaml
+4.0K	./index/appnotes/AN357.yaml
+4.0K	./index/appnotes/AN358.yaml
+4.0K	./index/appnotes/AN359.yaml
+4.0K	./index/appnotes/AN35.yaml
+4.0K	./index/appnotes/AN360.yaml
+4.0K	./index/appnotes/AN361.yaml
+4.0K	./index/appnotes/AN362.yaml
+4.0K	./index/appnotes/AN363.yaml
+4.0K	./index/appnotes/AN364.yaml
+4.0K	./index/appnotes/AN365.yaml
+4.0K	./index/appnotes/AN366.yaml
+4.0K	./index/appnotes/AN367.yaml
+4.0K	./index/appnotes/AN368.yaml
+4.0K	./index/appnotes/AN369.yaml
+4.0K	./index/appnotes/AN36.yaml
+4.0K	./index/appnotes/AN370.yaml
+4.0K	./index/appnotes/AN371.yaml
+4.0K	./index/appnotes/AN372.yaml
+4.0K	./index/appnotes/AN373.yaml
+4.0K	./index/appnotes/AN374.yaml
+4.0K	./index/appnotes/AN375.yaml
+4.0K	./index/appnotes/AN376.yaml
+4.0K	./index/appnotes/AN377.yaml
+4.0K	./index/appnotes/AN378.yaml
+4.0K	./index/appnotes/AN379.yaml
+4.0K	./index/appnotes/AN37.yaml
+4.0K	./index/appnotes/AN380.yaml
+4.0K	./index/appnotes/AN381.yaml
+4.0K	./index/appnotes/AN382.yaml
+4.0K	./index/appnotes/AN383.yaml
+4.0K	./index/appnotes/AN384.yaml
+4.0K	./index/appnotes/AN385.yaml
+4.0K	./index/appnotes/AN386.yaml
+4.0K	./index/appnotes/AN387.yaml
+4.0K	./index/appnotes/AN388.yaml
+4.0K	./index/appnotes/AN389.yaml
+4.0K	./index/appnotes/AN38.yaml
+4.0K	./index/appnotes/AN390.yaml
+4.0K	./index/appnotes/AN391.yaml
+4.0K	./index/appnotes/AN392.yaml
+4.0K	./index/appnotes/AN393.yaml
+4.0K	./index/appnotes/AN394.yaml
+4.0K	./index/appnotes/AN395.yaml
+4.0K	./index/appnotes/AN396.yaml
+4.0K	./index/appnotes/AN397.yaml
+4.0K	./index/appnotes/AN398.yaml
+4.0K	./index/appnotes/AN399.yaml
+4.0K	./index/appnotes/AN39.yaml
+4.0K	./index/appnotes/AN3.yaml
+4.0K	./index/appnotes/AN400.yaml
+4.0K	./index/appnotes/AN401.yaml
+4.0K	./index/appnotes/AN402.yaml
+4.0K	./index/appnotes/AN403.yaml
+4.0K	./index/appnotes/AN404.yaml
+4.0K	./index/appnotes/AN405.yaml
+4.0K	./index/appnotes/AN406.yaml
+4.0K	./index/appnotes/AN407.yaml
+4.0K	./index/appnotes/AN408.yaml
+4.0K	./index/appnotes/AN409.yaml
+4.0K	./index/appnotes/AN40.yaml
+4.0K	./index/appnotes/AN410.yaml
+4.0K	./index/appnotes/AN411.yaml
+4.0K	./index/appnotes/AN412.yaml
+4.0K	./index/appnotes/AN413.yaml
+4.0K	./index/appnotes/AN414.yaml
+4.0K	./index/appnotes/AN415.yaml
+4.0K	./index/appnotes/AN416.yaml
+4.0K	./index/appnotes/AN417.yaml
+4.0K	./index/appnotes/AN418.yaml
+4.0K	./index/appnotes/AN419.yaml
+4.0K	./index/appnotes/AN41.yaml
+4.0K	./index/appnotes/AN420.yaml
+4.0K	./index/appnotes/AN421.yaml
+4.0K	./index/appnotes/AN422.yaml
+4.0K	./index/appnotes/AN423.yaml
+4.0K	./index/appnotes/AN424.yaml
+4.0K	./index/appnotes/AN425.yaml
+4.0K	./index/appnotes/AN426.yaml
+4.0K	./index/appnotes/AN427.yaml
+4.0K	./index/appnotes/AN428.yaml
+4.0K	./index/appnotes/AN429.yaml
+4.0K	./index/appnotes/AN42.yaml
+4.0K	./index/appnotes/AN430.yaml
+4.0K	./index/appnotes/AN431.yaml
+4.0K	./index/appnotes/AN432.yaml
+4.0K	./index/appnotes/AN43.yaml
+4.0K	./index/appnotes/AN44.yaml
+4.0K	./index/appnotes/AN45.yaml
+4.0K	./index/appnotes/AN46.yaml
+4.0K	./index/appnotes/AN47.yaml
+4.0K	./index/appnotes/AN48.yaml
+4.0K	./index/appnotes/AN49.yaml
+4.0K	./index/appnotes/AN4.yaml
+4.0K	./index/appnotes/AN50.yaml
+4.0K	./index/appnotes/AN51.yaml
+4.0K	./index/appnotes/AN52.yaml
+4.0K	./index/appnotes/AN53.yaml
+4.0K	./index/appnotes/AN54.yaml
+4.0K	./index/appnotes/AN55.yaml
+4.0K	./index/appnotes/AN56.yaml
+4.0K	./index/appnotes/AN57.yaml
+4.0K	./index/appnotes/AN58.yaml
+4.0K	./index/appnotes/AN59.yaml
+4.0K	./index/appnotes/AN5.yaml
+4.0K	./index/appnotes/AN60.yaml
+4.0K	./index/appnotes/AN61.yaml
+4.0K	./index/appnotes/AN62.yaml
+4.0K	./index/appnotes/AN63.yaml
+4.0K	./index/appnotes/AN64.yaml
+4.0K	./index/appnotes/AN65.yaml
+4.0K	./index/appnotes/AN66.yaml
+4.0K	./index/appnotes/AN67.yaml
+4.0K	./index/appnotes/AN68.yaml
+4.0K	./index/appnotes/AN69.yaml
+4.0K	./index/appnotes/AN6.yaml
+4.0K	./index/appnotes/AN70.yaml
+4.0K	./index/appnotes/AN71.yaml
+4.0K	./index/appnotes/AN72.yaml
+4.0K	./index/appnotes/AN73.yaml
+4.0K	./index/appnotes/AN74.yaml
+4.0K	./index/appnotes/AN75.yaml
+4.0K	./index/appnotes/AN76.yaml
+4.0K	./index/appnotes/AN77.yaml
+4.0K	./index/appnotes/AN78.yaml
+4.0K	./index/appnotes/AN79.yaml
+4.0K	./index/appnotes/AN7.yaml
+4.0K	./index/appnotes/AN80.yaml
+4.0K	./index/appnotes/AN81.yaml
+4.0K	./index/appnotes/AN82.yaml
+4.0K	./index/appnotes/AN83.yaml
+4.0K	./index/appnotes/AN84.yaml
+4.0K	./index/appnotes/AN85.yaml
+4.0K	./index/appnotes/AN86.yaml
+4.0K	./index/appnotes/AN87.yaml
+4.0K	./index/appnotes/AN88.yaml
+4.0K	./index/appnotes/AN89.yaml
+4.0K	./index/appnotes/AN8.yaml
+4.0K	./index/appnotes/AN90.yaml
+4.0K	./index/appnotes/AN91.yaml
+4.0K	./index/appnotes/AN92.yaml
+4.0K	./index/appnotes/AN93.yaml
+4.0K	./index/appnotes/AN94.yaml
+4.0K	./index/appnotes/AN95.yaml
+4.0K	./index/appnotes/AN96.yaml
+4.0K	./index/appnotes/AN97.yaml
+4.0K	./index/appnotes/AN98.yaml
+4.0K	./index/appnotes/AN99.yaml
+4.0K	./index/appnotes/AN9.yaml
+4.0K	./index/by-volume/volume01
+4.0K	./index/by-volume/volume02
+4.0K	./index/by-volume/volume03
+4.0K	./index/by-volume/volume04
+4.0K	./index/by-volume/volume05
+4.0K	./index/by-volume/volume06
+4.0K	./index/by-volume/volume09
+4.0K	./index/by-volume/volume10
+4.0K	./index/by-volume/volume11
+4.0K	./index/by-volume/volume12
+4.0K	./index/by-volume/volume13
+4.0K	./index/by-volume/volume14
+4.0K	./index/by-volume/volume15
+4.0K	./index/by-volume/volume16
+4.0K	./index/by-volume/volume17
+4.0K	./index/by-volume/volume18
+4.0K	./index/by-volume/volume19
+4.0K	./index/by-volume/volume20
+4.0K	./index/by-volume/volume21
+4.0K	./index/by-volume/volume22
+4.0K	./index/process.sed
+4.0K	./index/process.sh
+4.0K	./index/subjects/index/index-A.yaml
+4.0K	./index/subjects/index/index-B.yaml
+4.0K	./index/subjects/index/index-C.yaml
+4.0K	./index/subjects/index/index-D.yaml
+4.0K	./index/subjects/index-parser.py
+4.0K	./index/subjects/README.md
+4.0K	./index/vol4
+4.0K	./index/yaml/issues/template.yaml
+4.0K	./index/yaml/issues/vol_01/EN1.yaml
+4.0K	./index/yaml/issues/vol_01/EN2.yaml
+4.0K	./index/yaml/issues/vol_01/EN3.yaml
+4.0K	./index/yaml/issues/vol_01/EN4.yaml
+4.0K	./index/yaml/issues/vol_01/EN5.yaml
+4.0K	./index/yaml/issues/vol_01/EN6.yaml
+4.0K	./index/yaml/issues/vol_01/EN7.yaml
+4.0K	./index/yaml/issues/vol_01/EN8.yaml
+4.0K	./index/yaml/issues/vol_08/EN61.yaml
+4.0K	./index/yaml/issues/vol_08/EN62.yaml
+4.0K	./index/yaml/issues/vol_08/EN63.yaml
+4.0K	./index/yaml/issues/vol_08/EN64.yaml
+4.0K	./index/yaml/mmletters/mmletters.yaml
+4.0K	./logo/enlogo.pbm
+4.0K	./mmletters/70-A/metadata.yaml
+4.0K	./mmletters/72-A/metadata.yaml
+4.0K	./mmletters/73-A/metadata.yaml
+4.0K	./mmletters/74-A/metadata.yaml
+4.0K	./mmletters/75-A/metadata.yaml
+4.0K	./mmletters/76-A/metadata.yaml
+4.0K	./mmletters/77-A/metadata.yaml
+4.0K	./mmletters/78-A/metadata.yaml
+4.0K	./mmletters/79-A/metadata.yaml
+4.0K	./mmletters/80-A/metadata.yaml
+4.0K	./mmletters/81-A/metadata.yaml
+4.0K	./mmletters/82-A/metadata.yaml
+4.0K	./mmletters/83-A/metadata.yaml
+4.0K	./mmletters/84-A/metadata.yaml
+4.0K	./mmletters/85-A/metadata.yaml
+4.0K	./mmletters/86-A/metadata.yaml
+4.0K	./mmletters/87-A/metadata.yaml
+4.0K	./mmletters/88-A/metadata.yaml
+4.0K	./mmletters/89-A/metadata.yaml
+4.0K	./mmletters/90-A/metadata.yaml
+4.0K	./mmletters/91-A/metadata.yaml
+4.0K	./mmletters/92-A/metadata.yaml
+4.0K	./mmletters/93-A/metadata.yaml
+4.0K	./mmletters/94-A/metadata.yaml
+4.0K	./mmletters/95-A/metadata.yaml
+4.0K	./mmletters/96-A/metadata.yaml
+4.0K	./process.py
+4.0K	./regular issues/by-volume/08/EN61/EN61.yaml
+4.0K	./regular issues/by-volume/08/EN62/EN62.yaml
+4.0K	./regular issues/by-volume/08/EN63/EN63.yaml
+4.0K	./regular issues/by-volume/08/EN64/EN64.yaml
+4.0K	./regular issues/by-volume/09/EN73/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN74/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN75/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN76/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN77/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN78/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN79/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN80/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN81/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN82/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN83/metadata.yaml
+4.0K	./regular issues/by-volume/09/EN84/metadata.yaml
+4.0K	./regular issues/by-volume/10/300dpi-README.md
+4.0K	./regular issues/by-volume/10/600dpi-README.md
+4.0K	./regular issues/by-volume/10/EN85/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN86/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN87/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN88/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN89/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN90/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN91/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN92/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN93/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN94/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN95/metadata.yaml
+4.0K	./regular issues/by-volume/10/EN96/metadata.yaml
+4.0K	./regular issues/by-volume/10/mkpdfs.sh
+4.0K	./regular issues/by-volume/22/EN211/EN211 Corrections/CorrectedFig8.txt
+4.0K	./regular issues/by-volume/22/EN211/EN211 Corrections/polysig.txt
+4.0K	./regular issues/by-volume/mkpdfs.sh
+4.0K	./regular issues/by-volume/tiffcp.sh
+4.0K	./rename.sh
+8.0K	./app notes/scanned/appnote_list/appnote_list-ocr.txt
+8.0K	./index/appnotes.data
+8.0K	./index/appnotes.list
+8.0K	./index/appnotes.tsv
+8.0K	./index/by-volume/volume07
+8.0K	./index/by-volume/volume08
+8.0K	./index/vol10-table
+8.0K	./index/vol10-table (1)
+8.0K	./logo/enlogo.png
+8.0K	./logo/enlogo.xcf
+8.0K	./regular issues/by-volume/05/EN37/EN37TerryM_figA.png
+12K	./logo/enlogo.svg
+12K	./regular issues/by-volume/05/EN37/EN37TerryM_figB.png
+12K	./regular issues/by-volume/05/EN37/EN37TerryM_figC.png
+16K	./index/appnotes2.csv
+20K	./index/appnotes.csv
+20K	./regular issues/by-volume/05/EN37/EN37TerryM_figH.png
+32K	./EN96_index (1).csv
+32K	./EN96_index.csv
+32K	./fonts/Selectric Advocate.ttf
+32K	./index/appnotes.ods
+32K	./regular issues/by-volume/05/EN35/content/UniversalMusic/fig2.png
+36K	./regular issues/by-volume/05/EN35/content/UniversalMusic/fig1.png
+36K	./regular issues/by-volume/05/EN37/EN37TerryM_figD.png
+40K	./regular issues/by-volume/05/EN35/content/UniversalMusic/fig2.xcf
+40K	./tabledata.html
+44K	./regular issues/by-volume/05/EN37/EN37TerryM_figE.png
+48K	./files/appnotes/appnotes.json
+48K	./regular issues/by-volume/05/EN37/EN37TerryM_figG.png
+48K	./unsorted/web/free.htm
+52K	./index/Electronotes_EN_index.txt
+52K	./index/full.txt
+52K	./regular issues/by-volume/05/EN35/content/UniversalMusic/fig1.xcf
+52K	./regular issues/index.txt
+56K	./fonts/Selectric Script.ttf
+60K	./regular issues/by-volume/05/EN37/EN37TerryM_figF.png
+68K	./index/index.json
+72K	./regular issues/by-volume/08/EN61/EN61.txt
+108K	./fonts/Selectric Orator.ttf
+112K	./index/stinchombe-index.json
+292K	./https___sdiy.info_wiki_Electronotes_indices#Electronotes_Newsletter.html
+312K	./files/appnotes/AN1/AN1.pdf.~qpdf-orig
+384K	./regular issues/by-volume/05/EN35/content/UniversalMusic/Universal Music.odt
+428K	./regular issues/by-volume/10/EN89/EN89-ocr.json.gz
+496K	./regular issues/by-volume/10/EN94/EN94-ocr.json.gz
+736K	./regular issues/by-volume/22/EN205/EN205.doc
+756K	./regular issues/by-volume/09/EN84/EN84-ocr.json.gz
+776K	./regular issues/by-volume/09/EN77/EN77-ocr.json.gz
+816K	./regular issues/by-volume/10/EN87/EN87-ocr.json.gz
+828K	./regular issues/by-volume/09/EN82/EN82-ocr.json.gz
+840K	./regular issues/by-volume/09/EN83/EN83-ocr.json.gz
+868K	./regular issues/by-volume/09/EN78/EN78-ocr.json.gz
+884K	./regular issues/by-volume/10/EN92/EN92-ocr.json.gz
+920K	./regular issues/by-volume/10/EN86/EN86-ocr.json.gz
+936K	./regular issues/by-volume/09/EN75/EN75-ocr.json.gz
+940K	./regular issues/by-volume/09/EN76/EN76-ocr.json.gz
+940K	./regular issues/by-volume/10/EN85/EN85-ocr.json.gz
+940K	./regular issues/by-volume/10/EN96/EN96-ocr.json.gz
+952K	./regular issues/by-volume/10/EN95/EN95-ocr.json.gz
+956K	./regular issues/by-volume/09/EN81/EN81-ocr.json.gz
+960K	./regular issues/by-volume/09/EN79/EN79-ocr.json.gz
+1008K	./regular issues/by-volume/10/EN90/EN90-ocr.json.gz
+1.1M	./regular issues/by-volume/09/EN73/EN73-ocr.json.gz
+1.1M	./regular issues/by-volume/09/EN74/EN74-ocr.json.gz
+1.2M	./regular issues/by-volume/10/EN91/EN91-ocr.json.gz
+1.3M	./regular issues/by-volume/09/EN80/EN80-ocr.json.gz
+1.3M	./regular issues/by-volume/10/EN88/EN88-ocr.json.gz
+1.6M	./regular issues/by-volume/10/EN93/EN93-ocr.json.gz
+1.8M	./regular issues/by-volume/05/EN35/content/UniversalMusic/old/out-ocr-output-1-to-3.json

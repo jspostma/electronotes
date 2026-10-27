@@ -1,0 +1,35 @@
+type: Issue
+name: EN73
+volume: 9
+number: 73
+date: January 1977
+contents:
+    - page: 3
+      title: Reader's Questions
+    
+    - page: 7
+      title: Report on New Waveform Techniques
+      author: Ian Fritz
+    
+    - page: 11
+      title: Debouncing in Digital Keyboards
+      author: Greg Mullin
+    
+    - page: 12
+      title: Improvements to Digital Tone Generators
+      author: James Wirth
+      
+    - page: 14
+      title: Simple Bandpass Filter for Filter Bank Design
+      author: Bernie Hutchins
+      
+    - page: 19
+      title: "Record Review: \"No Pussyfooting\""
+      author: Craig Anderton
+      
+    - page: 21
+      title: Envelope Generator Employing Diode Logic
+      author: Joseph Medina
+
+      
+      
